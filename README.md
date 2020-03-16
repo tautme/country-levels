@@ -1,5 +1,5 @@
 # country-level-id
-Identify country areas using short codes
+Country Level ID for Natural Earth data
 
 
 
