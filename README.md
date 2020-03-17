@@ -37,6 +37,8 @@ Country Level ID was developed to have a standard way of referring to all kind o
 
 **[id0:GG+id0:JE](docs/channel_islands.geojson)** refers to Channel Islands.
 
+![channel_islands](docs/channel_islands.png)
+
 
 
 ### Reference
