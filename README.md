@@ -21,11 +21,11 @@ Country Level ID was developed to have a standard way of referring to all kind o
 
 ### Examples
 
-**[id0:IT](export/geojson/id0/it.geojson)** refers to Italy including islands.
+**id0:IT** refers to Italy including islands. [GeoJSON](export/geojson/id0/it.geojson)
 
 ![id0_it](docs/id0_it.png)
 
-**[id2:ITX](export/geojson/id2/itx.geojson)** refers to mainland Italy.
+**id2:ITX** refers to mainland Italy. [GeoJSON](export/geojson/id2/itx.geojson)
 
 ![id2_itx](docs/id2_itx.png)
 
@@ -35,7 +35,7 @@ Country Level ID was developed to have a standard way of referring to all kind o
 
 
 
-**[id0:GG+id0:JE](docs/channel_islands.geojson)** refers to Channel Islands.
+**id0:GG+id0:JE** refers to Channel Islands.
 
 ![channel_islands](docs/channel_islands.png)
 
@@ -71,7 +71,7 @@ The source data for each level in the Natural Earth dataset is the following:
 
 Some areas might not be described with a simple ID. For example, Channel Islands doesn't have a matching polygon in the NE dataset. These special cases can be described using the plus `+` sign. You can combine as many IDs as needed.
 
-For example **[id0:GG+id0:JE](docs/channel_islands.geojson)** refers to Channel Islands.
+For example **id0:GG+id0:JE** refers to Channel Islands.
 
 These combinations are obviously not exported to this repository, you need to combine them with your own scripts. Have a look at [docs/channel_islands.geojson](docs/channel_islands.geojson) to see how you can do it.
 
