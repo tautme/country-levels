@@ -29,6 +29,33 @@ Country Level ID was developed to have a standard way of referring to all kind o
 
 ![id2_itx](docs/id2_itx.png)
 
+**id3:US-CA** refers to the state of California, USA.
+
+### Reference
+
+Country Level IDs start with one of `id0:` `id1:` `id2:` `id3:` + a code.
+
+id0, id1, id2's code has 2 or 3 uppercase letters (ISO codes).
+
+id3's code is the country's id0 ISO code + a dash `-`  + 1-3 letters or numbers.
+
+As a special case, about 1% of id3 has an underscore + number postfix, to avoid duplicates. For example 
+
+- **id3:AU-NSW_1159313299** refers to New South Wales, Australia while
+- **id3:AU-NSW_1159313269** refers to Lord Howe Island.
+
+id0, id1, id2 have a tree-like hierarchy. You can all of it in [id012.json](export/id/id012.json)
+
+id3 contains states / provinces / counties, one layer for each country.
+
+
+
+#### Combining codes
+
+Some areas might not be described with a simple code. For example, Channel Islands doesn't have a matching polygon in the NE dataset. These cases can be described using the plus `+` sign. 
+
+For example **[id0:GG+id0:JE](docs/channel_islands.geojson)** refers to Channel Islands.
+
 
 
 ### License
