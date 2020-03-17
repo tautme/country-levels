@@ -31,9 +31,7 @@ Country Level ID was developed to have a standard way of referring to all kind o
 
 **id3:US-CA** refers to the state of California, USA. [GeoJSON](export/geojson/id3/us/ca.geojson)
 
-
-
-
+![id3_us-ca](docs/id3_us-ca.png)
 
 **id0:GG+id0:JE** refers to Channel Islands.
 
