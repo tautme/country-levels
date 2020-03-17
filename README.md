@@ -41,7 +41,7 @@ Country Level ID was developed to have a standard way of referring to all kind o
 
 
 
-### Reference
+### Specs
 
 Country Level IDs start with one of `id0:` `id1:` `id2:` `id3:` + a code.
 
