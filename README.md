@@ -19,6 +19,14 @@ Country Level ID was developed to have a standard way of referring to all kind o
 
 
 
+### Examples
+
+**id0:IT** refers to Italy, including Sardinia, Isole Pelagie, Pantelleria and Sicily.
+
+
+
+
+
 ### License
 
 The source code of this project is under MIT License.
