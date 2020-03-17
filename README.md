@@ -55,6 +55,7 @@ As a special case, about 1% of id3 has an underscore + number postfix, to avoid 
 - **id3:AU-NSW_1159313269** refers to Lord Howe Island.
 
 id0, id1, id2 have a tree-like hierarchy. You can see it in [export/id/id012.json](export/id/id012.json). This file also contains population estimates.
+
 id3 means states / provinces / counties, one layer for each country. id3 jsons are split per country, you can find them in the [export/id/id3](export/id/id3) folder.
 
 The source data for each level in the Natural Earth dataset is the following:
