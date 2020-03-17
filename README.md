@@ -51,10 +51,10 @@ id3's code is the country's id0 ISO code + a dash `-`  + 1-3 letters or numbers.
 
 As a special case, about 1% of id3 has an underscore + number postfix, to avoid duplicates. For example 
 
-- **id3:AU-NSW_1159313299** refers to New South Wales, Australia while
+- **id3:AU-NSW_1159313299** refers to New South Wales, Australia
 - **id3:AU-NSW_1159313269** refers to Lord Howe Island.
 
-id0, id1, id2 have a tree-like hierarchy. You can see it in [export/id/id012.json](export/id/id012.json). This file also contains population estimates.
+id0, id1, id2 have a tree-like hierarchy. You can see that in [export/id/id012.json](export/id/id012.json). This file also contains population estimates.
 
 id3 means states / provinces / counties, one layer for each country. id3 jsons are split per country, you can find them in the [export/id/id3](export/id/id3) folder.
 
@@ -63,7 +63,7 @@ The source data for each level in the Natural Earth dataset is the following:
 - id0: Admin 0 – Countries
 - id1: Admin 0 - Map Units
 - id2: Admin 0 - Map Subunits
-- id3: Admin 1- States, Provinces
+- id3: Admin 1 - States, Provinces
 
 
 
