@@ -29,7 +29,7 @@ Country Level ID was developed to have a standard way of referring to all kind o
 
 ![id2_itx](docs/id2_itx.png)
 
-**id3:US-CA** refers to the state of California, USA.
+**id3:US-CA** refers to the state of California, USA. [GeoJSON](export/geojson/id3/us/ca.geojson)
 
 
 
