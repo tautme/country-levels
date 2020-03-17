@@ -21,9 +21,15 @@ Country Level ID was developed to have a standard way of referring to all kind o
 
 ### Examples
 
-**[id0:IT](https://github.com/hyperknot/country-level-id/blob/master/export/geojson/id0/it.geojson)** refers to Italy, including Sardinia, Isole Pelagie, Pantelleria and Sicily.
+**[id0:IT](export/geojson/id0/it.geojson)** refers to Italy, including Sardinia, Isole Pelagie, Pantelleria and Sicily.
 
-![id0_it_resize](docs/id0_it_resize.png)
+![id0_it](docs/id0_it.png)
+
+**[id2:ITX](export/geojson/id2/itx.geojson)** refers to mainland Italy.
+
+![id2_itx](docs/id2_itx.png)
+
+
 
 ### License
 
@@ -45,4 +51,10 @@ Steps:
 2. run `./process_all.sh`
 
 If you have [direnv](https://direnv.net/) installed, the virtualenv will activate/deactivate automatically upon entering/exiting this project.
+
+
+
+---
+
+The map screenshots [© Mapbox](https://www.mapbox.com/about/maps/) [© OpenStreetMap](http://www.openstreetmap.org/copyright)
 
