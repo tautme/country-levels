@@ -21,9 +21,9 @@ Country Level ID was developed to have a standard way of referring to all kind o
 
 ### Examples
 
-**id0:IT** refers to Italy, including Sardinia, Isole Pelagie, Pantelleria and Sicily.
+**[id0:IT](https://github.com/hyperknot/country-level-id/blob/master/export/geojson/id0/it.geojson)** refers to Italy, including Sardinia, Isole Pelagie, Pantelleria and Sicily.
 
-
+<img src="docs/id0_it.jpg" width="400"> 
 
 
 
