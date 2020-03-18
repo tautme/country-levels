@@ -3,19 +3,19 @@
 
 Country Level IDs are short codes used to identify country polygons and other administrative areas in [Natural Earth](https://www.naturalearthdata.com/) datasets.
 
-This repository also contains each individual shape exported as GeoJSON files.
+This repository also contains each polygon exported as a GeoJSON file.
 
-Data licensed as public domain, code has MIT License.
+Data is licensed as public domain, code has MIT License.
 
 
 
 ### Why is it needed?
 
-I developed this library when trying to make a map from COVID-19 datasets and realized that there is no way to refer to a piece of land in a short and unique way. 
+I developed this library when trying to make a map from COVID-19 datasets and realized that there is no way to refer to a piece of land reliably.
 
-When someone refers to "Italy", does it include Sardinia? What about Sicily? Is it fun to parse "Korea, South"?
+When a dataset refers to "Italy", does it include Sicily? Is it fun to parse "Korea, South"?
 
-Country Level ID was developed to have a standard way of referring to all kind of administrative areas down to state / province / county level in all countries.
+Country Level ID was developed to have a reliable way of referring to all kinds of administrative areas down to state / province / county levels in all countries.
 
 
 
@@ -33,7 +33,7 @@ Country Level ID was developed to have a standard way of referring to all kind o
 
 ![id3_us-ca](docs/id3_us-ca.png)
 
-**id0:GG+id0:JE** refers to Channel Islands.
+**id0:GG+id0:JE** refers to the Channel Islands.
 
 ![channel_islands](docs/channel_islands.png)
 
@@ -45,9 +45,9 @@ Country Level IDs start with one of `id0:` `id1:` `id2:` `id3:` + a code.
 
 id0, id1, id2's code has 2 or 3 uppercase letters (ISO codes).
 
-id3's code is the country's id0 ISO code + a dash `-`  + 1-3 letters or numbers.
+id3's code is the country's id0 ISO code + a dash `-`  + 1-3 uppercase letters or numbers.
 
-As a special case, about 1% of id3 has an underscore + number postfix, to avoid duplicates. For example 
+As a special case, about 1% of id3 has an underscore + number postfix, to avoid duplicates. For example
 
 - **id3:AU-NSW_1159313299** refers to New South Wales, Australia
 - **id3:AU-NSW_1159313269** refers to Lord Howe Island.
@@ -69,9 +69,9 @@ The source data for each level in the Natural Earth dataset is the following:
 
 Some areas might not be described with a simple ID. For example, Channel Islands doesn't have a matching polygon in the NE dataset. These special cases can be described using the plus `+` sign. You can combine as many IDs as needed.
 
-For example **id0:GG+id0:JE** refers to Channel Islands.
+For example **id0:GG+id0:JE** refers to the Channel Islands.
 
-These combinations are obviously not exported to this repository, you need to combine them with your own scripts. Have a look at [docs/channel_islands.geojson](docs/channel_islands.geojson) to see how you can do it.
+These combinations are not exported to this repository, you need to combine them with your own scripts. Have a look at [docs/channel_islands.geojson](docs/channel_islands.geojson) to see how you can do it.
 
 
 
@@ -79,9 +79,9 @@ These combinations are obviously not exported to this repository, you need to co
 
 The source code of this project is under MIT License.
 
-Natural Earth's data is in public domain. You are free to use it in any way, including for personal, educational, and commercial purposes. [Terms of Use](https://www.naturalearthdata.com/about/terms-of-use/).
+Natural Earth's data is in the public domain. You are free to use it in any way, including for personal, educational, and commercial purposes. [Terms of Use](https://www.naturalearthdata.com/about/terms-of-use/).
 
-Everything inside `export/` folder is public domain. 
+Everything inside `export/` folder is in the public domain.
 
 
 
