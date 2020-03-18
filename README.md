@@ -79,7 +79,7 @@ These combinations are not exported to this repository, you need to combine them
 
 The source code of this project is under MIT License.
 
-Natural Earth's data is in the public domain. You are free to use it in any way, including for personal, educational, and commercial purposes. [Terms of Use](https://www.naturalearthdata.com/about/terms-of-use/).
+Natural Earth's data is in the public domain. You are free to use it in any way, including for personal, educational, and commercial purposes. Natural Earth's [Terms of Use](https://www.naturalearthdata.com/about/terms-of-use/).
 
 Everything inside `export/` folder is in the public domain.
 
