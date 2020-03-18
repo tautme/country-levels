@@ -15,7 +15,7 @@ I developed this library when trying to make a map from COVID-19 datasets and re
 
 When a dataset refers to "Italy", does it include Sicily? Is it fun to parse "Korea, South"?
 
-Country Level ID was developed to have a reliable way of referring to all kinds of administrative regions around the world. It includes state / province / county levels data in most countries.
+Country Level ID was developed to have a reliable way of referring to all kinds of administrative regions around the world. It includes state / province / county levels data for 240 countries.
 
 
 
