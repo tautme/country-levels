@@ -104,24 +104,5 @@ If you have [direnv](https://direnv.net/) installed, the virtualenv will activat
 
 ___REPLACE_TEMPLATE___
 
-- **id0:IT** [Italy](export/geojson/id0/it.geojson)          [id3 json](export/id/id3/it.json) 
-  - **id0:IT** [Italy](export/geojson/id0/it.geojson)
-    - **id2:ITD** [Sardinia](export/geojson/id2/itd.geojson)
-    - **id2:ITI** Isole Pelagie
-    - **id2:ITP** Pantelleria
-    - **id2:ITX** Italy
-    - **id2:ITY** Sicily
-
-
-
-
-
-
-
-
-
-
-
-
 
 
