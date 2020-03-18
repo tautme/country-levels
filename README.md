@@ -83,7 +83,7 @@ Natural Earth's data is in the public domain. You are free to use it in any way,
 
 Everything inside `export/` folder is in the public domain.
 
-
+The map screenshots in this readme [© Mapbox](https://www.mapbox.com/about/maps/) [© OpenStreetMap](https://openstreetmap.org/about/).
 
 ### Development
 
@@ -100,5 +100,23 @@ If you have [direnv](https://direnv.net/) installed, the virtualenv will activat
 
 ---
 
-The map screenshots [© Mapbox](https://www.mapbox.com/about/maps/) [© OpenStreetMap](http://www.openstreetmap.org/copyright)
+## Reference list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
 
