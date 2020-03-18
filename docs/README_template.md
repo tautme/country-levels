@@ -3,7 +3,7 @@
 
 Country Level IDs are short codes used to identify country polygons and other administrative regions in [Natural Earth](https://www.naturalearthdata.com/) datasets.
 
-This repository also contains each polygon exported as a GeoJSON file.
+This repository contains reference JSON files and each polygon exported as a GeoJSON file. Population data is included for country level data.
 
 Data is licensed as public domain, code has MIT License.
 
@@ -52,7 +52,7 @@ As a special case, about 1% of id3 has an underscore + number postfix, to avoid 
 - **id3:AU-NSW_1159313299** refers to New South Wales, Australia
 - **id3:AU-NSW_1159313269** refers to Lord Howe Island.
 
-id0, id1, id2 have a tree-like hierarchy. You can see that in [export/id/id012.json](export/id/id012.json). This file also contains population estimates.
+id0, id1, id2 have a tree-like hierarchy. You can see that in [export/id/id012.json](export/id/id012.json). This file also contains population data.
 
 id3 means states / provinces / counties, one layer for each country. id3 jsons are split per country, you can find them in the [export/id/id3](export/id/id3) folder.
 
