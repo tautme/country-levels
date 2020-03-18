@@ -91,7 +91,7 @@ If you would like to develop or contribute, you'll need Python 3.7+ and Node wit
 
 Steps:
 
-1. run `source prepare-virtualenv.sh`
+1. run `source prepare_virtualenv.sh`
 2. run `./process_all.sh`
 
 If you have [direnv](https://direnv.net/) installed, the virtualenv will activate/deactivate automatically upon entering/exiting this project.
@@ -100,7 +100,7 @@ If you have [direnv](https://direnv.net/) installed, the virtualenv will activat
 
 
 
-## Reference list
+## Reference tree
 
 ___REPLACE_TEMPLATE___
 
