@@ -1,4 +1,4 @@
-# Country Level ID
+# Country Levels
 Country Levels IDs are short codes based on the ISO country codes. They uniquely identify country polygons and smaller administrative regions.
 
 This repository contains GeoJSONs for each areas, with up-to-date population information.
