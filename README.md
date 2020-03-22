@@ -1,41 +1,35 @@
 # Country Level ID
-### Summary
+Country Levels IDs are short codes based on the ISO country codes. They uniquely identify country polygons and smaller administrative regions.
 
-Country Level IDs are short codes used to identify country polygons and other administrative regions in [Natural Earth](https://www.naturalearthdata.com/) datasets.
+This repository contains GeoJSONs for each areas, with up-to-date population information.
 
-This repository contains reference JSON files and each polygon exported as a GeoJSON file. 
+### [Country List](docs/country_list.md)
 
-Data is licensed as public domain, code has MIT License.
+For example, **id0:IT** refers to Italy including islands.
+
+![id0_it](docs/id0_it.png)
+
+**id2:ITX** refers to mainland Italy
+
+![id2_itx](docs/id2_itx.png)
+
+**id3:US-CA** refers to the state of California, USA.
+
+![id3_us-ca](docs/id3_us-ca.png)
+
+
+
+### [Country List](docs/country_list.md)
 
 
 
 ### Why is it needed?
 
-I developed this library when trying to make a map from COVID-19 datasets and realized that there is no way to refer to a piece of land reliably.
+I developed this library when trying to make a map from COVID-19 datasets and realized that there is no way to refer to a piece of administrative region reliably.
 
 When a dataset refers to "Italy", does it include Sicily? Is it fun to parse "Korea, South"?
 
-Country Level ID was developed to have a reliable way of referring to all kinds of administrative regions around the world. It includes state / province / county level data for 240 countries.
-
-
-
-### Examples
-
-**id0:IT** refers to Italy including islands. [GeoJSON](export/geojson/id0/it.geojson)
-
-![id0_it](docs/id0_it.png)
-
-**id2:ITX** refers to mainland Italy. [GeoJSON](export/geojson/id2/itx.geojson)
-
-![id2_itx](docs/id2_itx.png)
-
-**id3:US-CA** refers to the state of California, USA. [GeoJSON](export/geojson/id3/us/ca.geojson)
-
-![id3_us-ca](docs/id3_us-ca.png)
-
-**id0:GG+id0:JE** refers to the Channel Islands.
-
-![channel_islands](docs/channel_islands.png)
+Country Level ID was developed to have a reliable way of referring to all kinds of administrative regions around the world.
 
 
 
@@ -47,22 +41,20 @@ id0, id1, id2's code has 2 or 3 uppercase letters (ISO codes).
 
 id3's code is the country's id0 ISO code + a dash `-`  + 1-3 uppercase letters or numbers.
 
-
-
 As a special case, about 1% of id3 has an underscore + number postfix, to avoid duplicates. For example
 
-- **id3:AU-NSW_1159313299** refers to New South Wales, Australia
+- **id3:AU-NSW** refers to New South Wales, Australia
 - **id3:AU-NSW_1159313269** refers to Lord Howe Island.
 
 
 
-id0, id1, id2 have a tree-like hierarchy. You can see that in [export/id/id012.json](export/id/id012.json). 
+id0, id1, id2 have a tree-like hierarchy. You can see that in [export/id/id012.json](export/id/id012.json).
 
 Population data is included for id0, id1 and id2 levels.
 
 
 
-id3 means states / provinces / counties, a single level for each country. 
+id3 means states / provinces / counties, a single level for each country.
 
 id3 jsons are split per country, you can find them in the [export/id/id3](export/id/id3) folder.
 
@@ -83,9 +75,9 @@ Some areas might not be described with a simple ID. For example, Channel Islands
 
 For example **id0:GG+id0:JE** refers to the Channel Islands.
 
-These combinations are not exported to this repository, you need to combine them with your own scripts. Have a look at [docs/channel_islands.geojson](docs/channel_islands.geojson) to see how you can do it.
+![](docs/channel_islands.png)
 
-
+These combinations are not exported to this repository, you need to combine them with your own scripts.
 
 ### License
 
@@ -110,11 +102,5 @@ If you have [direnv](https://direnv.net/) installed, the virtualenv will activat
 
 
 
-
-
-## Reference tree
-
-___REPLACE_TEMPLATE___
-
-
+### [Country List](docs/country_list.md)
 
