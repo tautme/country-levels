@@ -3,19 +3,21 @@ Country Level IDs are short codes based on the ISO country codes. They uniquely 
 
 This repository contains GeoJSONs for each area, with up-to-date population information.
 
+For levels 0 to 3, the shapes are from Natural Earth and the population data is from Wikidata.
+
 ### [Country List](docs/country_list.md)
 
 For example, **id0:IT** refers to Italy including islands.
 
-![id0_it](docs/id0_it.png)
+![id0_it](docs/assets/id0_it.png)
 
 **id2:ITX** refers to mainland Italy
 
-![id2_itx](docs/id2_itx.png)
+![id2_itx](docs/assets/id2_itx.png)
 
 **id3:US-CA** refers to the state of California, USA.
 
-![id3_us-ca](docs/id3_us-ca.png)
+![id3_us-ca](docs/assets/id3_us-ca.png)
 
 
 
@@ -75,7 +77,7 @@ Some areas might not be described with a simple ID. For example, Channel Islands
 
 For example **id0:GG+id0:JE** refers to the Channel Islands.
 
-![](docs/channel_islands.png)
+![](docs/assets/channel_islands.png)
 
 These combinations are not exported to this repository, you need to combine them with your own scripts.
 
