@@ -1,39 +1,39 @@
 # East Timor states/provinces/counties
-Aileu     code: **id3:TL-AL**     [view](../export/geojson/medium/id3/tl/al.geojson)     
+Aileu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-AL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/al.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ainaro     code: **id3:TL-AN**     [view](../export/geojson/medium/id3/tl/an.geojson)     
+Ainaro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-AN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/an.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ambeno     code: **id3:TL-OE**     [view](../export/geojson/medium/id3/tl/oe.geojson)     
+Ambeno&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-OE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/oe.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Baucau     code: **id3:TL-BA**     [view](../export/geojson/medium/id3/tl/ba.geojson)     
+Baucau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-BA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/ba.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bobonaro     code: **id3:TL-BO**     [view](../export/geojson/medium/id3/tl/bo.geojson)     
+Bobonaro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-BO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/bo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Cova Lima     code: **id3:TL-CO**     [view](../export/geojson/medium/id3/tl/co.geojson)     
+Cova Lima&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-CO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/co.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dili     code: **id3:TL-DI**     [view](../export/geojson/medium/id3/tl/di.geojson)     
+Dili&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-DI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/di.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ermera     code: **id3:TL-ER**     [view](../export/geojson/medium/id3/tl/er.geojson)     
+Ermera&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-ER**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/er.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lautém     code: **id3:TL-LA**     [view](../export/geojson/medium/id3/tl/la.geojson)     
+Lautém&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-LA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/la.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Liquica     code: **id3:TL-LI**     [view](../export/geojson/medium/id3/tl/li.geojson)     
+Liquica&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-LI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/li.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Manatuto     code: **id3:TL-MT**     [view](../export/geojson/medium/id3/tl/mt.geojson)     
+Manatuto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-MT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/mt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Manufahi     code: **id3:TL-MF**     [view](../export/geojson/medium/id3/tl/mf.geojson)     
+Manufahi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-MF**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/mf.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Viqueque     code: **id3:TL-VI**     [view](../export/geojson/medium/id3/tl/vi.geojson)     
+Viqueque&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TL-VI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tl/vi.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

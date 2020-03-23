@@ -1,30 +1,30 @@
 # Lesotho states/provinces/counties
-Berea     code: **id3:LS-D**     [view](../export/geojson/medium/id3/ls/d.geojson)     
+Berea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LS-D**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ls/d.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Butha-Buthe     code: **id3:LS-B**     [view](../export/geojson/medium/id3/ls/b.geojson)     
+Butha-Buthe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LS-B**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ls/b.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Leribe     code: **id3:LS-C**     [view](../export/geojson/medium/id3/ls/c.geojson)     
+Leribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LS-C**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ls/c.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mafeteng     code: **id3:LS-E**     [view](../export/geojson/medium/id3/ls/e.geojson)     
+Mafeteng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LS-E**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ls/e.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Maseru     code: **id3:LS-A**     [view](../export/geojson/medium/id3/ls/a.geojson)     
+Maseru&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LS-A**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ls/a.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mohale's Hoek     code: **id3:LS-F**     [view](../export/geojson/medium/id3/ls/f.geojson)     
+Mohale's Hoek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LS-F**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ls/f.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mokhotlong     code: **id3:LS-J**     [view](../export/geojson/medium/id3/ls/j.geojson)     
+Mokhotlong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LS-J**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ls/j.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Qacha's Nek     code: **id3:LS-H**     [view](../export/geojson/medium/id3/ls/h.geojson)     
+Qacha's Nek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LS-H**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ls/h.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Quthing     code: **id3:LS-G**     [view](../export/geojson/medium/id3/ls/g.geojson)     
+Quthing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LS-G**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ls/g.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Thaba-Tseka     code: **id3:LS-K**     [view](../export/geojson/medium/id3/ls/k.geojson)     
+Thaba-Tseka&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LS-K**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ls/k.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

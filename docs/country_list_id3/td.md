@@ -1,66 +1,66 @@
 # Chad states/provinces/counties
-Barh El Gazel     code: **id3:TD-BG**     [view](../export/geojson/medium/id3/td/bg.geojson)     
+Barh El Gazel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-BG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/bg.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Batha     code: **id3:TD-BA**     [view](../export/geojson/medium/id3/td/ba.geojson)     
+Batha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-BA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/ba.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Borkou     code: **id3:TD-BO**     [view](../export/geojson/medium/id3/td/bo.geojson)     
+Borkou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-BO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/bo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chari-Baguirmi     code: **id3:TD-CB**     [view](../export/geojson/medium/id3/td/cb.geojson)     
+Chari-Baguirmi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-CB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/cb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ennedi     code: **id3:TD-EN**     [view](../export/geojson/medium/id3/td/en.geojson)     
+Ennedi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-EN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/en.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Guéra     code: **id3:TD-GR**     [view](../export/geojson/medium/id3/td/gr.geojson)     
+Guéra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-GR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/gr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hadjer-Lamis     code: **id3:TD-HL**     [view](../export/geojson/medium/id3/td/hl.geojson)     
+Hadjer-Lamis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-HL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/hl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kanem     code: **id3:TD-KA**     [view](../export/geojson/medium/id3/td/ka.geojson)     
+Kanem&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-KA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/ka.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lac     code: **id3:TD-LC**     [view](../export/geojson/medium/id3/td/lc.geojson)     
+Lac&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-LC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/lc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Logone Occidental     code: **id3:TD-LO**     [view](../export/geojson/medium/id3/td/lo.geojson)     
+Logone Occidental&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-LO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/lo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Logone Oriental     code: **id3:TD-LR**     [view](../export/geojson/medium/id3/td/lr.geojson)     
+Logone Oriental&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-LR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/lr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mandoul     code: **id3:TD-MA**     [view](../export/geojson/medium/id3/td/ma.geojson)     
+Mandoul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-MA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/ma.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mayo-Kebbi Est     code: **id3:TD-ME**     [view](../export/geojson/medium/id3/td/me.geojson)     
+Mayo-Kebbi Est&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-ME**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/me.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mayo-Kebbi Ouest     code: **id3:TD-MO**     [view](../export/geojson/medium/id3/td/mo.geojson)     
+Mayo-Kebbi Ouest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-MO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/mo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Moyen-Chari     code: **id3:TD-MC**     [view](../export/geojson/medium/id3/td/mc.geojson)     
+Moyen-Chari&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-MC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/mc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ouaddaï     code: **id3:TD-OD**     [view](../export/geojson/medium/id3/td/od.geojson)     
+Ouaddaï&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-OD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/od.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Salamat     code: **id3:TD-SA**     [view](../export/geojson/medium/id3/td/sa.geojson)     
+Salamat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-SA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/sa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sila     code: **id3:TD-SI**     [view](../export/geojson/medium/id3/td/si.geojson)     
+Sila&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-SI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/si.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tandjilé     code: **id3:TD-TA**     [view](../export/geojson/medium/id3/td/ta.geojson)     
+Tandjilé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-TA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/ta.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tibesti     code: **id3:TD-TI**     [view](../export/geojson/medium/id3/td/ti.geojson)     
+Tibesti&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-TI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/ti.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ville de N'Djamena     code: **id3:TD-ND**     [view](../export/geojson/medium/id3/td/nd.geojson)     
+Ville de N'Djamena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-ND**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/nd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Wadi Fira     code: **id3:TD-WF**     [view](../export/geojson/medium/id3/td/wf.geojson)     
+Wadi Fira&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TD-WF**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/td/wf.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

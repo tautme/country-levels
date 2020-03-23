@@ -1,33 +1,33 @@
 # Ethiopia states/provinces/counties
-Addis Ababa     code: **id3:ET-AA**     [view](../export/geojson/medium/id3/et/aa.geojson)     
+Addis Ababa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ET-AA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/et/aa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Afar     code: **id3:ET-AF**     [view](../export/geojson/medium/id3/et/af.geojson)     
+Afar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ET-AF**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/et/af.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Amhara     code: **id3:ET-AM**     [view](../export/geojson/medium/id3/et/am.geojson)     
+Amhara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ET-AM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/et/am.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Benshangul-Gumaz     code: **id3:ET-BE**     [view](../export/geojson/medium/id3/et/be.geojson)     
+Benshangul-Gumaz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ET-BE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/et/be.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dire Dawa     code: **id3:ET-DD**     [view](../export/geojson/medium/id3/et/dd.geojson)     
+Dire Dawa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ET-DD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/et/dd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gambela Peoples     code: **id3:ET-GA**     [view](../export/geojson/medium/id3/et/ga.geojson)     
+Gambela Peoples&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ET-GA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/et/ga.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Harari People     code: **id3:ET-HA**     [view](../export/geojson/medium/id3/et/ha.geojson)     
+Harari People&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ET-HA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/et/ha.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Oromiya     code: **id3:ET-OR**     [view](../export/geojson/medium/id3/et/or.geojson)     
+Oromiya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ET-OR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/et/or.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Somali     code: **id3:ET-SO**     [view](../export/geojson/medium/id3/et/so.geojson)     
+Somali&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ET-SO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/et/so.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Southern Nations, Nationalities and Peoples     code: **id3:ET-SN**     [view](../export/geojson/medium/id3/et/sn.geojson)     
+Southern Nations, Nationalities and Peoples&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ET-SN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/et/sn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tigray     code: **id3:ET-TI**     [view](../export/geojson/medium/id3/et/ti.geojson)     
+Tigray&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ET-TI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/et/ti.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

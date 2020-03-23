@@ -1,66 +1,66 @@
 # Guatemala states/provinces/counties
-Alta Verapaz     code: **id3:GT-AV**     [view](../export/geojson/medium/id3/gt/av.geojson)     
+Alta Verapaz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-AV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/av.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Baja Verapaz     code: **id3:GT-BV**     [view](../export/geojson/medium/id3/gt/bv.geojson)     
+Baja Verapaz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-BV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/bv.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chimaltenango     code: **id3:GT-CM**     [view](../export/geojson/medium/id3/gt/cm.geojson)     
+Chimaltenango&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-CM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/cm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chiquimula     code: **id3:GT-CQ**     [view](../export/geojson/medium/id3/gt/cq.geojson)     
+Chiquimula&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-CQ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/cq.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-El Progreso     code: **id3:GT-PR**     [view](../export/geojson/medium/id3/gt/pr.geojson)     
+El Progreso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-PR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/pr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Escuintla     code: **id3:GT-ES**     [view](../export/geojson/medium/id3/gt/es.geojson)     
+Escuintla&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-ES**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/es.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Guatemala     code: **id3:GT-GU**     [view](../export/geojson/medium/id3/gt/gu.geojson)     
+Guatemala&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-GU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/gu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Huehuetenango     code: **id3:GT-HU**     [view](../export/geojson/medium/id3/gt/hu.geojson)     
+Huehuetenango&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-HU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/hu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Izabal     code: **id3:GT-IZ**     [view](../export/geojson/medium/id3/gt/iz.geojson)     
+Izabal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-IZ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/iz.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jalapa     code: **id3:GT-JA**     [view](../export/geojson/medium/id3/gt/ja.geojson)     
+Jalapa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-JA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/ja.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jutiapa     code: **id3:GT-JU**     [view](../export/geojson/medium/id3/gt/ju.geojson)     
+Jutiapa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-JU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/ju.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Petén     code: **id3:GT-PE**     [view](../export/geojson/medium/id3/gt/pe.geojson)     
+Petén&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-PE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/pe.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Quezaltenango     code: **id3:GT-QZ**     [view](../export/geojson/medium/id3/gt/qz.geojson)     
+Quezaltenango&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-QZ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/qz.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Quiché     code: **id3:GT-QC**     [view](../export/geojson/medium/id3/gt/qc.geojson)     
+Quiché&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-QC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/qc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Retalhuleu     code: **id3:GT-RE**     [view](../export/geojson/medium/id3/gt/re.geojson)     
+Retalhuleu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-RE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/re.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sacatepéquez     code: **id3:GT-SA**     [view](../export/geojson/medium/id3/gt/sa.geojson)     
+Sacatepéquez&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-SA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/sa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-San Marcos     code: **id3:GT-SM**     [view](../export/geojson/medium/id3/gt/sm.geojson)     
+San Marcos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-SM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/sm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Santa Rosa     code: **id3:GT-SR**     [view](../export/geojson/medium/id3/gt/sr.geojson)     
+Santa Rosa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-SR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/sr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sololá     code: **id3:GT-SO**     [view](../export/geojson/medium/id3/gt/so.geojson)     
+Sololá&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-SO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/so.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Suchitepéquez     code: **id3:GT-SU**     [view](../export/geojson/medium/id3/gt/su.geojson)     
+Suchitepéquez&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-SU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/su.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Totonicapán     code: **id3:GT-TO**     [view](../export/geojson/medium/id3/gt/to.geojson)     
+Totonicapán&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-TO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/to.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Zacapa     code: **id3:GT-ZA**     [view](../export/geojson/medium/id3/gt/za.geojson)     
+Zacapa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GT-ZA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gt/za.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

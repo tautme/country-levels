@@ -1,24 +1,24 @@
 # Slovakia states/provinces/counties
-Banskobystrický     code: **id3:SK-BC**     [view](../export/geojson/medium/id3/sk/bc.geojson)     
+Banskobystrický&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SK-BC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sk/bc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bratislavský     code: **id3:SK-BL**     [view](../export/geojson/medium/id3/sk/bl.geojson)     
+Bratislavský&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SK-BL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sk/bl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Košický     code: **id3:SK-KI**     [view](../export/geojson/medium/id3/sk/ki.geojson)     
+Košický&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SK-KI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sk/ki.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nitriansky     code: **id3:SK-NI**     [view](../export/geojson/medium/id3/sk/ni.geojson)     
+Nitriansky&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SK-NI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sk/ni.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Prešov     code: **id3:SK-PV**     [view](../export/geojson/medium/id3/sk/pv.geojson)     
+Prešov&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SK-PV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sk/pv.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Trenciansky     code: **id3:SK-TC**     [view](../export/geojson/medium/id3/sk/tc.geojson)     
+Trenciansky&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SK-TC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sk/tc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Trnavský     code: **id3:SK-TA**     [view](../export/geojson/medium/id3/sk/ta.geojson)     
+Trnavský&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SK-TA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sk/ta.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Žilinský     code: **id3:SK-ZI**     [view](../export/geojson/medium/id3/sk/zi.geojson)     
+Žilinský&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SK-ZI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sk/zi.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

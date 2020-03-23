@@ -1,42 +1,42 @@
 # Uzbekistan states/provinces/counties
-Andijon     code: **id3:UZ-AN**     [view](../export/geojson/medium/id3/uz/an.geojson)     
+Andijon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-AN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/an.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bukhoro     code: **id3:UZ-BU**     [view](../export/geojson/medium/id3/uz/bu.geojson)     
+Bukhoro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-BU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/bu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ferghana     code: **id3:UZ-FA**     [view](../export/geojson/medium/id3/uz/fa.geojson)     
+Ferghana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-FA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/fa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jizzakh     code: **id3:UZ-JI**     [view](../export/geojson/medium/id3/uz/ji.geojson)     
+Jizzakh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-JI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/ji.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Karakalpakstan     code: **id3:UZ-QR**     [view](../export/geojson/medium/id3/uz/qr.geojson)     
+Karakalpakstan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-QR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/qr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kashkadarya     code: **id3:UZ-QA**     [view](../export/geojson/medium/id3/uz/qa.geojson)     
+Kashkadarya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-QA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/qa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Khorezm     code: **id3:UZ-XO**     [view](../export/geojson/medium/id3/uz/xo.geojson)     
+Khorezm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-XO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/xo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Namangan     code: **id3:UZ-NG**     [view](../export/geojson/medium/id3/uz/ng.geojson)     
+Namangan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-NG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/ng.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Navoi     code: **id3:UZ-NW**     [view](../export/geojson/medium/id3/uz/nw.geojson)     
+Navoi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-NW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/nw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Samarkand     code: **id3:UZ-SA**     [view](../export/geojson/medium/id3/uz/sa.geojson)     
+Samarkand&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-SA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/sa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sirdaryo     code: **id3:UZ-SI**     [view](../export/geojson/medium/id3/uz/si.geojson)     
+Sirdaryo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-SI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/si.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Surkhandarya     code: **id3:UZ-SU**     [view](../export/geojson/medium/id3/uz/su.geojson)     
+Surkhandarya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-SU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/su.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tashkent     code: **id3:UZ-TK**     [view](../export/geojson/medium/id3/uz/tk.geojson)     
+Tashkent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-TK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/tk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tashkent     code: **id3:UZ-TO**     [view](../export/geojson/medium/id3/uz/to.geojson)     
+Tashkent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UZ-TO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uz/to.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

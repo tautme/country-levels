@@ -1,33 +1,33 @@
 # Democratic Republic of the Congo states/provinces/counties
-Bandundu     code: **id3:CD-BN**     [view](../export/geojson/medium/id3/cd/bn.geojson)     
+Bandundu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CD-BN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cd/bn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bas-Congo     code: **id3:CD-BC**     [view](../export/geojson/medium/id3/cd/bc.geojson)     
+Bas-Congo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CD-BC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cd/bc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kasaï-Occidental     code: **id3:CD-KW**     [view](../export/geojson/medium/id3/cd/kw.geojson)     
+Kasaï-Occidental&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CD-KW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cd/kw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kasaï-Oriental     code: **id3:CD-KE**     [view](../export/geojson/medium/id3/cd/ke.geojson)     
+Kasaï-Oriental&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CD-KE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cd/ke.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Katanga     code: **id3:CD-KA**     [view](../export/geojson/medium/id3/cd/ka.geojson)     
+Katanga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CD-KA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cd/ka.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kinshasa City     code: **id3:CD-KN**     [view](../export/geojson/medium/id3/cd/kn.geojson)     
+Kinshasa City&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CD-KN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cd/kn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Maniema     code: **id3:CD-MA**     [view](../export/geojson/medium/id3/cd/ma.geojson)     
+Maniema&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CD-MA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cd/ma.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nord-Kivu     code: **id3:CD-NK**     [view](../export/geojson/medium/id3/cd/nk.geojson)     
+Nord-Kivu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CD-NK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cd/nk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Orientale     code: **id3:CD-OR**     [view](../export/geojson/medium/id3/cd/or.geojson)     
+Orientale&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CD-OR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cd/or.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sud-Kivu     code: **id3:CD-SK**     [view](../export/geojson/medium/id3/cd/sk.geojson)     
+Sud-Kivu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CD-SK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cd/sk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Équateur     code: **id3:CD-EQ**     [view](../export/geojson/medium/id3/cd/eq.geojson)     
+Équateur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CD-EQ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cd/eq.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

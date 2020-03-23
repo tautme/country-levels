@@ -1,33 +1,33 @@
 # Cook Islands states/provinces/counties
-Aitutaki     code: **id3:CK-X02**     [view](../export/geojson/medium/id3/ck/x02.geojson)     
+Aitutaki&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CK-X02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ck/x02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Atiu     code: **id3:CK-X01**     [view](../export/geojson/medium/id3/ck/x01.geojson)     
+Atiu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CK-X01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ck/x01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mangaia     code: **id3:CK-X03**     [view](../export/geojson/medium/id3/ck/x03.geojson)     
+Mangaia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CK-X03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ck/x03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Manihiki     code: **id3:CK-X10**     [view](../export/geojson/medium/id3/ck/x10.geojson)     
+Manihiki&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CK-X10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ck/x10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mauke     code: **id3:CK-X06**     [view](../export/geojson/medium/id3/ck/x06.geojson)     
+Mauke&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CK-X06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ck/x06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mitiaro     code: **id3:CK-X05**     [view](../export/geojson/medium/id3/ck/x05.geojson)     
+Mitiaro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CK-X05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ck/x05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Palmerston     code: **id3:CK-X07**     [view](../export/geojson/medium/id3/ck/x07.geojson)     
+Palmerston&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CK-X07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ck/x07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Penrhyn     code: **id3:CK-X11**     [view](../export/geojson/medium/id3/ck/x11.geojson)     
+Penrhyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CK-X11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ck/x11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pukapuka     code: **id3:CK-X08**     [view](../export/geojson/medium/id3/ck/x08.geojson)     
+Pukapuka&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CK-X08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ck/x08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rakahanga     code: **id3:CK-X09**     [view](../export/geojson/medium/id3/ck/x09.geojson)     
+Rakahanga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CK-X09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ck/x09.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rarotonga     code: **id3:CK-X04**     [view](../export/geojson/medium/id3/ck/x04.geojson)     
+Rarotonga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CK-X04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ck/x04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

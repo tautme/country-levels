@@ -1,48 +1,48 @@
 # Kazakhstan states/provinces/counties
-Almaty     code: **id3:KZ-ALM**     [view](../export/geojson/medium/id3/kz/alm.geojson)     
+Almaty&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-ALM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/alm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Almaty City     code: **id3:KZ-ALA**     [view](../export/geojson/medium/id3/kz/ala.geojson)     
+Almaty City&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-ALA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/ala.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Aqmola     code: **id3:KZ-AKM**     [view](../export/geojson/medium/id3/kz/akm.geojson)     
+Aqmola&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-AKM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/akm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Aqtöbe     code: **id3:KZ-AKT**     [view](../export/geojson/medium/id3/kz/akt.geojson)     
+Aqtöbe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-AKT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/akt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Astana     code: **id3:KZ-AST**     [view](../export/geojson/medium/id3/kz/ast.geojson)     
+Astana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-AST**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/ast.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Atyrau     code: **id3:KZ-ATY**     [view](../export/geojson/medium/id3/kz/aty.geojson)     
+Atyrau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-ATY**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/aty.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-East Kazakhstan     code: **id3:KZ-VOS**     [view](../export/geojson/medium/id3/kz/vos.geojson)     
+East Kazakhstan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-VOS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/vos.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mangghystau     code: **id3:KZ-MAN**     [view](../export/geojson/medium/id3/kz/man.geojson)     
+Mangghystau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-MAN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/man.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North Kazakhstan     code: **id3:KZ-SEV**     [view](../export/geojson/medium/id3/kz/sev.geojson)     
+North Kazakhstan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-SEV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/sev.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pavlodar     code: **id3:KZ-PAV**     [view](../export/geojson/medium/id3/kz/pav.geojson)     
+Pavlodar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-PAV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/pav.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Qaraghandy     code: **id3:KZ-KAR**     [view](../export/geojson/medium/id3/kz/kar.geojson)     
+Qaraghandy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-KAR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/kar.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Qostanay     code: **id3:KZ-KUS**     [view](../export/geojson/medium/id3/kz/kus.geojson)     
+Qostanay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-KUS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/kus.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Qyzylorda     code: **id3:KZ-KZY**     [view](../export/geojson/medium/id3/kz/kzy.geojson)     
+Qyzylorda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-KZY**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/kzy.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-South Kazakhstan     code: **id3:KZ-YUZ**     [view](../export/geojson/medium/id3/kz/yuz.geojson)     
+South Kazakhstan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-YUZ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/yuz.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-West Kazakhstan     code: **id3:KZ-ZAP**     [view](../export/geojson/medium/id3/kz/zap.geojson)     
+West Kazakhstan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-ZAP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/zap.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Zhambyl     code: **id3:KZ-ZHA**     [view](../export/geojson/medium/id3/kz/zha.geojson)     
+Zhambyl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KZ-ZHA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kz/zha.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

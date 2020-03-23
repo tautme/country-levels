@@ -1,3 +1,3 @@
 # Guam states/provinces/counties
-Guam     code: **id3:GU-GU**     [view](../export/geojson/medium/id3/gu/gu.geojson)     
+Guam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GU-GU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gu/gu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

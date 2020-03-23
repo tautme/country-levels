@@ -1,27 +1,27 @@
 # South Africa states/provinces/counties
-Eastern Cape     code: **id3:ZA-EC**     [view](../export/geojson/medium/id3/za/ec.geojson)     
+Eastern Cape&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZA-EC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/za/ec.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Free State     code: **id3:ZA-FS**     [view](../export/geojson/medium/id3/za/fs.geojson)     
+Free State&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZA-FS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/za/fs.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gauteng     code: **id3:ZA-GP**     [view](../export/geojson/medium/id3/za/gp.geojson)     
+Gauteng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZA-GP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/za/gp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-KwaZulu-Natal     code: **id3:ZA-KZN**     [view](../export/geojson/medium/id3/za/kzn.geojson)     
+KwaZulu-Natal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZA-KZN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/za/kzn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Limpopo     code: **id3:ZA-LP**     [view](../export/geojson/medium/id3/za/lp.geojson)     
+Limpopo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZA-LP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/za/lp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mpumalanga     code: **id3:ZA-MP**     [view](../export/geojson/medium/id3/za/mp.geojson)     
+Mpumalanga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZA-MP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/za/mp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North West     code: **id3:ZA-NW**     [view](../export/geojson/medium/id3/za/nw.geojson)     
+North West&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZA-NW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/za/nw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Northern Cape     code: **id3:ZA-NC**     [view](../export/geojson/medium/id3/za/nc.geojson)     
+Northern Cape&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZA-NC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/za/nc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western Cape     code: **id3:ZA-WC**     [view](../export/geojson/medium/id3/za/wc.geojson)     
+Western Cape&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZA-WC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/za/wc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

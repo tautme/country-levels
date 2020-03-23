@@ -1,51 +1,51 @@
 # Sudan states/provinces/counties
-Blue Nile     code: **id3:SD-NB**     [view](../export/geojson/medium/id3/sd/nb.geojson)     
+Blue Nile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-NB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/nb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Central Darfur     code: **id3:SD-DC**     [view](../export/geojson/medium/id3/sd/dc.geojson)     
+Central Darfur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-DC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/dc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Eastern Darfur     code: **id3:SD-DE**     [view](../export/geojson/medium/id3/sd/de.geojson)     
+Eastern Darfur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-DE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/de.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gedarif     code: **id3:SD-GD**     [view](../export/geojson/medium/id3/sd/gd.geojson)     
+Gedarif&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-GD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/gd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gezira     code: **id3:SD-GZ**     [view](../export/geojson/medium/id3/sd/gz.geojson)     
+Gezira&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-GZ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/gz.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kassala     code: **id3:SD-KA**     [view](../export/geojson/medium/id3/sd/ka.geojson)     
+Kassala&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-KA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/ka.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Khartoum     code: **id3:SD-KH**     [view](../export/geojson/medium/id3/sd/kh.geojson)     
+Khartoum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-KH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/kh.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North Darfur     code: **id3:SD-DN**     [view](../export/geojson/medium/id3/sd/dn.geojson)     
+North Darfur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-DN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/dn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North Kordufan     code: **id3:SD-KN**     [view](../export/geojson/medium/id3/sd/kn.geojson)     
+North Kordufan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-KN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/kn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Northern     code: **id3:SD-NO**     [view](../export/geojson/medium/id3/sd/no.geojson)     
+Northern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-NO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/no.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Red Sea     code: **id3:SD-RS**     [view](../export/geojson/medium/id3/sd/rs.geojson)     
+Red Sea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-RS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/rs.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-River Nile     code: **id3:SD-NR**     [view](../export/geojson/medium/id3/sd/nr.geojson)     
+River Nile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-NR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/nr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sennar     code: **id3:SD-SI**     [view](../export/geojson/medium/id3/sd/si.geojson)     
+Sennar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-SI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/si.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-South Kordufan     code: **id3:SD-KS**     [view](../export/geojson/medium/id3/sd/ks.geojson)     
+South Kordufan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-KS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/ks.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Southern Darfur     code: **id3:SD-DS**     [view](../export/geojson/medium/id3/sd/ds.geojson)     
+Southern Darfur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-DS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/ds.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western Darfur     code: **id3:SD-DW**     [view](../export/geojson/medium/id3/sd/dw.geojson)     
+Western Darfur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-DW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/dw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-White Nile     code: **id3:SD-NW**     [view](../export/geojson/medium/id3/sd/nw.geojson)     
+White Nile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SD-NW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sd/nw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

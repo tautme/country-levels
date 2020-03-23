@@ -1,54 +1,54 @@
 # Hong Kong S.A.R. states/provinces/counties
-Central and Western     code: **id3:HK-X01**     [view](../export/geojson/medium/id3/hk/x01.geojson)     
+Central and Western&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Eastern     code: **id3:HK-X03**     [view](../export/geojson/medium/id3/hk/x03.geojson)     
+Eastern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Islands     code: **id3:HK-X18**     [view](../export/geojson/medium/id3/hk/x18.geojson)     
+Islands&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X18**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x18.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kowloon City     code: **id3:HK-X06**     [view](../export/geojson/medium/id3/hk/x06.geojson)     
+Kowloon City&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kwai Tsing     code: **id3:HK-X12**     [view](../export/geojson/medium/id3/hk/x12.geojson)     
+Kwai Tsing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x12.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kwun Tong     code: **id3:HK-X09**     [view](../export/geojson/medium/id3/hk/x09.geojson)     
+Kwun Tong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x09.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North     code: **id3:HK-X16**     [view](../export/geojson/medium/id3/hk/x16.geojson)     
+North&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X16**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x16.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sai Kung     code: **id3:HK-X10**     [view](../export/geojson/medium/id3/hk/x10.geojson)     
+Sai Kung&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sha Tin     code: **id3:HK-X11**     [view](../export/geojson/medium/id3/hk/x11.geojson)     
+Sha Tin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sham Shui Po     code: **id3:HK-X07**     [view](../export/geojson/medium/id3/hk/x07.geojson)     
+Sham Shui Po&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Southern     code: **id3:HK-X04**     [view](../export/geojson/medium/id3/hk/x04.geojson)     
+Southern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tai Po     code: **id3:HK-X17**     [view](../export/geojson/medium/id3/hk/x17.geojson)     
+Tai Po&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X17**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x17.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tsuen Wan     code: **id3:HK-X13**     [view](../export/geojson/medium/id3/hk/x13.geojson)     
+Tsuen Wan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X13**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x13.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tuen Mun     code: **id3:HK-X14**     [view](../export/geojson/medium/id3/hk/x14.geojson)     
+Tuen Mun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X14**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x14.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Wan Chai     code: **id3:HK-X02**     [view](../export/geojson/medium/id3/hk/x02.geojson)     
+Wan Chai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Wong Tai Sin     code: **id3:HK-X08**     [view](../export/geojson/medium/id3/hk/x08.geojson)     
+Wong Tai Sin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Yau Tsim Mong     code: **id3:HK-X05**     [view](../export/geojson/medium/id3/hk/x05.geojson)     
+Yau Tsim Mong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Yuen Long     code: **id3:HK-X15**     [view](../export/geojson/medium/id3/hk/x15.geojson)     
+Yuen Long&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HK-X15**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hk/x15.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

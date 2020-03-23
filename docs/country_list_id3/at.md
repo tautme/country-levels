@@ -1,27 +1,27 @@
 # Austria states/provinces/counties
-Burgenland     code: **id3:AT-1**     [view](../export/geojson/medium/id3/at/1.geojson)     
+Burgenland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AT-1**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/at/1.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kärnten     code: **id3:AT-2**     [view](../export/geojson/medium/id3/at/2.geojson)     
+Kärnten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AT-2**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/at/2.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Niederösterreich     code: **id3:AT-3**     [view](../export/geojson/medium/id3/at/3.geojson)     
+Niederösterreich&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AT-3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/at/3.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Oberösterreich     code: **id3:AT-4**     [view](../export/geojson/medium/id3/at/4.geojson)     
+Oberösterreich&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AT-4**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/at/4.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Salzburg     code: **id3:AT-5**     [view](../export/geojson/medium/id3/at/5.geojson)     
+Salzburg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AT-5**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/at/5.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Steiermark     code: **id3:AT-6**     [view](../export/geojson/medium/id3/at/6.geojson)     
+Steiermark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AT-6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/at/6.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tirol     code: **id3:AT-7**     [view](../export/geojson/medium/id3/at/7.geojson)     
+Tirol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AT-7**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/at/7.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vorarlberg     code: **id3:AT-8**     [view](../export/geojson/medium/id3/at/8.geojson)     
+Vorarlberg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AT-8**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/at/8.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Wien     code: **id3:AT-9**     [view](../export/geojson/medium/id3/at/9.geojson)     
+Wien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AT-9**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/at/9.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

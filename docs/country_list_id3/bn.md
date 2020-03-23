@@ -1,12 +1,12 @@
 # Brunei states/provinces/counties
-Belait     code: **id3:BN-BE**     [view](../export/geojson/medium/id3/bn/be.geojson)     
+Belait&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BN-BE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bn/be.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Brunei and Muara     code: **id3:BN-BM**     [view](../export/geojson/medium/id3/bn/bm.geojson)     
+Brunei and Muara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BN-BM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bn/bm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Temburong     code: **id3:BN-TE**     [view](../export/geojson/medium/id3/bn/te.geojson)     
+Temburong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BN-TE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bn/te.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tutong     code: **id3:BN-TU**     [view](../export/geojson/medium/id3/bn/tu.geojson)     
+Tutong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BN-TU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bn/tu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

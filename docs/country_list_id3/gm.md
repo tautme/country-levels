@@ -1,18 +1,18 @@
 # Gambia states/provinces/counties
-Banjul     code: **id3:GM-B**     [view](../export/geojson/medium/id3/gm/b.geojson)     
+Banjul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GM-B**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gm/b.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Central River     code: **id3:GM-M**     [view](../export/geojson/medium/id3/gm/m.geojson)     
+Central River&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GM-M**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gm/m.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lower River     code: **id3:GM-L**     [view](../export/geojson/medium/id3/gm/l.geojson)     
+Lower River&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GM-L**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gm/l.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North Bank     code: **id3:GM-N**     [view](../export/geojson/medium/id3/gm/n.geojson)     
+North Bank&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GM-N**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gm/n.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Upper River     code: **id3:GM-U**     [view](../export/geojson/medium/id3/gm/u.geojson)     
+Upper River&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GM-U**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gm/u.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-West Coast     code: **id3:GM-W**     [view](../export/geojson/medium/id3/gm/w.geojson)     
+West Coast&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GM-W**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gm/w.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

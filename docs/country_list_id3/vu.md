@@ -1,18 +1,18 @@
 # Vanuatu states/provinces/counties
-Malampa     code: **id3:VU-MAP**     [view](../export/geojson/medium/id3/vu/map.geojson)     
+Malampa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:VU-MAP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/vu/map.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Penama     code: **id3:VU-PAM**     [view](../export/geojson/medium/id3/vu/pam.geojson)     
+Penama&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:VU-PAM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/vu/pam.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sanma     code: **id3:VU-SAM**     [view](../export/geojson/medium/id3/vu/sam.geojson)     
+Sanma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:VU-SAM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/vu/sam.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Shefa     code: **id3:VU-SEE**     [view](../export/geojson/medium/id3/vu/see.geojson)     
+Shefa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:VU-SEE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/vu/see.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tafea     code: **id3:VU-TAE**     [view](../export/geojson/medium/id3/vu/tae.geojson)     
+Tafea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:VU-TAE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/vu/tae.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Torba     code: **id3:VU-TOB**     [view](../export/geojson/medium/id3/vu/tob.geojson)     
+Torba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:VU-TOB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/vu/tob.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

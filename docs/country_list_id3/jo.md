@@ -1,36 +1,36 @@
 # Jordan states/provinces/counties
-Ajlun     code: **id3:JO-AJ**     [view](../export/geojson/medium/id3/jo/aj.geojson)     
+Ajlun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-AJ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/aj.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Amman     code: **id3:JO-AM**     [view](../export/geojson/medium/id3/jo/am.geojson)     
+Amman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-AM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/am.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Aqaba     code: **id3:JO-AQ**     [view](../export/geojson/medium/id3/jo/aq.geojson)     
+Aqaba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-AQ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/aq.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Balqa     code: **id3:JO-BA**     [view](../export/geojson/medium/id3/jo/ba.geojson)     
+Balqa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-BA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/ba.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Irbid     code: **id3:JO-IR**     [view](../export/geojson/medium/id3/jo/ir.geojson)     
+Irbid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-IR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/ir.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jarash     code: **id3:JO-JA**     [view](../export/geojson/medium/id3/jo/ja.geojson)     
+Jarash&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-JA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/ja.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Karak     code: **id3:JO-KA**     [view](../export/geojson/medium/id3/jo/ka.geojson)     
+Karak&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-KA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/ka.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ma`an     code: **id3:JO-MN**     [view](../export/geojson/medium/id3/jo/mn.geojson)     
+Ma`an&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-MN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/mn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Madaba     code: **id3:JO-MD**     [view](../export/geojson/medium/id3/jo/md.geojson)     
+Madaba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-MD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/md.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mafraq     code: **id3:JO-MA**     [view](../export/geojson/medium/id3/jo/ma.geojson)     
+Mafraq&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-MA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/ma.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tafilah     code: **id3:JO-AT**     [view](../export/geojson/medium/id3/jo/at.geojson)     
+Tafilah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-AT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/at.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Zarqa     code: **id3:JO-AZ**     [view](../export/geojson/medium/id3/jo/az.geojson)     
+Zarqa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JO-AZ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jo/az.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

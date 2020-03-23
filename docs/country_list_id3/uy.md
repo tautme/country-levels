@@ -1,57 +1,57 @@
 # Uruguay states/provinces/counties
-Artigas     code: **id3:UY-AR**     [view](../export/geojson/medium/id3/uy/ar.geojson)     
+Artigas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-AR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/ar.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Canelones     code: **id3:UY-CA**     [view](../export/geojson/medium/id3/uy/ca.geojson)     
+Canelones&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-CA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/ca.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Cerro Largo     code: **id3:UY-CL**     [view](../export/geojson/medium/id3/uy/cl.geojson)     
+Cerro Largo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-CL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/cl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Colonia     code: **id3:UY-CO**     [view](../export/geojson/medium/id3/uy/co.geojson)     
+Colonia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-CO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/co.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Durazno     code: **id3:UY-DU**     [view](../export/geojson/medium/id3/uy/du.geojson)     
+Durazno&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-DU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/du.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Flores     code: **id3:UY-FS**     [view](../export/geojson/medium/id3/uy/fs.geojson)     
+Flores&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-FS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/fs.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Florida     code: **id3:UY-FD**     [view](../export/geojson/medium/id3/uy/fd.geojson)     
+Florida&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-FD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/fd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lavalleja     code: **id3:UY-LA**     [view](../export/geojson/medium/id3/uy/la.geojson)     
+Lavalleja&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-LA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/la.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Maldonado     code: **id3:UY-MA**     [view](../export/geojson/medium/id3/uy/ma.geojson)     
+Maldonado&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-MA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/ma.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Montevideo     code: **id3:UY-MO**     [view](../export/geojson/medium/id3/uy/mo.geojson)     
+Montevideo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-MO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/mo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Paysandú     code: **id3:UY-PA**     [view](../export/geojson/medium/id3/uy/pa.geojson)     
+Paysandú&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-PA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/pa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rivera     code: **id3:UY-RV**     [view](../export/geojson/medium/id3/uy/rv.geojson)     
+Rivera&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-RV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/rv.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rocha     code: **id3:UY-RO**     [view](../export/geojson/medium/id3/uy/ro.geojson)     
+Rocha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-RO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/ro.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Río Negro     code: **id3:UY-RN**     [view](../export/geojson/medium/id3/uy/rn.geojson)     
+Río Negro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-RN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/rn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Salto     code: **id3:UY-SA**     [view](../export/geojson/medium/id3/uy/sa.geojson)     
+Salto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-SA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/sa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-San José     code: **id3:UY-SJ**     [view](../export/geojson/medium/id3/uy/sj.geojson)     
+San José&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-SJ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/sj.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Soriano     code: **id3:UY-SO**     [view](../export/geojson/medium/id3/uy/so.geojson)     
+Soriano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-SO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/so.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tacuarembó     code: **id3:UY-TA**     [view](../export/geojson/medium/id3/uy/ta.geojson)     
+Tacuarembó&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-TA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/ta.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Treinta y Tres     code: **id3:UY-TT**     [view](../export/geojson/medium/id3/uy/tt.geojson)     
+Treinta y Tres&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:UY-TT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/uy/tt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

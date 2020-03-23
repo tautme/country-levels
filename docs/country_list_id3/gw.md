@@ -1,27 +1,27 @@
 # Guinea-Bissau states/provinces/counties
-Bafatá     code: **id3:GW-BA**     [view](../export/geojson/medium/id3/gw/ba.geojson)     
+Bafatá&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GW-BA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gw/ba.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Biombo     code: **id3:GW-BM**     [view](../export/geojson/medium/id3/gw/bm.geojson)     
+Biombo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GW-BM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gw/bm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bissau     code: **id3:GW-BS**     [view](../export/geojson/medium/id3/gw/bs.geojson)     
+Bissau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GW-BS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gw/bs.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bolama     code: **id3:GW-BL**     [view](../export/geojson/medium/id3/gw/bl.geojson)     
+Bolama&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GW-BL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gw/bl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Cacheu     code: **id3:GW-CA**     [view](../export/geojson/medium/id3/gw/ca.geojson)     
+Cacheu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GW-CA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gw/ca.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gabú     code: **id3:GW-GA**     [view](../export/geojson/medium/id3/gw/ga.geojson)     
+Gabú&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GW-GA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gw/ga.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Oio     code: **id3:GW-OI**     [view](../export/geojson/medium/id3/gw/oi.geojson)     
+Oio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GW-OI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gw/oi.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Quinara     code: **id3:GW-QU**     [view](../export/geojson/medium/id3/gw/qu.geojson)     
+Quinara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GW-QU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gw/qu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tombali     code: **id3:GW-TO**     [view](../export/geojson/medium/id3/gw/to.geojson)     
+Tombali&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GW-TO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gw/to.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

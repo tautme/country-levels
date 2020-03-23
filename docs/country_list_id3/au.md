@@ -1,33 +1,33 @@
 # Australia states/provinces/counties
-Australian Capital Territory     code: **id3:AU-ACT**     [view](../export/geojson/medium/id3/au/act.geojson)     
+Australian Capital Territory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AU-ACT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/au/act.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jervis Bay Territory     code: **id3:AU-X02**     [view](../export/geojson/medium/id3/au/x02.geojson)     
+Jervis Bay Territory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AU-X02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/au/x02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lord Howe Island     code: **id3:AU-NSW_1159313269**     [view](../export/geojson/medium/id3/au/nsw_1159313269.geojson)     
+Lord Howe Island&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AU-NSW_1159313269**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/au/nsw_1159313269.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Macquarie Island     code: **id3:AU-X03**     [view](../export/geojson/medium/id3/au/x03.geojson)     
+Macquarie Island&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AU-X03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/au/x03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-New South Wales     code: **id3:AU-NSW**     [view](../export/geojson/medium/id3/au/nsw.geojson)     
+New South Wales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AU-NSW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/au/nsw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Northern Territory     code: **id3:AU-NT**     [view](../export/geojson/medium/id3/au/nt.geojson)     
+Northern Territory&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AU-NT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/au/nt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Queensland     code: **id3:AU-QLD**     [view](../export/geojson/medium/id3/au/qld.geojson)     
+Queensland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AU-QLD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/au/qld.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-South Australia     code: **id3:AU-SA**     [view](../export/geojson/medium/id3/au/sa.geojson)     
+South Australia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AU-SA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/au/sa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tasmania     code: **id3:AU-TAS**     [view](../export/geojson/medium/id3/au/tas.geojson)     
+Tasmania&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AU-TAS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/au/tas.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Victoria     code: **id3:AU-VIC**     [view](../export/geojson/medium/id3/au/vic.geojson)     
+Victoria&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AU-VIC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/au/vic.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western Australia     code: **id3:AU-WA**     [view](../export/geojson/medium/id3/au/wa.geojson)     
+Western Australia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AU-WA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/au/wa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

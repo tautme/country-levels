@@ -1,27 +1,27 @@
 # Gabon states/provinces/counties
-Estuaire     code: **id3:GA-1**     [view](../export/geojson/medium/id3/ga/1.geojson)     
+Estuaire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GA-1**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ga/1.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Haut-Ogooué     code: **id3:GA-2**     [view](../export/geojson/medium/id3/ga/2.geojson)     
+Haut-Ogooué&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GA-2**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ga/2.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Moyen-Ogooué     code: **id3:GA-3**     [view](../export/geojson/medium/id3/ga/3.geojson)     
+Moyen-Ogooué&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GA-3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ga/3.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ngounié     code: **id3:GA-4**     [view](../export/geojson/medium/id3/ga/4.geojson)     
+Ngounié&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GA-4**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ga/4.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nyanga     code: **id3:GA-5**     [view](../export/geojson/medium/id3/ga/5.geojson)     
+Nyanga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GA-5**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ga/5.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ogooué-Ivindo     code: **id3:GA-6**     [view](../export/geojson/medium/id3/ga/6.geojson)     
+Ogooué-Ivindo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GA-6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ga/6.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ogooué-Lolo     code: **id3:GA-7**     [view](../export/geojson/medium/id3/ga/7.geojson)     
+Ogooué-Lolo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GA-7**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ga/7.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ogooué-Maritime     code: **id3:GA-8**     [view](../export/geojson/medium/id3/ga/8.geojson)     
+Ogooué-Maritime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GA-8**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ga/8.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Wouleu-Ntem     code: **id3:GA-9**     [view](../export/geojson/medium/id3/ga/9.geojson)     
+Wouleu-Ntem&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GA-9**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ga/9.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

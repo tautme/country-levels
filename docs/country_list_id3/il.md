@@ -1,18 +1,18 @@
 # Israel states/provinces/counties
-HaDarom     code: **id3:IL-D**     [view](../export/geojson/medium/id3/il/d.geojson)     
+HaDarom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IL-D**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/il/d.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-HaMerkaz     code: **id3:IL-M**     [view](../export/geojson/medium/id3/il/m.geojson)     
+HaMerkaz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IL-M**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/il/m.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-HaZafon     code: **id3:IL-Z**     [view](../export/geojson/medium/id3/il/z.geojson)     
+HaZafon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IL-Z**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/il/z.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Haifa     code: **id3:IL-HA**     [view](../export/geojson/medium/id3/il/ha.geojson)     
+Haifa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IL-HA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/il/ha.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jerusalem     code: **id3:IL-JM**     [view](../export/geojson/medium/id3/il/jm.geojson)     
+Jerusalem&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IL-JM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/il/jm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tel Aviv     code: **id3:IL-TA**     [view](../export/geojson/medium/id3/il/ta.geojson)     
+Tel Aviv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IL-TA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/il/ta.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

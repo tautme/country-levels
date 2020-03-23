@@ -1,3 +1,3 @@
 # Antarctica states/provinces/counties
-Antarctica     code: **id3:AQ-X01**     [view](../export/geojson/medium/id3/aq/x01.geojson)     
+Antarctica&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AQ-X01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/aq/x01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,30 +1,30 @@
 # Ghana states/provinces/counties
-Ashanti     code: **id3:GH-AH**     [view](../export/geojson/medium/id3/gh/ah.geojson)     
+Ashanti&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GH-AH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gh/ah.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Brong Ahafo     code: **id3:GH-BA**     [view](../export/geojson/medium/id3/gh/ba.geojson)     
+Brong Ahafo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GH-BA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gh/ba.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Central     code: **id3:GH-CP**     [view](../export/geojson/medium/id3/gh/cp.geojson)     
+Central&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GH-CP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gh/cp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Eastern     code: **id3:GH-EP**     [view](../export/geojson/medium/id3/gh/ep.geojson)     
+Eastern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GH-EP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gh/ep.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Greater Accra     code: **id3:GH-AA**     [view](../export/geojson/medium/id3/gh/aa.geojson)     
+Greater Accra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GH-AA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gh/aa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Northern     code: **id3:GH-NP**     [view](../export/geojson/medium/id3/gh/np.geojson)     
+Northern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GH-NP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gh/np.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Upper East     code: **id3:GH-UE**     [view](../export/geojson/medium/id3/gh/ue.geojson)     
+Upper East&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GH-UE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gh/ue.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Upper West     code: **id3:GH-UW**     [view](../export/geojson/medium/id3/gh/uw.geojson)     
+Upper West&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GH-UW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gh/uw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Volta     code: **id3:GH-TV**     [view](../export/geojson/medium/id3/gh/tv.geojson)     
+Volta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GH-TV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gh/tv.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western     code: **id3:GH-WP**     [view](../export/geojson/medium/id3/gh/wp.geojson)     
+Western&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:GH-WP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/gh/wp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,33 +1,33 @@
 # Bermuda states/provinces/counties
-City of Hamilton     code: **id3:BM-HA**     [view](../export/geojson/medium/id3/bm/ha.geojson)     
+City of Hamilton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BM-HA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bm/ha.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-City of Saint George     code: **id3:BM-SG**     [view](../export/geojson/medium/id3/bm/sg.geojson)     
+City of Saint George&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BM-SG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bm/sg.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Devonshire     code: **id3:BM-DEV**     [view](../export/geojson/medium/id3/bm/dev.geojson)     
+Devonshire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BM-DEV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bm/dev.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hamilton     code: **id3:BM-HAM**     [view](../export/geojson/medium/id3/bm/ham.geojson)     
+Hamilton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BM-HAM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bm/ham.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Paget     code: **id3:BM-PAG**     [view](../export/geojson/medium/id3/bm/pag.geojson)     
+Paget&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BM-PAG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bm/pag.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pembroke     code: **id3:BM-PEM**     [view](../export/geojson/medium/id3/bm/pem.geojson)     
+Pembroke&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BM-PEM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bm/pem.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint George's     code: **id3:BM-SGE**     [view](../export/geojson/medium/id3/bm/sge.geojson)     
+Saint George's&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BM-SGE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bm/sge.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sandys     code: **id3:BM-SAN**     [view](../export/geojson/medium/id3/bm/san.geojson)     
+Sandys&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BM-SAN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bm/san.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Smith's     code: **id3:BM-SMI**     [view](../export/geojson/medium/id3/bm/smi.geojson)     
+Smith's&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BM-SMI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bm/smi.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Southampton     code: **id3:BM-SOU**     [view](../export/geojson/medium/id3/bm/sou.geojson)     
+Southampton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BM-SOU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bm/sou.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Warwick     code: **id3:BM-WAR**     [view](../export/geojson/medium/id3/bm/war.geojson)     
+Warwick&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BM-WAR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bm/war.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

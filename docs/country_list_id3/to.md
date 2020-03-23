@@ -1,15 +1,15 @@
 # Tonga states/provinces/counties
-Eua     code: **id3:TO-01**     [view](../export/geojson/medium/id3/to/01.geojson)     
+Eua&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TO-01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/to/01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ha'apai     code: **id3:TO-02**     [view](../export/geojson/medium/id3/to/02.geojson)     
+Ha'apai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TO-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/to/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Niuas     code: **id3:TO-03**     [view](../export/geojson/medium/id3/to/03.geojson)     
+Niuas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TO-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/to/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tongatapu     code: **id3:TO-04**     [view](../export/geojson/medium/id3/to/04.geojson)     
+Tongatapu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TO-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/to/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vava'u     code: **id3:TO-05**     [view](../export/geojson/medium/id3/to/05.geojson)     
+Vava'u&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TO-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/to/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

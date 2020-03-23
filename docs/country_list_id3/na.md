@@ -1,39 +1,39 @@
 # Namibia states/provinces/counties
-Caprivi     code: **id3:NA-CA**     [view](../export/geojson/medium/id3/na/ca.geojson)     
+Caprivi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-CA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/ca.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Erongo     code: **id3:NA-ER**     [view](../export/geojson/medium/id3/na/er.geojson)     
+Erongo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-ER**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/er.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hardap     code: **id3:NA-HA**     [view](../export/geojson/medium/id3/na/ha.geojson)     
+Hardap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-HA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/ha.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Karas     code: **id3:NA-KA**     [view](../export/geojson/medium/id3/na/ka.geojson)     
+Karas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-KA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/ka.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kavango     code: **id3:NA-OK**     [view](../export/geojson/medium/id3/na/ok.geojson)     
+Kavango&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-OK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/ok.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Khomas     code: **id3:NA-KH**     [view](../export/geojson/medium/id3/na/kh.geojson)     
+Khomas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-KH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/kh.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kunene     code: **id3:NA-KU**     [view](../export/geojson/medium/id3/na/ku.geojson)     
+Kunene&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-KU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/ku.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ohangwena     code: **id3:NA-OW**     [view](../export/geojson/medium/id3/na/ow.geojson)     
+Ohangwena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-OW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/ow.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Omaheke     code: **id3:NA-OH**     [view](../export/geojson/medium/id3/na/oh.geojson)     
+Omaheke&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-OH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/oh.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Omusati     code: **id3:NA-OS**     [view](../export/geojson/medium/id3/na/os.geojson)     
+Omusati&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-OS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/os.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Oshana     code: **id3:NA-ON**     [view](../export/geojson/medium/id3/na/on.geojson)     
+Oshana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-ON**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/on.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Oshikoto     code: **id3:NA-OT**     [view](../export/geojson/medium/id3/na/ot.geojson)     
+Oshikoto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-OT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/ot.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Otjozondjupa     code: **id3:NA-OD**     [view](../export/geojson/medium/id3/na/od.geojson)     
+Otjozondjupa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NA-OD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/na/od.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

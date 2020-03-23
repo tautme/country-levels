@@ -1,48 +1,48 @@
 # Malaysia states/provinces/counties
-Johor     code: **id3:MY-01**     [view](../export/geojson/medium/id3/my/01.geojson)     
+Johor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kedah     code: **id3:MY-02**     [view](../export/geojson/medium/id3/my/02.geojson)     
+Kedah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kelantan     code: **id3:MY-03**     [view](../export/geojson/medium/id3/my/03.geojson)     
+Kelantan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kuala Lumpur     code: **id3:MY-14**     [view](../export/geojson/medium/id3/my/14.geojson)     
+Kuala Lumpur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-14**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/14.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Labuan     code: **id3:MY-15**     [view](../export/geojson/medium/id3/my/15.geojson)     
+Labuan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-15**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/15.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Melaka     code: **id3:MY-04**     [view](../export/geojson/medium/id3/my/04.geojson)     
+Melaka&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Negeri Sembilan     code: **id3:MY-05**     [view](../export/geojson/medium/id3/my/05.geojson)     
+Negeri Sembilan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pahang     code: **id3:MY-06**     [view](../export/geojson/medium/id3/my/06.geojson)     
+Pahang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Perak     code: **id3:MY-08**     [view](../export/geojson/medium/id3/my/08.geojson)     
+Perak&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Perlis     code: **id3:MY-09**     [view](../export/geojson/medium/id3/my/09.geojson)     
+Perlis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/09.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pulau Pinang     code: **id3:MY-07**     [view](../export/geojson/medium/id3/my/07.geojson)     
+Pulau Pinang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Putrajaya     code: **id3:MY-16**     [view](../export/geojson/medium/id3/my/16.geojson)     
+Putrajaya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-16**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/16.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sabah     code: **id3:MY-12**     [view](../export/geojson/medium/id3/my/12.geojson)     
+Sabah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/12.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sarawak     code: **id3:MY-13**     [view](../export/geojson/medium/id3/my/13.geojson)     
+Sarawak&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-13**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/13.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Selangor     code: **id3:MY-10**     [view](../export/geojson/medium/id3/my/10.geojson)     
+Selangor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Trengganu     code: **id3:MY-11**     [view](../export/geojson/medium/id3/my/11.geojson)     
+Trengganu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MY-11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/my/11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,15 +1,15 @@
 # Rwanda states/provinces/counties
-Eastern     code: **id3:RW-02**     [view](../export/geojson/medium/id3/rw/02.geojson)     
+Eastern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:RW-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/rw/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kigali City     code: **id3:RW-01**     [view](../export/geojson/medium/id3/rw/01.geojson)     
+Kigali City&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:RW-01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/rw/01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Northern     code: **id3:RW-03**     [view](../export/geojson/medium/id3/rw/03.geojson)     
+Northern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:RW-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/rw/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Southern     code: **id3:RW-05**     [view](../export/geojson/medium/id3/rw/05.geojson)     
+Southern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:RW-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/rw/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western     code: **id3:RW-04**     [view](../export/geojson/medium/id3/rw/04.geojson)     
+Western&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:RW-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/rw/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

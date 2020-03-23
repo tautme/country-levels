@@ -1,24 +1,24 @@
 # Kenya states/provinces/counties
-Central     code: **id3:KE-200**     [view](../export/geojson/medium/id3/ke/200.geojson)     
+Central&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KE-200**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ke/200.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Coast     code: **id3:KE-300**     [view](../export/geojson/medium/id3/ke/300.geojson)     
+Coast&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KE-300**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ke/300.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Eastern     code: **id3:KE-400**     [view](../export/geojson/medium/id3/ke/400.geojson)     
+Eastern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KE-400**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ke/400.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nairobi     code: **id3:KE-110**     [view](../export/geojson/medium/id3/ke/110.geojson)     
+Nairobi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KE-110**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ke/110.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North-Eastern     code: **id3:KE-500**     [view](../export/geojson/medium/id3/ke/500.geojson)     
+North-Eastern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KE-500**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ke/500.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nyanza     code: **id3:KE-600**     [view](../export/geojson/medium/id3/ke/600.geojson)     
+Nyanza&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KE-600**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ke/600.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rift Valley     code: **id3:KE-700**     [view](../export/geojson/medium/id3/ke/700.geojson)     
+Rift Valley&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KE-700**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ke/700.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western     code: **id3:KE-800**     [view](../export/geojson/medium/id3/ke/800.geojson)     
+Western&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KE-800**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ke/800.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

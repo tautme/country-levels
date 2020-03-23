@@ -1,3 +1,3 @@
 # Aruba states/provinces/counties
-Aruba     code: **id3:AW-AW**     [view](../export/geojson/medium/id3/aw/aw.geojson)     
+Aruba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AW-AW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/aw/aw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

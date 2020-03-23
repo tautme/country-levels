@@ -1,15 +1,15 @@
 # Fiji states/provinces/counties
-Central     code: **id3:FJ-C**     [view](../export/geojson/medium/id3/fj/c.geojson)     
+Central&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FJ-C**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fj/c.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Eastern     code: **id3:FJ-E**     [view](../export/geojson/medium/id3/fj/e.geojson)     
+Eastern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FJ-E**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fj/e.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Northern     code: **id3:FJ-N**     [view](../export/geojson/medium/id3/fj/n.geojson)     
+Northern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FJ-N**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fj/n.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rotuma     code: **id3:FJ-R**     [view](../export/geojson/medium/id3/fj/r.geojson)     
+Rotuma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FJ-R**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fj/r.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western     code: **id3:FJ-W**     [view](../export/geojson/medium/id3/fj/w.geojson)     
+Western&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FJ-W**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fj/w.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

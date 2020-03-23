@@ -1,63 +1,63 @@
 # Sweden states/provinces/counties
-Blekinge     code: **id3:SE-K**     [view](../export/geojson/medium/id3/se/k.geojson)     
+Blekinge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-K**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/k.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dalarna     code: **id3:SE-W**     [view](../export/geojson/medium/id3/se/w.geojson)     
+Dalarna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-W**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/w.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gotland     code: **id3:SE-I**     [view](../export/geojson/medium/id3/se/i.geojson)     
+Gotland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-I**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/i.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gävleborg     code: **id3:SE-X**     [view](../export/geojson/medium/id3/se/x.geojson)     
+Gävleborg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-X**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/x.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Halland     code: **id3:SE-N**     [view](../export/geojson/medium/id3/se/n.geojson)     
+Halland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-N**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/n.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jämtland     code: **id3:SE-Z**     [view](../export/geojson/medium/id3/se/z.geojson)     
+Jämtland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-Z**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/z.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jönköping     code: **id3:SE-F**     [view](../export/geojson/medium/id3/se/f.geojson)     
+Jönköping&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-F**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/f.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kalmar     code: **id3:SE-H**     [view](../export/geojson/medium/id3/se/h.geojson)     
+Kalmar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-H**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/h.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kronoberg     code: **id3:SE-G**     [view](../export/geojson/medium/id3/se/g.geojson)     
+Kronoberg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-G**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/g.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Norrbotten     code: **id3:SE-BD**     [view](../export/geojson/medium/id3/se/bd.geojson)     
+Norrbotten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-BD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/bd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Orebro     code: **id3:SE-T**     [view](../export/geojson/medium/id3/se/t.geojson)     
+Orebro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-T**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/t.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Skåne     code: **id3:SE-M**     [view](../export/geojson/medium/id3/se/m.geojson)     
+Skåne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-M**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/m.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Stockholm     code: **id3:SE-AB**     [view](../export/geojson/medium/id3/se/ab.geojson)     
+Stockholm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-AB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/ab.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Södermanland     code: **id3:SE-D**     [view](../export/geojson/medium/id3/se/d.geojson)     
+Södermanland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-D**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/d.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Uppsala     code: **id3:SE-C**     [view](../export/geojson/medium/id3/se/c.geojson)     
+Uppsala&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-C**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/c.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Värmland     code: **id3:SE-S**     [view](../export/geojson/medium/id3/se/s.geojson)     
+Värmland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-S**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/s.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Västerbotten     code: **id3:SE-AC**     [view](../export/geojson/medium/id3/se/ac.geojson)     
+Västerbotten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-AC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/ac.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Västernorrland     code: **id3:SE-Y**     [view](../export/geojson/medium/id3/se/y.geojson)     
+Västernorrland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-Y**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/y.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Västmanland     code: **id3:SE-U**     [view](../export/geojson/medium/id3/se/u.geojson)     
+Västmanland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-U**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/u.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Västra Götaland     code: **id3:SE-O**     [view](../export/geojson/medium/id3/se/o.geojson)     
+Västra Götaland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-O**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/o.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Östergötland     code: **id3:SE-E**     [view](../export/geojson/medium/id3/se/e.geojson)     
+Östergötland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SE-E**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/se/e.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

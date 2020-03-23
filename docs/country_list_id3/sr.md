@@ -1,30 +1,30 @@
 # Suriname states/provinces/counties
-Brokopondo     code: **id3:SR-BR**     [view](../export/geojson/medium/id3/sr/br.geojson)     
+Brokopondo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SR-BR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sr/br.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Commewijne     code: **id3:SR-CM**     [view](../export/geojson/medium/id3/sr/cm.geojson)     
+Commewijne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SR-CM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sr/cm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Coronie     code: **id3:SR-CR**     [view](../export/geojson/medium/id3/sr/cr.geojson)     
+Coronie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SR-CR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sr/cr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Marowijne     code: **id3:SR-MA**     [view](../export/geojson/medium/id3/sr/ma.geojson)     
+Marowijne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SR-MA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sr/ma.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nickerie     code: **id3:SR-NI**     [view](../export/geojson/medium/id3/sr/ni.geojson)     
+Nickerie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SR-NI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sr/ni.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Para     code: **id3:SR-PR**     [view](../export/geojson/medium/id3/sr/pr.geojson)     
+Para&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SR-PR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sr/pr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Paramaribo     code: **id3:SR-PM**     [view](../export/geojson/medium/id3/sr/pm.geojson)     
+Paramaribo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SR-PM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sr/pm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saramacca     code: **id3:SR-SA**     [view](../export/geojson/medium/id3/sr/sa.geojson)     
+Saramacca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SR-SA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sr/sa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sipaliwini     code: **id3:SR-SI**     [view](../export/geojson/medium/id3/sr/si.geojson)     
+Sipaliwini&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SR-SI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sr/si.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Wanica     code: **id3:SR-WA**     [view](../export/geojson/medium/id3/sr/wa.geojson)     
+Wanica&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SR-WA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sr/wa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

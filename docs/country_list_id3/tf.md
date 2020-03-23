@@ -1,12 +1,12 @@
 # French Southern and Antarctic Lands states/provinces/counties
-Archipel des Crozet     code: **id3:TF-X02**     [view](../export/geojson/medium/id3/tf/x02.geojson)     
+Archipel des Crozet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TF-X02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tf/x02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Archipel des Kerguelen     code: **id3:TF-X01**     [view](../export/geojson/medium/id3/tf/x01.geojson)     
+Archipel des Kerguelen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TF-X01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tf/x01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Iles Eparses de l'ocean Indien     code: **id3:TF-X03**     [view](../export/geojson/medium/id3/tf/x03.geojson)     
+Iles Eparses de l'ocean Indien&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TF-X03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tf/x03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Iles Saint-Paul et Nouvelle-Amsterdam     code: **id3:TF-X1**     [view](../export/geojson/medium/id3/tf/x1.geojson)     
+Iles Saint-Paul et Nouvelle-Amsterdam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TF-X1**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tf/x1.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

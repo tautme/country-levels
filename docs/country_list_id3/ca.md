@@ -1,39 +1,39 @@
 # Canada states/provinces/counties
-Alberta     code: **id3:CA-AB**     [view](../export/geojson/medium/id3/ca/ab.geojson)     
+Alberta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-AB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/ab.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-British Columbia     code: **id3:CA-BC**     [view](../export/geojson/medium/id3/ca/bc.geojson)     
+British Columbia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-BC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/bc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Manitoba     code: **id3:CA-MB**     [view](../export/geojson/medium/id3/ca/mb.geojson)     
+Manitoba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-MB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/mb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-New Brunswick     code: **id3:CA-NB**     [view](../export/geojson/medium/id3/ca/nb.geojson)     
+New Brunswick&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-NB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/nb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Newfoundland and Labrador     code: **id3:CA-NL**     [view](../export/geojson/medium/id3/ca/nl.geojson)     
+Newfoundland and Labrador&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-NL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/nl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Northwest Territories     code: **id3:CA-NT**     [view](../export/geojson/medium/id3/ca/nt.geojson)     
+Northwest Territories&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-NT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/nt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nova Scotia     code: **id3:CA-NS**     [view](../export/geojson/medium/id3/ca/ns.geojson)     
+Nova Scotia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-NS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/ns.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nunavut     code: **id3:CA-NU**     [view](../export/geojson/medium/id3/ca/nu.geojson)     
+Nunavut&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-NU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/nu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ontario     code: **id3:CA-ON**     [view](../export/geojson/medium/id3/ca/on.geojson)     
+Ontario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-ON**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/on.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Prince Edward Island     code: **id3:CA-PE**     [view](../export/geojson/medium/id3/ca/pe.geojson)     
+Prince Edward Island&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-PE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/pe.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Québec     code: **id3:CA-QC**     [view](../export/geojson/medium/id3/ca/qc.geojson)     
+Québec&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-QC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/qc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saskatchewan     code: **id3:CA-SK**     [view](../export/geojson/medium/id3/ca/sk.geojson)     
+Saskatchewan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-SK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/sk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Yukon     code: **id3:CA-YT**     [view](../export/geojson/medium/id3/ca/yt.geojson)     
+Yukon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CA-YT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ca/yt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

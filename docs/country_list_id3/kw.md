@@ -1,18 +1,18 @@
 # Kuwait states/provinces/counties
-Al Ahmadi     code: **id3:KW-AH**     [view](../export/geojson/medium/id3/kw/ah.geojson)     
+Al Ahmadi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KW-AH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kw/ah.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Asimah     code: **id3:KW-KU**     [view](../export/geojson/medium/id3/kw/ku.geojson)     
+Al Asimah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KW-KU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kw/ku.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Farwaniyah     code: **id3:KW-FA**     [view](../export/geojson/medium/id3/kw/fa.geojson)     
+Al Farwaniyah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KW-FA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kw/fa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Jahrah     code: **id3:KW-JA**     [view](../export/geojson/medium/id3/kw/ja.geojson)     
+Al Jahrah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KW-JA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kw/ja.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hawalli     code: **id3:KW-HA**     [view](../export/geojson/medium/id3/kw/ha.geojson)     
+Hawalli&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KW-HA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kw/ha.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mubarak Al-Kabeer     code: **id3:KW-MU**     [view](../export/geojson/medium/id3/kw/mu.geojson)     
+Mubarak Al-Kabeer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KW-MU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kw/mu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

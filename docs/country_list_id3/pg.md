@@ -1,60 +1,60 @@
 # Papua New Guinea states/provinces/counties
-Central     code: **id3:PG-CPM**     [view](../export/geojson/medium/id3/pg/cpm.geojson)     
+Central&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-CPM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/cpm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chimbu     code: **id3:PG-CPK**     [view](../export/geojson/medium/id3/pg/cpk.geojson)     
+Chimbu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-CPK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/cpk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-East New Britain     code: **id3:PG-EBR**     [view](../export/geojson/medium/id3/pg/ebr.geojson)     
+East New Britain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-EBR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/ebr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-East Sepik     code: **id3:PG-ESW**     [view](../export/geojson/medium/id3/pg/esw.geojson)     
+East Sepik&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-ESW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/esw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Eastern Highlands     code: **id3:PG-EHG**     [view](../export/geojson/medium/id3/pg/ehg.geojson)     
+Eastern Highlands&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-EHG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/ehg.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Enga     code: **id3:PG-EPW**     [view](../export/geojson/medium/id3/pg/epw.geojson)     
+Enga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-EPW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/epw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gulf     code: **id3:PG-GPK**     [view](../export/geojson/medium/id3/pg/gpk.geojson)     
+Gulf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-GPK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/gpk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Madang     code: **id3:PG-MPM**     [view](../export/geojson/medium/id3/pg/mpm.geojson)     
+Madang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-MPM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/mpm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Manus     code: **id3:PG-MRL**     [view](../export/geojson/medium/id3/pg/mrl.geojson)     
+Manus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-MRL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/mrl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Milne Bay     code: **id3:PG-MBA**     [view](../export/geojson/medium/id3/pg/mba.geojson)     
+Milne Bay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-MBA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/mba.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Morobe     code: **id3:PG-MPL**     [view](../export/geojson/medium/id3/pg/mpl.geojson)     
+Morobe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-MPL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/mpl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-National Capital District     code: **id3:PG-NCD**     [view](../export/geojson/medium/id3/pg/ncd.geojson)     
+National Capital District&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-NCD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/ncd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-New Ireland     code: **id3:PG-NIK**     [view](../export/geojson/medium/id3/pg/nik.geojson)     
+New Ireland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-NIK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/nik.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North Solomons     code: **id3:PG-NSB**     [view](../export/geojson/medium/id3/pg/nsb.geojson)     
+North Solomons&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-NSB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/nsb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Northern     code: **id3:PG-NPP**     [view](../export/geojson/medium/id3/pg/npp.geojson)     
+Northern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-NPP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/npp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sandaun     code: **id3:PG-SAN**     [view](../export/geojson/medium/id3/pg/san.geojson)     
+Sandaun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-SAN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/san.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Southern Highlands     code: **id3:PG-SHM**     [view](../export/geojson/medium/id3/pg/shm.geojson)     
+Southern Highlands&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-SHM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/shm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-West New Britain     code: **id3:PG-WBK**     [view](../export/geojson/medium/id3/pg/wbk.geojson)     
+West New Britain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-WBK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/wbk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western     code: **id3:PG-WPD**     [view](../export/geojson/medium/id3/pg/wpd.geojson)     
+Western&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-WPD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/wpd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western Highlands     code: **id3:PG-WHM**     [view](../export/geojson/medium/id3/pg/whm.geojson)     
+Western Highlands&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PG-WHM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pg/whm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

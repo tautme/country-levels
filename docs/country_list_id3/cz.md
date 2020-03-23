@@ -1,42 +1,42 @@
 # Czechia states/provinces/counties
-Jihomoravský     code: **id3:CZ-64**     [view](../export/geojson/medium/id3/cz/64.geojson)     
+Jihomoravský&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-64**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/64.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jihočeský     code: **id3:CZ-31**     [view](../export/geojson/medium/id3/cz/31.geojson)     
+Jihočeský&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-31**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/31.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Karlovarský     code: **id3:CZ-41**     [view](../export/geojson/medium/id3/cz/41.geojson)     
+Karlovarský&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-41**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/41.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Královéhradecký     code: **id3:CZ-52**     [view](../export/geojson/medium/id3/cz/52.geojson)     
+Královéhradecký&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-52**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/52.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Liberecký     code: **id3:CZ-51**     [view](../export/geojson/medium/id3/cz/51.geojson)     
+Liberecký&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-51**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/51.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Moravskoslezský     code: **id3:CZ-80**     [view](../export/geojson/medium/id3/cz/80.geojson)     
+Moravskoslezský&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-80**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/80.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Olomoucký     code: **id3:CZ-71**     [view](../export/geojson/medium/id3/cz/71.geojson)     
+Olomoucký&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-71**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/71.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pardubický     code: **id3:CZ-53**     [view](../export/geojson/medium/id3/cz/53.geojson)     
+Pardubický&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-53**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/53.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Plzeňský     code: **id3:CZ-323**     [view](../export/geojson/medium/id3/cz/323.geojson)     
+Plzeňský&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-323**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/323.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Prague     code: **id3:CZ-10**     [view](../export/geojson/medium/id3/cz/10.geojson)     
+Prague&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Středočeský     code: **id3:CZ-20**     [view](../export/geojson/medium/id3/cz/20.geojson)     
+Středočeský&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-20**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/20.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vysočina     code: **id3:CZ-63**     [view](../export/geojson/medium/id3/cz/63.geojson)     
+Vysočina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-63**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/63.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Zlínský     code: **id3:CZ-724**     [view](../export/geojson/medium/id3/cz/724.geojson)     
+Zlínský&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-724**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/724.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ústecký     code: **id3:CZ-42**     [view](../export/geojson/medium/id3/cz/42.geojson)     
+Ústecký&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CZ-42**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cz/42.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,51 +1,51 @@
 # South Korea states/provinces/counties
-Busan     code: **id3:KR-26**     [view](../export/geojson/medium/id3/kr/26.geojson)     
+Busan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-26**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/26.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Daegu     code: **id3:KR-27**     [view](../export/geojson/medium/id3/kr/27.geojson)     
+Daegu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-27**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/27.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Daejeon     code: **id3:KR-30**     [view](../export/geojson/medium/id3/kr/30.geojson)     
+Daejeon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-30**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/30.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gangwon     code: **id3:KR-42**     [view](../export/geojson/medium/id3/kr/42.geojson)     
+Gangwon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-42**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/42.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gwangju     code: **id3:KR-29**     [view](../export/geojson/medium/id3/kr/29.geojson)     
+Gwangju&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-29**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/29.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gyeonggi     code: **id3:KR-41**     [view](../export/geojson/medium/id3/kr/41.geojson)     
+Gyeonggi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-41**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/41.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Incheon     code: **id3:KR-28**     [view](../export/geojson/medium/id3/kr/28.geojson)     
+Incheon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-28**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/28.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jeju     code: **id3:KR-49**     [view](../export/geojson/medium/id3/kr/49.geojson)     
+Jeju&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-49**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/49.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North Chungcheong     code: **id3:KR-43**     [view](../export/geojson/medium/id3/kr/43.geojson)     
+North Chungcheong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-43**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/43.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North Gyeongsang     code: **id3:KR-47**     [view](../export/geojson/medium/id3/kr/47.geojson)     
+North Gyeongsang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-47**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/47.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North Jeolla     code: **id3:KR-45**     [view](../export/geojson/medium/id3/kr/45.geojson)     
+North Jeolla&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-45**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/45.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sejong     code: **id3:KR-50**     [view](../export/geojson/medium/id3/kr/50.geojson)     
+Sejong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-50**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/50.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Seoul     code: **id3:KR-11**     [view](../export/geojson/medium/id3/kr/11.geojson)     
+Seoul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-South Chungcheong     code: **id3:KR-44**     [view](../export/geojson/medium/id3/kr/44.geojson)     
+South Chungcheong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-44**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/44.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-South Gyeongsang     code: **id3:KR-48**     [view](../export/geojson/medium/id3/kr/48.geojson)     
+South Gyeongsang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-48**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/48.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-South Jeolla     code: **id3:KR-46**     [view](../export/geojson/medium/id3/kr/46.geojson)     
+South Jeolla&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-46**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/46.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ulsan     code: **id3:KR-31**     [view](../export/geojson/medium/id3/kr/31.geojson)     
+Ulsan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KR-31**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kr/31.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,6 +1,6 @@
 # Palestine states/provinces/counties
-Gaza Strip     code: **id3:PS-GZA**     [view](../export/geojson/medium/id3/ps/gza.geojson)     
+Gaza Strip&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PS-GZA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ps/gza.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-West Bank     code: **id3:PS-WBK**     [view](../export/geojson/medium/id3/ps/wbk.geojson)     
+West Bank&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PS-WBK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ps/wbk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

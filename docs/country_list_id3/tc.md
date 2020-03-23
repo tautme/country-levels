@@ -1,18 +1,18 @@
 # Turks and Caicos Islands states/provinces/counties
-Grand Turk     code: **id3:TC-X05**     [view](../export/geojson/medium/id3/tc/x05.geojson)     
+Grand Turk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TC-X05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tc/x05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Middle Caicos     code: **id3:TC-X01**     [view](../export/geojson/medium/id3/tc/x01.geojson)     
+Middle Caicos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TC-X01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tc/x01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North Caicos     code: **id3:TC-X02**     [view](../export/geojson/medium/id3/tc/x02.geojson)     
+North Caicos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TC-X02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tc/x02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Providenciales and West Caicos     code: **id3:TC-X03**     [view](../export/geojson/medium/id3/tc/x03.geojson)     
+Providenciales and West Caicos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TC-X03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tc/x03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Salt Cay     code: **id3:TC-X06**     [view](../export/geojson/medium/id3/tc/x06.geojson)     
+Salt Cay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TC-X06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tc/x06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-South Caicos and East Caicos     code: **id3:TC-X04**     [view](../export/geojson/medium/id3/tc/x04.geojson)     
+South Caicos and East Caicos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TC-X04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tc/x04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

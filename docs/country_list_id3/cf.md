@@ -1,51 +1,51 @@
 # Central African Republic states/provinces/counties
-Bamingui-Bangoran     code: **id3:CF-BB**     [view](../export/geojson/medium/id3/cf/bb.geojson)     
+Bamingui-Bangoran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-BB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/bb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bangui     code: **id3:CF-BGF**     [view](../export/geojson/medium/id3/cf/bgf.geojson)     
+Bangui&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-BGF**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/bgf.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Basse-Kotto     code: **id3:CF-BK**     [view](../export/geojson/medium/id3/cf/bk.geojson)     
+Basse-Kotto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-BK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/bk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Haut-Mbomou     code: **id3:CF-HM**     [view](../export/geojson/medium/id3/cf/hm.geojson)     
+Haut-Mbomou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-HM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/hm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Haute-Kotto     code: **id3:CF-HK**     [view](../export/geojson/medium/id3/cf/hk.geojson)     
+Haute-Kotto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-HK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/hk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kémo     code: **id3:CF-KG**     [view](../export/geojson/medium/id3/cf/kg.geojson)     
+Kémo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-KG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/kg.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lobaye     code: **id3:CF-LB**     [view](../export/geojson/medium/id3/cf/lb.geojson)     
+Lobaye&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-LB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/lb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mambéré-Kadéï     code: **id3:CF-HS**     [view](../export/geojson/medium/id3/cf/hs.geojson)     
+Mambéré-Kadéï&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-HS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/hs.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mbomou     code: **id3:CF-MB**     [view](../export/geojson/medium/id3/cf/mb.geojson)     
+Mbomou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-MB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/mb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nana-Grébizi     code: **id3:CF-KB**     [view](../export/geojson/medium/id3/cf/kb.geojson)     
+Nana-Grébizi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-KB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/kb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nana-Mambéré     code: **id3:CF-NM**     [view](../export/geojson/medium/id3/cf/nm.geojson)     
+Nana-Mambéré&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-NM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/nm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ombella-M'Poko     code: **id3:CF-MP**     [view](../export/geojson/medium/id3/cf/mp.geojson)     
+Ombella-M'Poko&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-MP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/mp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ouaka     code: **id3:CF-UK**     [view](../export/geojson/medium/id3/cf/uk.geojson)     
+Ouaka&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-UK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/uk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ouham     code: **id3:CF-AC**     [view](../export/geojson/medium/id3/cf/ac.geojson)     
+Ouham&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-AC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/ac.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ouham-Pendé     code: **id3:CF-OP**     [view](../export/geojson/medium/id3/cf/op.geojson)     
+Ouham-Pendé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-OP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/op.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sangha-Mbaéré     code: **id3:CF-SE**     [view](../export/geojson/medium/id3/cf/se.geojson)     
+Sangha-Mbaéré&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-SE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/se.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vakaga     code: **id3:CF-VK**     [view](../export/geojson/medium/id3/cf/vk.geojson)     
+Vakaga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CF-VK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cf/vk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

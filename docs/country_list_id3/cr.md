@@ -1,21 +1,21 @@
 # Costa Rica states/provinces/counties
-Alajuela     code: **id3:CR-A**     [view](../export/geojson/medium/id3/cr/a.geojson)     
+Alajuela&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CR-A**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cr/a.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Cartago     code: **id3:CR-C**     [view](../export/geojson/medium/id3/cr/c.geojson)     
+Cartago&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CR-C**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cr/c.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Guanacaste     code: **id3:CR-G**     [view](../export/geojson/medium/id3/cr/g.geojson)     
+Guanacaste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CR-G**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cr/g.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Heredia     code: **id3:CR-H**     [view](../export/geojson/medium/id3/cr/h.geojson)     
+Heredia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CR-H**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cr/h.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Limón     code: **id3:CR-L**     [view](../export/geojson/medium/id3/cr/l.geojson)     
+Limón&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CR-L**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cr/l.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Puntarenas     code: **id3:CR-P**     [view](../export/geojson/medium/id3/cr/p.geojson)     
+Puntarenas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CR-P**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cr/p.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-San José     code: **id3:CR-SJ**     [view](../export/geojson/medium/id3/cr/sj.geojson)     
+San José&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CR-SJ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cr/sj.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,9 +1,9 @@
 # Saint Helena states/provinces/counties
-Ascension     code: **id3:SH-AC**     [view](../export/geojson/medium/id3/sh/ac.geojson)     
+Ascension&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SH-AC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sh/ac.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint Helena     code: **id3:SH-HL**     [view](../export/geojson/medium/id3/sh/hl.geojson)     
+Saint Helena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SH-HL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sh/hl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tristan da Cunha     code: **id3:SH-TA**     [view](../export/geojson/medium/id3/sh/ta.geojson)     
+Tristan da Cunha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SH-TA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sh/ta.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

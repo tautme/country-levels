@@ -1,48 +1,48 @@
 # Trinidad and Tobago states/provinces/counties
-Arima     code: **id3:TT-ARI**     [view](../export/geojson/medium/id3/tt/ari.geojson)     
+Arima&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-ARI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/ari.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chaguanas     code: **id3:TT-CHA**     [view](../export/geojson/medium/id3/tt/cha.geojson)     
+Chaguanas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-CHA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/cha.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Couva-Tabaquite-Talparo     code: **id3:TT-CTT**     [view](../export/geojson/medium/id3/tt/ctt.geojson)     
+Couva-Tabaquite-Talparo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-CTT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/ctt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Diego Martin     code: **id3:TT-DMN**     [view](../export/geojson/medium/id3/tt/dmn.geojson)     
+Diego Martin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-DMN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/dmn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Eastern Tobago     code: **id3:TT-TOB_1159308073**     [view](../export/geojson/medium/id3/tt/tob_1159308073.geojson)     
+Eastern Tobago&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-TOB_1159308073**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/tob_1159308073.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Penal-Debe     code: **id3:TT-PED**     [view](../export/geojson/medium/id3/tt/ped.geojson)     
+Penal-Debe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-PED**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/ped.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Point Fortin     code: **id3:TT-PTF**     [view](../export/geojson/medium/id3/tt/ptf.geojson)     
+Point Fortin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-PTF**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/ptf.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Port of Spain     code: **id3:TT-POS**     [view](../export/geojson/medium/id3/tt/pos.geojson)     
+Port of Spain&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-POS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/pos.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Princes Town     code: **id3:TT-PRT**     [view](../export/geojson/medium/id3/tt/prt.geojson)     
+Princes Town&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-PRT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/prt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rio Claro-Mayaro     code: **id3:TT-MRC**     [view](../export/geojson/medium/id3/tt/mrc.geojson)     
+Rio Claro-Mayaro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-MRC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/mrc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-San Fernando     code: **id3:TT-SFO**     [view](../export/geojson/medium/id3/tt/sfo.geojson)     
+San Fernando&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-SFO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/sfo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-San Juan-Laventille     code: **id3:TT-SJL**     [view](../export/geojson/medium/id3/tt/sjl.geojson)     
+San Juan-Laventille&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-SJL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/sjl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sangre Grande     code: **id3:TT-SGE**     [view](../export/geojson/medium/id3/tt/sge.geojson)     
+Sangre Grande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-SGE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/sge.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Siparia     code: **id3:TT-SIP**     [view](../export/geojson/medium/id3/tt/sip.geojson)     
+Siparia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-SIP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/sip.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tunapuna/Piarco     code: **id3:TT-TUP**     [view](../export/geojson/medium/id3/tt/tup.geojson)     
+Tunapuna/Piarco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-TUP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/tup.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western Tobago     code: **id3:TT-TOB_1159316403**     [view](../export/geojson/medium/id3/tt/tob_1159316403.geojson)     
+Western Tobago&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TT-TOB_1159316403**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tt/tob_1159316403.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

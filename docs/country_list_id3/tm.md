@@ -1,15 +1,15 @@
 # Turkmenistan states/provinces/counties
-Ahal     code: **id3:TM-A**     [view](../export/geojson/medium/id3/tm/a.geojson)     
+Ahal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TM-A**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tm/a.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Balkan     code: **id3:TM-B**     [view](../export/geojson/medium/id3/tm/b.geojson)     
+Balkan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TM-B**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tm/b.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chardzhou     code: **id3:TM-L**     [view](../export/geojson/medium/id3/tm/l.geojson)     
+Chardzhou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TM-L**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tm/l.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mary     code: **id3:TM-M**     [view](../export/geojson/medium/id3/tm/m.geojson)     
+Mary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TM-M**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tm/m.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tashauz     code: **id3:TM-D**     [view](../export/geojson/medium/id3/tm/d.geojson)     
+Tashauz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TM-D**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tm/d.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

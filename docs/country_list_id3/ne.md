@@ -1,24 +1,24 @@
 # Niger states/provinces/counties
-Agadez     code: **id3:NE-1**     [view](../export/geojson/medium/id3/ne/1.geojson)     
+Agadez&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NE-1**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ne/1.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Diffa     code: **id3:NE-2**     [view](../export/geojson/medium/id3/ne/2.geojson)     
+Diffa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NE-2**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ne/2.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dosso     code: **id3:NE-3**     [view](../export/geojson/medium/id3/ne/3.geojson)     
+Dosso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NE-3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ne/3.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Maradi     code: **id3:NE-4**     [view](../export/geojson/medium/id3/ne/4.geojson)     
+Maradi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NE-4**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ne/4.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Niamey     code: **id3:NE-8**     [view](../export/geojson/medium/id3/ne/8.geojson)     
+Niamey&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NE-8**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ne/8.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tahoua     code: **id3:NE-5**     [view](../export/geojson/medium/id3/ne/5.geojson)     
+Tahoua&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NE-5**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ne/5.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tillabéri     code: **id3:NE-6**     [view](../export/geojson/medium/id3/ne/6.geojson)     
+Tillabéri&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NE-6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ne/6.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Zinder     code: **id3:NE-7**     [view](../export/geojson/medium/id3/ne/7.geojson)     
+Zinder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NE-7**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ne/7.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,30 +1,30 @@
 # Haiti states/provinces/counties
-Centre     code: **id3:HT-CE**     [view](../export/geojson/medium/id3/ht/ce.geojson)     
+Centre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HT-CE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ht/ce.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Grand'Anse     code: **id3:HT-GA**     [view](../export/geojson/medium/id3/ht/ga.geojson)     
+Grand'Anse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HT-GA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ht/ga.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-L'Artibonite     code: **id3:HT-AR**     [view](../export/geojson/medium/id3/ht/ar.geojson)     
+L'Artibonite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HT-AR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ht/ar.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nippes     code: **id3:HT-NI**     [view](../export/geojson/medium/id3/ht/ni.geojson)     
+Nippes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HT-NI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ht/ni.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nord     code: **id3:HT-ND**     [view](../export/geojson/medium/id3/ht/nd.geojson)     
+Nord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HT-ND**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ht/nd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nord-Est     code: **id3:HT-NE**     [view](../export/geojson/medium/id3/ht/ne.geojson)     
+Nord-Est&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HT-NE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ht/ne.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nord-Ouest     code: **id3:HT-NO**     [view](../export/geojson/medium/id3/ht/no.geojson)     
+Nord-Ouest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HT-NO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ht/no.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ouest     code: **id3:HT-OU**     [view](../export/geojson/medium/id3/ht/ou.geojson)     
+Ouest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HT-OU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ht/ou.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sud     code: **id3:HT-SD**     [view](../export/geojson/medium/id3/ht/sd.geojson)     
+Sud&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HT-SD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ht/sd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sud-Est     code: **id3:HT-SE**     [view](../export/geojson/medium/id3/ht/se.geojson)     
+Sud-Est&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HT-SE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ht/se.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

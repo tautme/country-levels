@@ -1,15 +1,15 @@
 # Denmark states/provinces/counties
-Hovedstaden     code: **id3:DK-84**     [view](../export/geojson/medium/id3/dk/84.geojson)     
+Hovedstaden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:DK-84**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/dk/84.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Midtjylland     code: **id3:DK-82**     [view](../export/geojson/medium/id3/dk/82.geojson)     
+Midtjylland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:DK-82**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/dk/82.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nordjylland     code: **id3:DK-81**     [view](../export/geojson/medium/id3/dk/81.geojson)     
+Nordjylland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:DK-81**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/dk/81.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sjaælland     code: **id3:DK-85**     [view](../export/geojson/medium/id3/dk/85.geojson)     
+Sjaælland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:DK-85**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/dk/85.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Syddanmark     code: **id3:DK-83**     [view](../export/geojson/medium/id3/dk/83.geojson)     
+Syddanmark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:DK-83**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/dk/83.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

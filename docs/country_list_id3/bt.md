@@ -1,60 +1,60 @@
 # Bhutan states/provinces/counties
-Bumthang     code: **id3:BT-33**     [view](../export/geojson/medium/id3/bt/33.geojson)     
+Bumthang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-33**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/33.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chhukha     code: **id3:BT-12**     [view](../export/geojson/medium/id3/bt/12.geojson)     
+Chhukha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/12.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chirang     code: **id3:BT-21**     [view](../export/geojson/medium/id3/bt/21.geojson)     
+Chirang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-21**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/21.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Daga     code: **id3:BT-22**     [view](../export/geojson/medium/id3/bt/22.geojson)     
+Daga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-22**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/22.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gasa     code: **id3:BT-GA**     [view](../export/geojson/medium/id3/bt/ga.geojson)     
+Gasa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-GA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/ga.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Geylegphug     code: **id3:BT-31**     [view](../export/geojson/medium/id3/bt/31.geojson)     
+Geylegphug&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-31**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/31.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ha     code: **id3:BT-13**     [view](../export/geojson/medium/id3/bt/13.geojson)     
+Ha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-13**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/13.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lhuntshi     code: **id3:BT-44**     [view](../export/geojson/medium/id3/bt/44.geojson)     
+Lhuntshi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-44**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/44.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mongar     code: **id3:BT-42**     [view](../export/geojson/medium/id3/bt/42.geojson)     
+Mongar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-42**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/42.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Paro     code: **id3:BT-11**     [view](../export/geojson/medium/id3/bt/11.geojson)     
+Paro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pemagatsel     code: **id3:BT-43**     [view](../export/geojson/medium/id3/bt/43.geojson)     
+Pemagatsel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-43**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/43.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Punakha     code: **id3:BT-23**     [view](../export/geojson/medium/id3/bt/23.geojson)     
+Punakha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-23**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/23.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Samchi     code: **id3:BT-14**     [view](../export/geojson/medium/id3/bt/14.geojson)     
+Samchi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-14**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/14.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Samdrup Jongkhar     code: **id3:BT-45**     [view](../export/geojson/medium/id3/bt/45.geojson)     
+Samdrup Jongkhar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-45**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/45.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Shemgang     code: **id3:BT-34**     [view](../export/geojson/medium/id3/bt/34.geojson)     
+Shemgang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-34**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/34.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tashi Yangtse     code: **id3:BT-TY**     [view](../export/geojson/medium/id3/bt/ty.geojson)     
+Tashi Yangtse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-TY**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/ty.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tashigang     code: **id3:BT-41**     [view](../export/geojson/medium/id3/bt/41.geojson)     
+Tashigang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-41**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/41.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Thimphu     code: **id3:BT-15**     [view](../export/geojson/medium/id3/bt/15.geojson)     
+Thimphu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-15**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/15.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tongsa     code: **id3:BT-32**     [view](../export/geojson/medium/id3/bt/32.geojson)     
+Tongsa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-32**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/32.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Wangdi Phodrang     code: **id3:BT-24**     [view](../export/geojson/medium/id3/bt/24.geojson)     
+Wangdi Phodrang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BT-24**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bt/24.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

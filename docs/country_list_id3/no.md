@@ -1,63 +1,63 @@
 # Norway states/provinces/counties
-Akershus     code: **id3:NO-02**     [view](../export/geojson/medium/id3/no/02.geojson)     
+Akershus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Aust-Agder     code: **id3:NO-09**     [view](../export/geojson/medium/id3/no/09.geojson)     
+Aust-Agder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/09.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bouvet Island     code: **id3:NO-X01**     [view](../export/geojson/medium/id3/no/x01.geojson)     
+Bouvet Island&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-X01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/x01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Buskerud     code: **id3:NO-06**     [view](../export/geojson/medium/id3/no/06.geojson)     
+Buskerud&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Finnmark     code: **id3:NO-20**     [view](../export/geojson/medium/id3/no/20.geojson)     
+Finnmark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-20**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/20.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hedmark     code: **id3:NO-04**     [view](../export/geojson/medium/id3/no/04.geojson)     
+Hedmark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hordaland     code: **id3:NO-12**     [view](../export/geojson/medium/id3/no/12.geojson)     
+Hordaland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/12.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Møre og Romsdal     code: **id3:NO-15**     [view](../export/geojson/medium/id3/no/15.geojson)     
+Møre og Romsdal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-15**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/15.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nord-Trøndelag     code: **id3:NO-17**     [view](../export/geojson/medium/id3/no/17.geojson)     
+Nord-Trøndelag&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-17**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/17.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nordland     code: **id3:NO-18**     [view](../export/geojson/medium/id3/no/18.geojson)     
+Nordland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-18**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/18.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Oppland     code: **id3:NO-05**     [view](../export/geojson/medium/id3/no/05.geojson)     
+Oppland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Oslo     code: **id3:NO-03**     [view](../export/geojson/medium/id3/no/03.geojson)     
+Oslo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rogaland     code: **id3:NO-11**     [view](../export/geojson/medium/id3/no/11.geojson)     
+Rogaland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sogn og Fjordane     code: **id3:NO-14**     [view](../export/geojson/medium/id3/no/14.geojson)     
+Sogn og Fjordane&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-14**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/14.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Svalbard     code: **id3:NO-21**     [view](../export/geojson/medium/id3/no/21.geojson)     
+Svalbard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-21**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/21.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sør-Trøndelag     code: **id3:NO-16**     [view](../export/geojson/medium/id3/no/16.geojson)     
+Sør-Trøndelag&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-16**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/16.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Telemark     code: **id3:NO-08**     [view](../export/geojson/medium/id3/no/08.geojson)     
+Telemark&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Troms     code: **id3:NO-19**     [view](../export/geojson/medium/id3/no/19.geojson)     
+Troms&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-19**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/19.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vest-Agder     code: **id3:NO-10**     [view](../export/geojson/medium/id3/no/10.geojson)     
+Vest-Agder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vestfold     code: **id3:NO-07**     [view](../export/geojson/medium/id3/no/07.geojson)     
+Vestfold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Østfold     code: **id3:NO-01**     [view](../export/geojson/medium/id3/no/01.geojson)     
+Østfold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NO-01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/no/01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,45 +1,45 @@
 # Botswana states/provinces/counties
-Central     code: **id3:BW-CE**     [view](../export/geojson/medium/id3/bw/ce.geojson)     
+Central&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-CE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/ce.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Francistown     code: **id3:BW-FR**     [view](../export/geojson/medium/id3/bw/fr.geojson)     
+Francistown&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-FR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/fr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gaborone     code: **id3:BW-GA**     [view](../export/geojson/medium/id3/bw/ga.geojson)     
+Gaborone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-GA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/ga.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ghanzi     code: **id3:BW-GH**     [view](../export/geojson/medium/id3/bw/gh.geojson)     
+Ghanzi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-GH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/gh.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jwaneng     code: **id3:BW-JW**     [view](../export/geojson/medium/id3/bw/jw.geojson)     
+Jwaneng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-JW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/jw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kgalagadi     code: **id3:BW-KG**     [view](../export/geojson/medium/id3/bw/kg.geojson)     
+Kgalagadi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-KG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/kg.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kgatleng     code: **id3:BW-KL**     [view](../export/geojson/medium/id3/bw/kl.geojson)     
+Kgatleng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-KL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/kl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kweneng     code: **id3:BW-KW**     [view](../export/geojson/medium/id3/bw/kw.geojson)     
+Kweneng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-KW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/kw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lobatse     code: **id3:BW-LO**     [view](../export/geojson/medium/id3/bw/lo.geojson)     
+Lobatse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-LO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/lo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North-East     code: **id3:BW-NE**     [view](../export/geojson/medium/id3/bw/ne.geojson)     
+North-East&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-NE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/ne.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North-West     code: **id3:BW-NW**     [view](../export/geojson/medium/id3/bw/nw.geojson)     
+North-West&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-NW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/nw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Selebi-Phikwe     code: **id3:BW-SP**     [view](../export/geojson/medium/id3/bw/sp.geojson)     
+Selebi-Phikwe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-SP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/sp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-South-East     code: **id3:BW-SE**     [view](../export/geojson/medium/id3/bw/se.geojson)     
+South-East&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-SE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/se.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Southern     code: **id3:BW-SO**     [view](../export/geojson/medium/id3/bw/so.geojson)     
+Southern&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-SO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/so.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sowa     code: **id3:BW-ST**     [view](../export/geojson/medium/id3/bw/st.geojson)     
+Sowa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BW-ST**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bw/st.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

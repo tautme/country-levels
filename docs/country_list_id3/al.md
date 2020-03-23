@@ -1,36 +1,36 @@
 # Albania states/provinces/counties
-Berat     code: **id3:AL-01**     [view](../export/geojson/medium/id3/al/01.geojson)     
+Berat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dibër     code: **id3:AL-09**     [view](../export/geojson/medium/id3/al/09.geojson)     
+Dibër&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/09.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Durrës     code: **id3:AL-02**     [view](../export/geojson/medium/id3/al/02.geojson)     
+Durrës&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Durrës     code: **id3:AL-02_1159312427**     [view](../export/geojson/medium/id3/al/02_1159312427.geojson)     
+Durrës&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-02_1159312427**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/02_1159312427.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Elbasan     code: **id3:AL-03**     [view](../export/geojson/medium/id3/al/03.geojson)     
+Elbasan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Fier     code: **id3:AL-04**     [view](../export/geojson/medium/id3/al/04.geojson)     
+Fier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gjirokastër     code: **id3:AL-05**     [view](../export/geojson/medium/id3/al/05.geojson)     
+Gjirokastër&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Korçë     code: **id3:AL-06**     [view](../export/geojson/medium/id3/al/06.geojson)     
+Korçë&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kukës     code: **id3:AL-07**     [view](../export/geojson/medium/id3/al/07.geojson)     
+Kukës&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lezhë     code: **id3:AL-08**     [view](../export/geojson/medium/id3/al/08.geojson)     
+Lezhë&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Shkodër     code: **id3:AL-10**     [view](../export/geojson/medium/id3/al/10.geojson)     
+Shkodër&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vlorë     code: **id3:AL-12**     [view](../export/geojson/medium/id3/al/12.geojson)     
+Vlorë&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AL-12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/al/12.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

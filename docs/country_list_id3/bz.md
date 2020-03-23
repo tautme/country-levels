@@ -1,18 +1,18 @@
 # Belize states/provinces/counties
-Belize     code: **id3:BZ-BZ**     [view](../export/geojson/medium/id3/bz/bz.geojson)     
+Belize&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BZ-BZ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bz/bz.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Cayo     code: **id3:BZ-CY**     [view](../export/geojson/medium/id3/bz/cy.geojson)     
+Cayo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BZ-CY**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bz/cy.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Corozal     code: **id3:BZ-CZL**     [view](../export/geojson/medium/id3/bz/czl.geojson)     
+Corozal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BZ-CZL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bz/czl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Orange Walk     code: **id3:BZ-OW**     [view](../export/geojson/medium/id3/bz/ow.geojson)     
+Orange Walk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BZ-OW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bz/ow.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Stann Creek     code: **id3:BZ-SC**     [view](../export/geojson/medium/id3/bz/sc.geojson)     
+Stann Creek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BZ-SC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bz/sc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Toledo     code: **id3:BZ-TOL**     [view](../export/geojson/medium/id3/bz/tol.geojson)     
+Toledo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BZ-TOL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bz/tol.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

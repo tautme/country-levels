@@ -1,30 +1,30 @@
 # South Sudan states/provinces/counties
-Central Equatoria     code: **id3:SS-EC**     [view](../export/geojson/medium/id3/ss/ec.geojson)     
+Central Equatoria&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SS-EC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ss/ec.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Eastern Equatoria     code: **id3:SS-EE**     [view](../export/geojson/medium/id3/ss/ee.geojson)     
+Eastern Equatoria&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SS-EE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ss/ee.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jonglei     code: **id3:SS-JG**     [view](../export/geojson/medium/id3/ss/jg.geojson)     
+Jonglei&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SS-JG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ss/jg.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lakes     code: **id3:SS-LK**     [view](../export/geojson/medium/id3/ss/lk.geojson)     
+Lakes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SS-LK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ss/lk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Northern Bahr el Ghazal     code: **id3:SS-BN**     [view](../export/geojson/medium/id3/ss/bn.geojson)     
+Northern Bahr el Ghazal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SS-BN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ss/bn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Unity     code: **id3:SS-UY**     [view](../export/geojson/medium/id3/ss/uy.geojson)     
+Unity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SS-UY**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ss/uy.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Upper Nile     code: **id3:SS-NU**     [view](../export/geojson/medium/id3/ss/nu.geojson)     
+Upper Nile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SS-NU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ss/nu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Warrap     code: **id3:SS-WR**     [view](../export/geojson/medium/id3/ss/wr.geojson)     
+Warrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SS-WR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ss/wr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western Bahr el Ghazal     code: **id3:SS-BW**     [view](../export/geojson/medium/id3/ss/bw.geojson)     
+Western Bahr el Ghazal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SS-BW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ss/bw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western Equatoria     code: **id3:SS-EW**     [view](../export/geojson/medium/id3/ss/ew.geojson)     
+Western Equatoria&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SS-EW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ss/ew.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

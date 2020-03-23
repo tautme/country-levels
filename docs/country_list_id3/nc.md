@@ -1,9 +1,9 @@
 # New Caledonia states/provinces/counties
-Nord     code: **id3:NC-X03**     [view](../export/geojson/medium/id3/nc/x03.geojson)     
+Nord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NC-X03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/nc/x03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sud     code: **id3:NC-X02**     [view](../export/geojson/medium/id3/nc/x02.geojson)     
+Sud&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NC-X02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/nc/x02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Îles Loyauté     code: **id3:NC-X01**     [view](../export/geojson/medium/id3/nc/x01.geojson)     
+Îles Loyauté&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NC-X01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/nc/x01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

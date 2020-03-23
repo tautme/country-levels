@@ -1,30 +1,30 @@
 # Cameroon states/provinces/counties
-Adamaoua     code: **id3:CM-AD**     [view](../export/geojson/medium/id3/cm/ad.geojson)     
+Adamaoua&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CM-AD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cm/ad.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Centre     code: **id3:CM-CE**     [view](../export/geojson/medium/id3/cm/ce.geojson)     
+Centre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CM-CE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cm/ce.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Est     code: **id3:CM-ES**     [view](../export/geojson/medium/id3/cm/es.geojson)     
+Est&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CM-ES**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cm/es.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Extrême-Nord     code: **id3:CM-EN**     [view](../export/geojson/medium/id3/cm/en.geojson)     
+Extrême-Nord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CM-EN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cm/en.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Littoral     code: **id3:CM-LT**     [view](../export/geojson/medium/id3/cm/lt.geojson)     
+Littoral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CM-LT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cm/lt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nord     code: **id3:CM-NO**     [view](../export/geojson/medium/id3/cm/no.geojson)     
+Nord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CM-NO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cm/no.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nord-Ouest     code: **id3:CM-NW**     [view](../export/geojson/medium/id3/cm/nw.geojson)     
+Nord-Ouest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CM-NW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cm/nw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ouest     code: **id3:CM-OU**     [view](../export/geojson/medium/id3/cm/ou.geojson)     
+Ouest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CM-OU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cm/ou.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sud     code: **id3:CM-SU**     [view](../export/geojson/medium/id3/cm/su.geojson)     
+Sud&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CM-SU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cm/su.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sud-Ouest     code: **id3:CM-SW**     [view](../export/geojson/medium/id3/cm/sw.geojson)     
+Sud-Ouest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CM-SW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cm/sw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

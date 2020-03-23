@@ -1,42 +1,42 @@
 # Myanmar states/provinces/counties
-Ayeyarwady     code: **id3:MM-07**     [view](../export/geojson/medium/id3/mm/07.geojson)     
+Ayeyarwady&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bago     code: **id3:MM-02**     [view](../export/geojson/medium/id3/mm/02.geojson)     
+Bago&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chin     code: **id3:MM-14**     [view](../export/geojson/medium/id3/mm/14.geojson)     
+Chin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-14**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/14.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kachin     code: **id3:MM-11**     [view](../export/geojson/medium/id3/mm/11.geojson)     
+Kachin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kayah     code: **id3:MM-12**     [view](../export/geojson/medium/id3/mm/12.geojson)     
+Kayah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/12.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kayin     code: **id3:MM-13**     [view](../export/geojson/medium/id3/mm/13.geojson)     
+Kayin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-13**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/13.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Magway     code: **id3:MM-03**     [view](../export/geojson/medium/id3/mm/03.geojson)     
+Magway&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mandalay     code: **id3:MM-04**     [view](../export/geojson/medium/id3/mm/04.geojson)     
+Mandalay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mon     code: **id3:MM-15**     [view](../export/geojson/medium/id3/mm/15.geojson)     
+Mon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-15**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/15.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rakhine     code: **id3:MM-16**     [view](../export/geojson/medium/id3/mm/16.geojson)     
+Rakhine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-16**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/16.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sagaing     code: **id3:MM-01**     [view](../export/geojson/medium/id3/mm/01.geojson)     
+Sagaing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Shan     code: **id3:MM-17**     [view](../export/geojson/medium/id3/mm/17.geojson)     
+Shan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-17**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/17.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tanintharyi     code: **id3:MM-05**     [view](../export/geojson/medium/id3/mm/05.geojson)     
+Tanintharyi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Yangon     code: **id3:MM-06**     [view](../export/geojson/medium/id3/mm/06.geojson)     
+Yangon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MM-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mm/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

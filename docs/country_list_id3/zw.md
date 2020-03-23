@@ -1,30 +1,30 @@
 # Zimbabwe states/provinces/counties
-Bulawayo     code: **id3:ZW-BU**     [view](../export/geojson/medium/id3/zw/bu.geojson)     
+Bulawayo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZW-BU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/zw/bu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Harare     code: **id3:ZW-HA**     [view](../export/geojson/medium/id3/zw/ha.geojson)     
+Harare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZW-HA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/zw/ha.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Manicaland     code: **id3:ZW-MA**     [view](../export/geojson/medium/id3/zw/ma.geojson)     
+Manicaland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZW-MA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/zw/ma.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mashonaland Central     code: **id3:ZW-MC**     [view](../export/geojson/medium/id3/zw/mc.geojson)     
+Mashonaland Central&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZW-MC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/zw/mc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mashonaland East     code: **id3:ZW-ME**     [view](../export/geojson/medium/id3/zw/me.geojson)     
+Mashonaland East&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZW-ME**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/zw/me.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mashonaland West     code: **id3:ZW-MW**     [view](../export/geojson/medium/id3/zw/mw.geojson)     
+Mashonaland West&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZW-MW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/zw/mw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Masvingo     code: **id3:ZW-MV**     [view](../export/geojson/medium/id3/zw/mv.geojson)     
+Masvingo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZW-MV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/zw/mv.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Matabeleland North     code: **id3:ZW-MN**     [view](../export/geojson/medium/id3/zw/mn.geojson)     
+Matabeleland North&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZW-MN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/zw/mn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Matabeleland South     code: **id3:ZW-MS**     [view](../export/geojson/medium/id3/zw/ms.geojson)     
+Matabeleland South&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZW-MS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/zw/ms.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Midlands     code: **id3:ZW-MI**     [view](../export/geojson/medium/id3/zw/mi.geojson)     
+Midlands&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ZW-MI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/zw/mi.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,45 +1,45 @@
 # Syria states/provinces/counties
-Aleppo     code: **id3:SY-HL**     [view](../export/geojson/medium/id3/sy/hl.geojson)     
+Aleppo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-HL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/hl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ar Raqqah     code: **id3:SY-RA**     [view](../export/geojson/medium/id3/sy/ra.geojson)     
+Ar Raqqah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-RA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/ra.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-As Suwayda'     code: **id3:SY-SU**     [view](../export/geojson/medium/id3/sy/su.geojson)     
+As Suwayda'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-SU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/su.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Damascus     code: **id3:SY-DI**     [view](../export/geojson/medium/id3/sy/di.geojson)     
+Damascus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-DI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/di.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dar`a     code: **id3:SY-DR**     [view](../export/geojson/medium/id3/sy/dr.geojson)     
+Dar`a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-DR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/dr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dayr Az Zawr     code: **id3:SY-DY**     [view](../export/geojson/medium/id3/sy/dy.geojson)     
+Dayr Az Zawr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-DY**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/dy.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hamah     code: **id3:SY-HM**     [view](../export/geojson/medium/id3/sy/hm.geojson)     
+Hamah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-HM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/hm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hasaka (Al Haksa)     code: **id3:SY-HA**     [view](../export/geojson/medium/id3/sy/ha.geojson)     
+Hasaka (Al Haksa)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-HA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/ha.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Homs (Hims)     code: **id3:SY-HI**     [view](../export/geojson/medium/id3/sy/hi.geojson)     
+Homs (Hims)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-HI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/hi.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Idlib     code: **id3:SY-ID**     [view](../export/geojson/medium/id3/sy/id.geojson)     
+Idlib&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-ID**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/id.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lattakia     code: **id3:SY-LA**     [view](../export/geojson/medium/id3/sy/la.geojson)     
+Lattakia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-LA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/la.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Quneitra     code: **id3:SY-QU**     [view](../export/geojson/medium/id3/sy/qu.geojson)     
+Quneitra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-QU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/qu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rif Dimashq     code: **id3:SY-RD**     [view](../export/geojson/medium/id3/sy/rd.geojson)     
+Rif Dimashq&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-RD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/rd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tartus     code: **id3:SY-TA**     [view](../export/geojson/medium/id3/sy/ta.geojson)     
+Tartus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-TA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/ta.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-UNDOF     code: **id3:SY-X01**     [view](../export/geojson/medium/id3/sy/x01.geojson)     
+UNDOF&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SY-X01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sy/x01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

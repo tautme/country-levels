@@ -1,18 +1,18 @@
 # Djibouti states/provinces/counties
-Ali Sabieh     code: **id3:DJ-AS**     [view](../export/geojson/medium/id3/dj/as.geojson)     
+Ali Sabieh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:DJ-AS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/dj/as.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Arta     code: **id3:DJ-AR**     [view](../export/geojson/medium/id3/dj/ar.geojson)     
+Arta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:DJ-AR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/dj/ar.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dikhil     code: **id3:DJ-DI**     [view](../export/geojson/medium/id3/dj/di.geojson)     
+Dikhil&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:DJ-DI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/dj/di.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Djibouti     code: **id3:DJ-DJ**     [view](../export/geojson/medium/id3/dj/dj.geojson)     
+Djibouti&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:DJ-DJ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/dj/dj.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Obock     code: **id3:DJ-OB**     [view](../export/geojson/medium/id3/dj/ob.geojson)     
+Obock&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:DJ-OB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/dj/ob.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tadjourah     code: **id3:DJ-TA**     [view](../export/geojson/medium/id3/dj/ta.geojson)     
+Tadjourah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:DJ-TA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/dj/ta.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

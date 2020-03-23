@@ -1,51 +1,51 @@
 # Laos states/provinces/counties
-Attapu     code: **id3:LA-AT**     [view](../export/geojson/medium/id3/la/at.geojson)     
+Attapu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-AT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/at.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bokeo     code: **id3:LA-BK**     [view](../export/geojson/medium/id3/la/bk.geojson)     
+Bokeo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-BK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/bk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bolikhamxai     code: **id3:LA-BL**     [view](../export/geojson/medium/id3/la/bl.geojson)     
+Bolikhamxai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-BL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/bl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Champasak     code: **id3:LA-CH**     [view](../export/geojson/medium/id3/la/ch.geojson)     
+Champasak&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-CH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/ch.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Houaphan     code: **id3:LA-HO**     [view](../export/geojson/medium/id3/la/ho.geojson)     
+Houaphan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-HO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/ho.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Khammouan     code: **id3:LA-KH**     [view](../export/geojson/medium/id3/la/kh.geojson)     
+Khammouan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-KH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/kh.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Louang Namtha     code: **id3:LA-LM**     [view](../export/geojson/medium/id3/la/lm.geojson)     
+Louang Namtha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-LM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/lm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Louangphrabang     code: **id3:LA-LP**     [view](../export/geojson/medium/id3/la/lp.geojson)     
+Louangphrabang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-LP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/lp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Oudômxai     code: **id3:LA-OU**     [view](../export/geojson/medium/id3/la/ou.geojson)     
+Oudômxai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-OU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/ou.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Phôngsali     code: **id3:LA-PH**     [view](../export/geojson/medium/id3/la/ph.geojson)     
+Phôngsali&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-PH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/ph.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saravan     code: **id3:LA-SL**     [view](../export/geojson/medium/id3/la/sl.geojson)     
+Saravan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-SL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/sl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Savannakhét     code: **id3:LA-SV**     [view](../export/geojson/medium/id3/la/sv.geojson)     
+Savannakhét&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-SV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/sv.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vientiane     code: **id3:LA-VI**     [view](../export/geojson/medium/id3/la/vi.geojson)     
+Vientiane&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-VI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/vi.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vientiane [prefecture]     code: **id3:LA-VT**     [view](../export/geojson/medium/id3/la/vt.geojson)     
+Vientiane [prefecture]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-VT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/vt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Xaignabouri     code: **id3:LA-XA**     [view](../export/geojson/medium/id3/la/xa.geojson)     
+Xaignabouri&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-XA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/xa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Xiangkhoang     code: **id3:LA-XI**     [view](../export/geojson/medium/id3/la/xi.geojson)     
+Xiangkhoang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-XI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/xi.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Xékong     code: **id3:LA-XE**     [view](../export/geojson/medium/id3/la/xe.geojson)     
+Xékong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LA-XE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/la/xe.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,3 +1,3 @@
 # Curaçao states/provinces/counties
-Curaçao     code: **id3:CW-CW**     [view](../export/geojson/medium/id3/cw/cw.geojson)     
+Curaçao&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CW-CW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cw/cw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

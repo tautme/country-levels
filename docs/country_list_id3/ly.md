@@ -1,66 +1,66 @@
 # Libya states/provinces/counties
-Ajdabiya     code: **id3:LY-AJ**     [view](../export/geojson/medium/id3/ly/aj.geojson)     
+Ajdabiya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-AJ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/aj.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Butnan     code: **id3:LY-BU**     [view](../export/geojson/medium/id3/ly/bu.geojson)     
+Al Butnan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-BU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/bu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Jabal al Akhdar     code: **id3:LY-JA**     [view](../export/geojson/medium/id3/ly/ja.geojson)     
+Al Jabal al Akhdar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-JA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/ja.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Jifarah     code: **id3:LY-JI**     [view](../export/geojson/medium/id3/ly/ji.geojson)     
+Al Jifarah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-JI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/ji.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Jufrah     code: **id3:LY-JU**     [view](../export/geojson/medium/id3/ly/ju.geojson)     
+Al Jufrah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-JU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/ju.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Kufrah     code: **id3:LY-KF**     [view](../export/geojson/medium/id3/ly/kf.geojson)     
+Al Kufrah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-KF**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/kf.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Marj     code: **id3:LY-MJ**     [view](../export/geojson/medium/id3/ly/mj.geojson)     
+Al Marj&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-MJ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/mj.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Marqab     code: **id3:LY-MB**     [view](../export/geojson/medium/id3/ly/mb.geojson)     
+Al Marqab&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-MB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/mb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Qubbah     code: **id3:LY-QB**     [view](../export/geojson/medium/id3/ly/qb.geojson)     
+Al Qubbah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-QB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/qb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-An Nuqat al Khams     code: **id3:LY-NQ**     [view](../export/geojson/medium/id3/ly/nq.geojson)     
+An Nuqat al Khams&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-NQ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/nq.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ash Shati'     code: **id3:LY-WS**     [view](../export/geojson/medium/id3/ly/ws.geojson)     
+Ash Shati'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-WS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/ws.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Az Zawiyah     code: **id3:LY-ZA**     [view](../export/geojson/medium/id3/ly/za.geojson)     
+Az Zawiyah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-ZA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/za.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Benghazi     code: **id3:LY-BA**     [view](../export/geojson/medium/id3/ly/ba.geojson)     
+Benghazi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-BA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/ba.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ghadamis     code: **id3:LY-GD**     [view](../export/geojson/medium/id3/ly/gd.geojson)     
+Ghadamis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-GD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/gd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ghat     code: **id3:LY-GT**     [view](../export/geojson/medium/id3/ly/gt.geojson)     
+Ghat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-GT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/gt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Misratah     code: **id3:LY-MI**     [view](../export/geojson/medium/id3/ly/mi.geojson)     
+Misratah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-MI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/mi.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mizdah     code: **id3:LY-MZ**     [view](../export/geojson/medium/id3/ly/mz.geojson)     
+Mizdah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-MZ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/mz.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Murzuq     code: **id3:LY-MQ**     [view](../export/geojson/medium/id3/ly/mq.geojson)     
+Murzuq&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-MQ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/mq.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sabha     code: **id3:LY-SB**     [view](../export/geojson/medium/id3/ly/sb.geojson)     
+Sabha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-SB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/sb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Surt     code: **id3:LY-SR**     [view](../export/geojson/medium/id3/ly/sr.geojson)     
+Surt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-SR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/sr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tajura' wa an Nawahi al Arba     code: **id3:LY-TN**     [view](../export/geojson/medium/id3/ly/tn.geojson)     
+Tajura' wa an Nawahi al Arba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-TN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/tn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Wadi al Hayaa     code: **id3:LY-WD**     [view](../export/geojson/medium/id3/ly/wd.geojson)     
+Wadi al Hayaa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LY-WD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ly/wd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

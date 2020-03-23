@@ -1,48 +1,48 @@
 # Mauritius states/provinces/counties
-Agaléga     code: **id3:MU-AG**     [view](../export/geojson/medium/id3/mu/ag.geojson)     
+Agaléga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-AG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/ag.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Beau Bassin-Rose Hill     code: **id3:MU-BR**     [view](../export/geojson/medium/id3/mu/br.geojson)     
+Beau Bassin-Rose Hill&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-BR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/br.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Curepipe     code: **id3:MU-CU**     [view](../export/geojson/medium/id3/mu/cu.geojson)     
+Curepipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-CU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/cu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Flacq     code: **id3:MU-FL**     [view](../export/geojson/medium/id3/mu/fl.geojson)     
+Flacq&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-FL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/fl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Grand Port     code: **id3:MU-GP**     [view](../export/geojson/medium/id3/mu/gp.geojson)     
+Grand Port&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-GP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/gp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Moka     code: **id3:MU-MO**     [view](../export/geojson/medium/id3/mu/mo.geojson)     
+Moka&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-MO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/mo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pamplemousses     code: **id3:MU-PA**     [view](../export/geojson/medium/id3/mu/pa.geojson)     
+Pamplemousses&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-PA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/pa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Plaines Wilhems     code: **id3:MU-PW**     [view](../export/geojson/medium/id3/mu/pw.geojson)     
+Plaines Wilhems&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-PW**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/pw.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Port Louis     code: **id3:MU-PL**     [view](../export/geojson/medium/id3/mu/pl.geojson)     
+Port Louis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-PL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/pl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Port Louis city     code: **id3:MU-PU**     [view](../export/geojson/medium/id3/mu/pu.geojson)     
+Port Louis city&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-PU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/pu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Quatre Bornes     code: **id3:MU-QB**     [view](../export/geojson/medium/id3/mu/qb.geojson)     
+Quatre Bornes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-QB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/qb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rivière Noire     code: **id3:MU-BL**     [view](../export/geojson/medium/id3/mu/bl.geojson)     
+Rivière Noire&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-BL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/bl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rivière du Rempart     code: **id3:MU-RR**     [view](../export/geojson/medium/id3/mu/rr.geojson)     
+Rivière du Rempart&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-RR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/rr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rodrigues     code: **id3:MU-RO**     [view](../export/geojson/medium/id3/mu/ro.geojson)     
+Rodrigues&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-RO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/ro.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Savanne     code: **id3:MU-SA**     [view](../export/geojson/medium/id3/mu/sa.geojson)     
+Savanne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-SA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/sa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vacoas-Phoenix     code: **id3:MU-VP**     [view](../export/geojson/medium/id3/mu/vp.geojson)     
+Vacoas-Phoenix&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MU-VP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mu/vp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

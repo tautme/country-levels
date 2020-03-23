@@ -1,30 +1,30 @@
 # Solomon Islands states/provinces/counties
-Capital Territory (Honiara)     code: **id3:SB-CT**     [view](../export/geojson/medium/id3/sb/ct.geojson)     
+Capital Territory (Honiara)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SB-CT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sb/ct.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Central     code: **id3:SB-CE**     [view](../export/geojson/medium/id3/sb/ce.geojson)     
+Central&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SB-CE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sb/ce.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Choiseul     code: **id3:SB-CH**     [view](../export/geojson/medium/id3/sb/ch.geojson)     
+Choiseul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SB-CH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sb/ch.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Guadalcanal     code: **id3:SB-GU**     [view](../export/geojson/medium/id3/sb/gu.geojson)     
+Guadalcanal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SB-GU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sb/gu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Isabel     code: **id3:SB-IS**     [view](../export/geojson/medium/id3/sb/is.geojson)     
+Isabel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SB-IS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sb/is.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Makira     code: **id3:SB-MK**     [view](../export/geojson/medium/id3/sb/mk.geojson)     
+Makira&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SB-MK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sb/mk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Malaita     code: **id3:SB-ML**     [view](../export/geojson/medium/id3/sb/ml.geojson)     
+Malaita&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SB-ML**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sb/ml.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rennell and Bellona     code: **id3:SB-RB**     [view](../export/geojson/medium/id3/sb/rb.geojson)     
+Rennell and Bellona&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SB-RB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sb/rb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Temotu     code: **id3:SB-TE**     [view](../export/geojson/medium/id3/sb/te.geojson)     
+Temotu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SB-TE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sb/te.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Western     code: **id3:SB-WE**     [view](../export/geojson/medium/id3/sb/we.geojson)     
+Western&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SB-WE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sb/we.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

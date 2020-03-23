@@ -1,30 +1,30 @@
 # Lithuania states/provinces/counties
-Alytaus     code: **id3:LT-03**     [view](../export/geojson/medium/id3/lt/03.geojson)     
+Alytaus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LT-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lt/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kauno     code: **id3:LT-KU**     [view](../export/geojson/medium/id3/lt/ku.geojson)     
+Kauno&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LT-KU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lt/ku.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Klaipedos     code: **id3:LT-KL**     [view](../export/geojson/medium/id3/lt/kl.geojson)     
+Klaipedos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LT-KL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lt/kl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Marijampoles     code: **id3:LT-MR**     [view](../export/geojson/medium/id3/lt/mr.geojson)     
+Marijampoles&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LT-MR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lt/mr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Panevezio     code: **id3:LT-PN**     [view](../export/geojson/medium/id3/lt/pn.geojson)     
+Panevezio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LT-PN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lt/pn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Taurages     code: **id3:LT-TA**     [view](../export/geojson/medium/id3/lt/ta.geojson)     
+Taurages&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LT-TA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lt/ta.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Telšiai     code: **id3:LT-TE**     [view](../export/geojson/medium/id3/lt/te.geojson)     
+Telšiai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LT-TE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lt/te.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Utenos     code: **id3:LT-UT**     [view](../export/geojson/medium/id3/lt/ut.geojson)     
+Utenos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LT-UT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lt/ut.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vilniaus     code: **id3:LT-VL**     [view](../export/geojson/medium/id3/lt/vl.geojson)     
+Vilniaus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LT-VL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lt/vl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Šiauliai     code: **id3:LT-SA**     [view](../export/geojson/medium/id3/lt/sa.geojson)     
+Šiauliai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LT-SA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lt/sa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

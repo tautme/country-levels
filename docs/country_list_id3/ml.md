@@ -1,27 +1,27 @@
 # Mali states/provinces/counties
-Bamako     code: **id3:ML-BKO**     [view](../export/geojson/medium/id3/ml/bko.geojson)     
+Bamako&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ML-BKO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ml/bko.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gao     code: **id3:ML-7**     [view](../export/geojson/medium/id3/ml/7.geojson)     
+Gao&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ML-7**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ml/7.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kayes     code: **id3:ML-1**     [view](../export/geojson/medium/id3/ml/1.geojson)     
+Kayes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ML-1**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ml/1.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kidal     code: **id3:ML-8**     [view](../export/geojson/medium/id3/ml/8.geojson)     
+Kidal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ML-8**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ml/8.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Koulikoro     code: **id3:ML-2**     [view](../export/geojson/medium/id3/ml/2.geojson)     
+Koulikoro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ML-2**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ml/2.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mopti     code: **id3:ML-5**     [view](../export/geojson/medium/id3/ml/5.geojson)     
+Mopti&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ML-5**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ml/5.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sikasso     code: **id3:ML-3**     [view](../export/geojson/medium/id3/ml/3.geojson)     
+Sikasso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ML-3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ml/3.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ségou     code: **id3:ML-4**     [view](../export/geojson/medium/id3/ml/4.geojson)     
+Ségou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ML-4**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ml/4.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Timbuktu     code: **id3:ML-6**     [view](../export/geojson/medium/id3/ml/6.geojson)     
+Timbuktu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ML-6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ml/6.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

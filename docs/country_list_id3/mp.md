@@ -1,12 +1,12 @@
 # Northern Mariana Islands states/provinces/counties
-Northern Islands     code: **id3:MP-MP**     [view](../export/geojson/medium/id3/mp/mp.geojson)     
+Northern Islands&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MP-MP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mp/mp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rota     code: **id3:MP-X01**     [view](../export/geojson/medium/id3/mp/x01.geojson)     
+Rota&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MP-X01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mp/x01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saipan     code: **id3:MP-X03**     [view](../export/geojson/medium/id3/mp/x03.geojson)     
+Saipan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MP-X03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mp/x03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tinian     code: **id3:MP-X02**     [view](../export/geojson/medium/id3/mp/x02.geojson)     
+Tinian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MP-X02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mp/x02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

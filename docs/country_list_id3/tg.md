@@ -1,15 +1,15 @@
 # Togo states/provinces/counties
-Centre     code: **id3:TG-03**     [view](../export/geojson/medium/id3/tg/03.geojson)     
+Centre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TG-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tg/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kara     code: **id3:TG-K**     [view](../export/geojson/medium/id3/tg/k.geojson)     
+Kara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TG-K**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tg/k.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Maritime     code: **id3:TG-M**     [view](../export/geojson/medium/id3/tg/m.geojson)     
+Maritime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TG-M**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tg/m.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Plateaux     code: **id3:TG-P**     [view](../export/geojson/medium/id3/tg/p.geojson)     
+Plateaux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TG-P**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tg/p.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Savanes     code: **id3:TG-S**     [view](../export/geojson/medium/id3/tg/s.geojson)     
+Savanes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TG-S**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tg/s.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

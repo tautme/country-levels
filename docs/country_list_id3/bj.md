@@ -1,36 +1,36 @@
 # Benin states/provinces/counties
-Alibori     code: **id3:BJ-AL**     [view](../export/geojson/medium/id3/bj/al.geojson)     
+Alibori&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-AL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/al.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Atakora     code: **id3:BJ-AK**     [view](../export/geojson/medium/id3/bj/ak.geojson)     
+Atakora&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-AK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/ak.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Atlantique     code: **id3:BJ-AQ**     [view](../export/geojson/medium/id3/bj/aq.geojson)     
+Atlantique&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-AQ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/aq.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Borgou     code: **id3:BJ-BO**     [view](../export/geojson/medium/id3/bj/bo.geojson)     
+Borgou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-BO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/bo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Collines     code: **id3:BJ-CO**     [view](../export/geojson/medium/id3/bj/co.geojson)     
+Collines&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-CO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/co.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Donga     code: **id3:BJ-DO**     [view](../export/geojson/medium/id3/bj/do.geojson)     
+Donga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-DO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/do.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kouffo     code: **id3:BJ-KO**     [view](../export/geojson/medium/id3/bj/ko.geojson)     
+Kouffo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-KO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/ko.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Littoral     code: **id3:BJ-LI**     [view](../export/geojson/medium/id3/bj/li.geojson)     
+Littoral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-LI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/li.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mono     code: **id3:BJ-MO**     [view](../export/geojson/medium/id3/bj/mo.geojson)     
+Mono&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-MO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/mo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ouémé     code: **id3:BJ-OU**     [view](../export/geojson/medium/id3/bj/ou.geojson)     
+Ouémé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-OU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/ou.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Plateau     code: **id3:BJ-PL**     [view](../export/geojson/medium/id3/bj/pl.geojson)     
+Plateau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-PL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/pl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Zou     code: **id3:BJ-ZO**     [view](../export/geojson/medium/id3/bj/zo.geojson)     
+Zou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BJ-ZO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bj/zo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

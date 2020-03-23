@@ -1,48 +1,48 @@
 # Poland states/provinces/counties
-Greater Poland     code: **id3:PL-WP**     [view](../export/geojson/medium/id3/pl/wp.geojson)     
+Greater Poland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-WP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/wp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kuyavian-Pomeranian     code: **id3:PL-KP**     [view](../export/geojson/medium/id3/pl/kp.geojson)     
+Kuyavian-Pomeranian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-KP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/kp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lesser Poland     code: **id3:PL-MA**     [view](../export/geojson/medium/id3/pl/ma.geojson)     
+Lesser Poland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-MA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/ma.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lower Silesian     code: **id3:PL-DS**     [view](../export/geojson/medium/id3/pl/ds.geojson)     
+Lower Silesian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-DS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/ds.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lublin     code: **id3:PL-LU**     [view](../export/geojson/medium/id3/pl/lu.geojson)     
+Lublin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-LU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/lu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lubusz     code: **id3:PL-LB**     [view](../export/geojson/medium/id3/pl/lb.geojson)     
+Lubusz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-LB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/lb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Masovian     code: **id3:PL-MZ**     [view](../export/geojson/medium/id3/pl/mz.geojson)     
+Masovian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-MZ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/mz.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Opole     code: **id3:PL-OP**     [view](../export/geojson/medium/id3/pl/op.geojson)     
+Opole&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-OP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/op.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Podlachian     code: **id3:PL-PD**     [view](../export/geojson/medium/id3/pl/pd.geojson)     
+Podlachian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-PD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/pd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pomeranian     code: **id3:PL-PM**     [view](../export/geojson/medium/id3/pl/pm.geojson)     
+Pomeranian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-PM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/pm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Silesian     code: **id3:PL-SL**     [view](../export/geojson/medium/id3/pl/sl.geojson)     
+Silesian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-SL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/sl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Subcarpathian     code: **id3:PL-PK**     [view](../export/geojson/medium/id3/pl/pk.geojson)     
+Subcarpathian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-PK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/pk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Warmian-Masurian     code: **id3:PL-WN**     [view](../export/geojson/medium/id3/pl/wn.geojson)     
+Warmian-Masurian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-WN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/wn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-West Pomeranian     code: **id3:PL-ZP**     [view](../export/geojson/medium/id3/pl/zp.geojson)     
+West Pomeranian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-ZP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/zp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Łódź     code: **id3:PL-LD**     [view](../export/geojson/medium/id3/pl/ld.geojson)     
+Łódź&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-LD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/ld.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Świętokrzyskie     code: **id3:PL-SK**     [view](../export/geojson/medium/id3/pl/sk.geojson)     
+Świętokrzyskie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PL-SK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pl/sk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

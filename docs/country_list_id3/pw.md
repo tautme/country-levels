@@ -1,48 +1,48 @@
 # Palau states/provinces/counties
-Aimeliik     code: **id3:PW-002**     [view](../export/geojson/medium/id3/pw/002.geojson)     
+Aimeliik&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-002**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/002.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Airai     code: **id3:PW-004**     [view](../export/geojson/medium/id3/pw/004.geojson)     
+Airai&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-004**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/004.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Angaur     code: **id3:PW-010**     [view](../export/geojson/medium/id3/pw/010.geojson)     
+Angaur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-010**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/010.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hatobohei     code: **id3:PW-050**     [view](../export/geojson/medium/id3/pw/050.geojson)     
+Hatobohei&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-050**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/050.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kayangel     code: **id3:PW-100**     [view](../export/geojson/medium/id3/pw/100.geojson)     
+Kayangel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-100**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/100.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Koror     code: **id3:PW-150**     [view](../export/geojson/medium/id3/pw/150.geojson)     
+Koror&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-150**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/150.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Melekeok     code: **id3:PW-212**     [view](../export/geojson/medium/id3/pw/212.geojson)     
+Melekeok&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-212**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/212.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ngaraard     code: **id3:PW-214**     [view](../export/geojson/medium/id3/pw/214.geojson)     
+Ngaraard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-214**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/214.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ngarchelong     code: **id3:PW-218**     [view](../export/geojson/medium/id3/pw/218.geojson)     
+Ngarchelong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-218**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/218.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ngardmau     code: **id3:PW-222**     [view](../export/geojson/medium/id3/pw/222.geojson)     
+Ngardmau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-222**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/222.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ngatpang     code: **id3:PW-224**     [view](../export/geojson/medium/id3/pw/224.geojson)     
+Ngatpang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-224**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/224.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ngchesar     code: **id3:PW-226**     [view](../export/geojson/medium/id3/pw/226.geojson)     
+Ngchesar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-226**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/226.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ngeremlengui     code: **id3:PW-227**     [view](../export/geojson/medium/id3/pw/227.geojson)     
+Ngeremlengui&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-227**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/227.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ngiwal     code: **id3:PW-228**     [view](../export/geojson/medium/id3/pw/228.geojson)     
+Ngiwal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-228**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/228.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Peleliu     code: **id3:PW-350**     [view](../export/geojson/medium/id3/pw/350.geojson)     
+Peleliu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-350**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/350.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sonsorol     code: **id3:PW-370**     [view](../export/geojson/medium/id3/pw/370.geojson)     
+Sonsorol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PW-370**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pw/370.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,27 +1,27 @@
 # Bolivia states/provinces/counties
-Chuquisaca     code: **id3:BO-H**     [view](../export/geojson/medium/id3/bo/h.geojson)     
+Chuquisaca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BO-H**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bo/h.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Cochabamba     code: **id3:BO-C**     [view](../export/geojson/medium/id3/bo/c.geojson)     
+Cochabamba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BO-C**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bo/c.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-El Beni     code: **id3:BO-B**     [view](../export/geojson/medium/id3/bo/b.geojson)     
+El Beni&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BO-B**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bo/b.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-La Paz     code: **id3:BO-L**     [view](../export/geojson/medium/id3/bo/l.geojson)     
+La Paz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BO-L**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bo/l.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Oruro     code: **id3:BO-O**     [view](../export/geojson/medium/id3/bo/o.geojson)     
+Oruro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BO-O**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bo/o.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pando     code: **id3:BO-N**     [view](../export/geojson/medium/id3/bo/n.geojson)     
+Pando&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BO-N**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bo/n.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Potosí     code: **id3:BO-P**     [view](../export/geojson/medium/id3/bo/p.geojson)     
+Potosí&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BO-P**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bo/p.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Santa Cruz     code: **id3:BO-S**     [view](../export/geojson/medium/id3/bo/s.geojson)     
+Santa Cruz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BO-S**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bo/s.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tarija     code: **id3:BO-T**     [view](../export/geojson/medium/id3/bo/t.geojson)     
+Tarija&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BO-T**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bo/t.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,54 +1,54 @@
 # Iraq states/provinces/counties
-Al-Anbar     code: **id3:IQ-AN**     [view](../export/geojson/medium/id3/iq/an.geojson)     
+Al-Anbar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-AN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/an.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al-Basrah     code: **id3:IQ-BA**     [view](../export/geojson/medium/id3/iq/ba.geojson)     
+Al-Basrah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-BA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/ba.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al-Muthannia     code: **id3:IQ-MU**     [view](../export/geojson/medium/id3/iq/mu.geojson)     
+Al-Muthannia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-MU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/mu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al-Qādisiyyah     code: **id3:IQ-QA**     [view](../export/geojson/medium/id3/iq/qa.geojson)     
+Al-Qādisiyyah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-QA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/qa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-An-Najaf     code: **id3:IQ-NA**     [view](../export/geojson/medium/id3/iq/na.geojson)     
+An-Najaf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-NA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/na.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Arbil     code: **id3:IQ-AR**     [view](../export/geojson/medium/id3/iq/ar.geojson)     
+Arbil&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-AR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/ar.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-As-Sulaymaniyah     code: **id3:IQ-SU**     [view](../export/geojson/medium/id3/iq/su.geojson)     
+As-Sulaymaniyah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-SU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/su.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-At-Ta'mim     code: **id3:IQ-KI**     [view](../export/geojson/medium/id3/iq/ki.geojson)     
+At-Ta'mim&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-KI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/ki.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Babil     code: **id3:IQ-BB**     [view](../export/geojson/medium/id3/iq/bb.geojson)     
+Babil&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-BB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/bb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Baghdad     code: **id3:IQ-BG**     [view](../export/geojson/medium/id3/iq/bg.geojson)     
+Baghdad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-BG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/bg.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dhi-Qar     code: **id3:IQ-DQ**     [view](../export/geojson/medium/id3/iq/dq.geojson)     
+Dhi-Qar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-DQ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/dq.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dihok     code: **id3:IQ-DA**     [view](../export/geojson/medium/id3/iq/da.geojson)     
+Dihok&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-DA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/da.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Diyala     code: **id3:IQ-DI**     [view](../export/geojson/medium/id3/iq/di.geojson)     
+Diyala&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-DI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/di.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Karbala'     code: **id3:IQ-KA**     [view](../export/geojson/medium/id3/iq/ka.geojson)     
+Karbala'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-KA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/ka.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Maysan     code: **id3:IQ-MA**     [view](../export/geojson/medium/id3/iq/ma.geojson)     
+Maysan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-MA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/ma.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ninawa     code: **id3:IQ-NI**     [view](../export/geojson/medium/id3/iq/ni.geojson)     
+Ninawa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-NI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/ni.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sala ad-Din     code: **id3:IQ-SD**     [view](../export/geojson/medium/id3/iq/sd.geojson)     
+Sala ad-Din&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-SD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/sd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Wasit     code: **id3:IQ-WA**     [view](../export/geojson/medium/id3/iq/wa.geojson)     
+Wasit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:IQ-WA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/iq/wa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

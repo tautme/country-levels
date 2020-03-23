@@ -1,42 +1,42 @@
 # Nepal states/provinces/counties
-Bagmati     code: **id3:NP-BA**     [view](../export/geojson/medium/id3/np/ba.geojson)     
+Bagmati&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-BA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/ba.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bheri     code: **id3:NP-BH**     [view](../export/geojson/medium/id3/np/bh.geojson)     
+Bheri&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-BH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/bh.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bhojpur     code: **id3:NP-KO**     [view](../export/geojson/medium/id3/np/ko.geojson)     
+Bhojpur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-KO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/ko.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dhawalagiri     code: **id3:NP-DH**     [view](../export/geojson/medium/id3/np/dh.geojson)     
+Dhawalagiri&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-DH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/dh.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gandaki     code: **id3:NP-GA**     [view](../export/geojson/medium/id3/np/ga.geojson)     
+Gandaki&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-GA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/ga.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Janakpur     code: **id3:NP-JA**     [view](../export/geojson/medium/id3/np/ja.geojson)     
+Janakpur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-JA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/ja.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Karnali     code: **id3:NP-KA**     [view](../export/geojson/medium/id3/np/ka.geojson)     
+Karnali&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-KA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/ka.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lumbini     code: **id3:NP-LU**     [view](../export/geojson/medium/id3/np/lu.geojson)     
+Lumbini&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-LU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/lu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mahakali     code: **id3:NP-MA**     [view](../export/geojson/medium/id3/np/ma.geojson)     
+Mahakali&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-MA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/ma.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mechi     code: **id3:NP-ME**     [view](../export/geojson/medium/id3/np/me.geojson)     
+Mechi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-ME**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/me.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Narayani     code: **id3:NP-NA**     [view](../export/geojson/medium/id3/np/na.geojson)     
+Narayani&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-NA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/na.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rapti     code: **id3:NP-RA**     [view](../export/geojson/medium/id3/np/ra.geojson)     
+Rapti&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-RA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/ra.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sagarmatha     code: **id3:NP-SA**     [view](../export/geojson/medium/id3/np/sa.geojson)     
+Sagarmatha&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-SA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/sa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Seti     code: **id3:NP-SE**     [view](../export/geojson/medium/id3/np/se.geojson)     
+Seti&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NP-SE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/np/se.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

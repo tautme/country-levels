@@ -1,39 +1,39 @@
 # Mauritania states/provinces/counties
-Adrar     code: **id3:MR-07**     [view](../export/geojson/medium/id3/mr/07.geojson)     
+Adrar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Assaba     code: **id3:MR-03**     [view](../export/geojson/medium/id3/mr/03.geojson)     
+Assaba&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Brakna     code: **id3:MR-05**     [view](../export/geojson/medium/id3/mr/05.geojson)     
+Brakna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dakhlet Nouadhibou     code: **id3:MR-08**     [view](../export/geojson/medium/id3/mr/08.geojson)     
+Dakhlet Nouadhibou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gorgol     code: **id3:MR-04**     [view](../export/geojson/medium/id3/mr/04.geojson)     
+Gorgol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Guidimaka     code: **id3:MR-10**     [view](../export/geojson/medium/id3/mr/10.geojson)     
+Guidimaka&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hodh ech Chargui     code: **id3:MR-01**     [view](../export/geojson/medium/id3/mr/01.geojson)     
+Hodh ech Chargui&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hodh el Gharbi     code: **id3:MR-02**     [view](../export/geojson/medium/id3/mr/02.geojson)     
+Hodh el Gharbi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Inchiri     code: **id3:MR-12**     [view](../export/geojson/medium/id3/mr/12.geojson)     
+Inchiri&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/12.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nouakchott     code: **id3:MR-NKC**     [view](../export/geojson/medium/id3/mr/nkc.geojson)     
+Nouakchott&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-NKC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/nkc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tagant     code: **id3:MR-09**     [view](../export/geojson/medium/id3/mr/09.geojson)     
+Tagant&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/09.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tiris Zemmour     code: **id3:MR-11**     [view](../export/geojson/medium/id3/mr/11.geojson)     
+Tiris Zemmour&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Trarza     code: **id3:MR-06**     [view](../export/geojson/medium/id3/mr/06.geojson)     
+Trarza&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MR-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mr/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

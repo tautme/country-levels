@@ -1,42 +1,42 @@
 # Senegal states/provinces/counties
-Dakar     code: **id3:SN-DK**     [view](../export/geojson/medium/id3/sn/dk.geojson)     
+Dakar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-DK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/dk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Diourbel     code: **id3:SN-DB**     [view](../export/geojson/medium/id3/sn/db.geojson)     
+Diourbel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-DB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/db.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Fatick     code: **id3:SN-FK**     [view](../export/geojson/medium/id3/sn/fk.geojson)     
+Fatick&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-FK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/fk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kaffrine     code: **id3:SN-KA**     [view](../export/geojson/medium/id3/sn/ka.geojson)     
+Kaffrine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-KA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/ka.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kaolack     code: **id3:SN-KL**     [view](../export/geojson/medium/id3/sn/kl.geojson)     
+Kaolack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-KL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/kl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kolda     code: **id3:SN-KD**     [view](../export/geojson/medium/id3/sn/kd.geojson)     
+Kolda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-KD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/kd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kédougou     code: **id3:SN-KE**     [view](../export/geojson/medium/id3/sn/ke.geojson)     
+Kédougou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-KE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/ke.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Louga     code: **id3:SN-LG**     [view](../export/geojson/medium/id3/sn/lg.geojson)     
+Louga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-LG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/lg.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Matam     code: **id3:SN-MT**     [view](../export/geojson/medium/id3/sn/mt.geojson)     
+Matam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-MT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/mt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint-Louis     code: **id3:SN-SL**     [view](../export/geojson/medium/id3/sn/sl.geojson)     
+Saint-Louis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-SL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/sl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sédhiou     code: **id3:SN-SE**     [view](../export/geojson/medium/id3/sn/se.geojson)     
+Sédhiou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-SE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/se.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tambacounda     code: **id3:SN-TC**     [view](../export/geojson/medium/id3/sn/tc.geojson)     
+Tambacounda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-TC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/tc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Thiès     code: **id3:SN-TH**     [view](../export/geojson/medium/id3/sn/th.geojson)     
+Thiès&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-TH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/th.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ziguinchor     code: **id3:SN-ZG**     [view](../export/geojson/medium/id3/sn/zg.geojson)     
+Ziguinchor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SN-ZG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sn/zg.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

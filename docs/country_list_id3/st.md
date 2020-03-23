@@ -1,6 +1,6 @@
 # São Tomé and Principe states/provinces/counties
-Príncipe     code: **id3:ST-P**     [view](../export/geojson/medium/id3/st/p.geojson)     
+Príncipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ST-P**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/st/p.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-São Tomé     code: **id3:ST-S**     [view](../export/geojson/medium/id3/st/s.geojson)     
+São Tomé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:ST-S**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/st/s.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

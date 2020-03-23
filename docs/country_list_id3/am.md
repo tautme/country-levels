@@ -1,33 +1,33 @@
 # Armenia states/provinces/counties
-Aragatsotn     code: **id3:AM-AG**     [view](../export/geojson/medium/id3/am/ag.geojson)     
+Aragatsotn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AM-AG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/am/ag.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ararat     code: **id3:AM-AR**     [view](../export/geojson/medium/id3/am/ar.geojson)     
+Ararat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AM-AR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/am/ar.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Armavir     code: **id3:AM-AV**     [view](../export/geojson/medium/id3/am/av.geojson)     
+Armavir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AM-AV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/am/av.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Erevan     code: **id3:AM-ER**     [view](../export/geojson/medium/id3/am/er.geojson)     
+Erevan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AM-ER**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/am/er.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gegharkunik     code: **id3:AM-GR**     [view](../export/geojson/medium/id3/am/gr.geojson)     
+Gegharkunik&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AM-GR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/am/gr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kotayk     code: **id3:AM-KT**     [view](../export/geojson/medium/id3/am/kt.geojson)     
+Kotayk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AM-KT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/am/kt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lori     code: **id3:AM-LO**     [view](../export/geojson/medium/id3/am/lo.geojson)     
+Lori&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AM-LO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/am/lo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Shirak     code: **id3:AM-SH**     [view](../export/geojson/medium/id3/am/sh.geojson)     
+Shirak&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AM-SH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/am/sh.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Syunik     code: **id3:AM-SU**     [view](../export/geojson/medium/id3/am/su.geojson)     
+Syunik&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AM-SU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/am/su.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tavush     code: **id3:AM-TV**     [view](../export/geojson/medium/id3/am/tv.geojson)     
+Tavush&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AM-TV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/am/tv.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vayots Dzor     code: **id3:AM-VD**     [view](../export/geojson/medium/id3/am/vd.geojson)     
+Vayots Dzor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AM-VD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/am/vd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,21 +1,21 @@
 # Andorra states/provinces/counties
-Andorra la Vella     code: **id3:AD-07**     [view](../export/geojson/medium/id3/ad/07.geojson)     
+Andorra la Vella&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AD-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ad/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Canillo     code: **id3:AD-02**     [view](../export/geojson/medium/id3/ad/02.geojson)     
+Canillo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AD-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ad/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Encamp     code: **id3:AD-03**     [view](../export/geojson/medium/id3/ad/03.geojson)     
+Encamp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AD-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ad/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Escaldes-Engordany     code: **id3:AD-08**     [view](../export/geojson/medium/id3/ad/08.geojson)     
+Escaldes-Engordany&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AD-08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ad/08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-La Massana     code: **id3:AD-04**     [view](../export/geojson/medium/id3/ad/04.geojson)     
+La Massana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AD-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ad/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ordino     code: **id3:AD-05**     [view](../export/geojson/medium/id3/ad/05.geojson)     
+Ordino&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AD-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ad/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sant Julià de Lòria     code: **id3:AD-06**     [view](../export/geojson/medium/id3/ad/06.geojson)     
+Sant Julià de Lòria&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AD-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ad/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

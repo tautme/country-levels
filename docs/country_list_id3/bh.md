@@ -1,15 +1,15 @@
 # Bahrain states/provinces/counties
-Al Janūbīyah     code: **id3:BH-14**     [view](../export/geojson/medium/id3/bh/14.geojson)     
+Al Janūbīyah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BH-14**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bh/14.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Manāmah     code: **id3:BH-13**     [view](../export/geojson/medium/id3/bh/13.geojson)     
+Al Manāmah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BH-13**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bh/13.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Muḩarraq     code: **id3:BH-15**     [view](../export/geojson/medium/id3/bh/15.geojson)     
+Al Muḩarraq&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BH-15**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bh/15.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Wusţá     code: **id3:BH-16**     [view](../export/geojson/medium/id3/bh/16.geojson)     
+Al Wusţá&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BH-16**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bh/16.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ash Shamālīyah     code: **id3:BH-17**     [view](../export/geojson/medium/id3/bh/17.geojson)     
+Ash Shamālīyah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:BH-17**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/bh/17.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

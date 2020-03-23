@@ -1,45 +1,45 @@
 # Estonia states/provinces/counties
-Harju     code: **id3:EE-37**     [view](../export/geojson/medium/id3/ee/37.geojson)     
+Harju&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-37**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/37.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hiiu     code: **id3:EE-39**     [view](../export/geojson/medium/id3/ee/39.geojson)     
+Hiiu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-39**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/39.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ida-Viru     code: **id3:EE-44**     [view](../export/geojson/medium/id3/ee/44.geojson)     
+Ida-Viru&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-44**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/44.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Järva     code: **id3:EE-51**     [view](../export/geojson/medium/id3/ee/51.geojson)     
+Järva&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-51**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/51.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jõgeva     code: **id3:EE-49**     [view](../export/geojson/medium/id3/ee/49.geojson)     
+Jõgeva&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-49**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/49.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lääne     code: **id3:EE-57**     [view](../export/geojson/medium/id3/ee/57.geojson)     
+Lääne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-57**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/57.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lääne-Viru     code: **id3:EE-59**     [view](../export/geojson/medium/id3/ee/59.geojson)     
+Lääne-Viru&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-59**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/59.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pärnu     code: **id3:EE-67**     [view](../export/geojson/medium/id3/ee/67.geojson)     
+Pärnu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-67**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/67.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Põlva     code: **id3:EE-65**     [view](../export/geojson/medium/id3/ee/65.geojson)     
+Põlva&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-65**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/65.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rapla     code: **id3:EE-70**     [view](../export/geojson/medium/id3/ee/70.geojson)     
+Rapla&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-70**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/70.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saare     code: **id3:EE-74**     [view](../export/geojson/medium/id3/ee/74.geojson)     
+Saare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-74**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/74.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tartu     code: **id3:EE-78**     [view](../export/geojson/medium/id3/ee/78.geojson)     
+Tartu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-78**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/78.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Valga     code: **id3:EE-82**     [view](../export/geojson/medium/id3/ee/82.geojson)     
+Valga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-82**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/82.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Viljandi     code: **id3:EE-84**     [view](../export/geojson/medium/id3/ee/84.geojson)     
+Viljandi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-84**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/84.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Võru     code: **id3:EE-86**     [view](../export/geojson/medium/id3/ee/86.geojson)     
+Võru&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:EE-86**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ee/86.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,33 +1,33 @@
 # Mozambique states/provinces/counties
-Cabo Delgado     code: **id3:MZ-P**     [view](../export/geojson/medium/id3/mz/p.geojson)     
+Cabo Delgado&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MZ-P**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mz/p.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gaza     code: **id3:MZ-G**     [view](../export/geojson/medium/id3/mz/g.geojson)     
+Gaza&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MZ-G**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mz/g.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Inhambane     code: **id3:MZ-I**     [view](../export/geojson/medium/id3/mz/i.geojson)     
+Inhambane&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MZ-I**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mz/i.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Manica     code: **id3:MZ-B**     [view](../export/geojson/medium/id3/mz/b.geojson)     
+Manica&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MZ-B**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mz/b.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Maputo     code: **id3:MZ-L**     [view](../export/geojson/medium/id3/mz/l.geojson)     
+Maputo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MZ-L**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mz/l.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Maputo     code: **id3:MZ-MPM**     [view](../export/geojson/medium/id3/mz/mpm.geojson)     
+Maputo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MZ-MPM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mz/mpm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nampula     code: **id3:MZ-N**     [view](../export/geojson/medium/id3/mz/n.geojson)     
+Nampula&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MZ-N**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mz/n.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Niassa     code: **id3:MZ-A**     [view](../export/geojson/medium/id3/mz/a.geojson)     
+Niassa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MZ-A**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mz/a.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sofala     code: **id3:MZ-S**     [view](../export/geojson/medium/id3/mz/s.geojson)     
+Sofala&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MZ-S**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mz/s.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tete     code: **id3:MZ-T**     [view](../export/geojson/medium/id3/mz/t.geojson)     
+Tete&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MZ-T**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mz/t.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Zambezia     code: **id3:MZ-Q**     [view](../export/geojson/medium/id3/mz/q.geojson)     
+Zambezia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:MZ-Q**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/mz/q.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

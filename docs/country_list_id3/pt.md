@@ -1,60 +1,60 @@
 # Portugal states/provinces/counties
-Aveiro     code: **id3:PT-01**     [view](../export/geojson/medium/id3/pt/01.geojson)     
+Aveiro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Azores     code: **id3:PT-20**     [view](../export/geojson/medium/id3/pt/20.geojson)     
+Azores&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-20**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/20.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Beja     code: **id3:PT-02**     [view](../export/geojson/medium/id3/pt/02.geojson)     
+Beja&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Braga     code: **id3:PT-03**     [view](../export/geojson/medium/id3/pt/03.geojson)     
+Braga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bragança     code: **id3:PT-04**     [view](../export/geojson/medium/id3/pt/04.geojson)     
+Bragança&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Castelo Branco     code: **id3:PT-05**     [view](../export/geojson/medium/id3/pt/05.geojson)     
+Castelo Branco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Coimbra     code: **id3:PT-06**     [view](../export/geojson/medium/id3/pt/06.geojson)     
+Coimbra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Faro     code: **id3:PT-08**     [view](../export/geojson/medium/id3/pt/08.geojson)     
+Faro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Guarda     code: **id3:PT-09**     [view](../export/geojson/medium/id3/pt/09.geojson)     
+Guarda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/09.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Leiria     code: **id3:PT-10**     [view](../export/geojson/medium/id3/pt/10.geojson)     
+Leiria&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lisboa     code: **id3:PT-11**     [view](../export/geojson/medium/id3/pt/11.geojson)     
+Lisboa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Madeira     code: **id3:PT-30**     [view](../export/geojson/medium/id3/pt/30.geojson)     
+Madeira&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-30**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/30.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Portalegre     code: **id3:PT-12**     [view](../export/geojson/medium/id3/pt/12.geojson)     
+Portalegre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/12.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Porto     code: **id3:PT-13**     [view](../export/geojson/medium/id3/pt/13.geojson)     
+Porto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-13**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/13.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Santarém     code: **id3:PT-14**     [view](../export/geojson/medium/id3/pt/14.geojson)     
+Santarém&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-14**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/14.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Setúbal     code: **id3:PT-15**     [view](../export/geojson/medium/id3/pt/15.geojson)     
+Setúbal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-15**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/15.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Viana do Castelo     code: **id3:PT-16**     [view](../export/geojson/medium/id3/pt/16.geojson)     
+Viana do Castelo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-16**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/16.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vila Real     code: **id3:PT-17**     [view](../export/geojson/medium/id3/pt/17.geojson)     
+Vila Real&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-17**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/17.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Viseu     code: **id3:PT-18**     [view](../export/geojson/medium/id3/pt/18.geojson)     
+Viseu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-18**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/18.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Évora     code: **id3:PT-07**     [view](../export/geojson/medium/id3/pt/07.geojson)     
+Évora&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PT-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pt/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,45 +1,45 @@
 # Chile states/provinces/counties
-Aisén del General Carlos Ibáñez del Campo     code: **id3:CL-AI**     [view](../export/geojson/medium/id3/cl/ai.geojson)     
+Aisén del General Carlos Ibáñez del Campo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-AI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/ai.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Antofagasta     code: **id3:CL-AN**     [view](../export/geojson/medium/id3/cl/an.geojson)     
+Antofagasta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-AN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/an.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Arica y Parinacota     code: **id3:CL-AP**     [view](../export/geojson/medium/id3/cl/ap.geojson)     
+Arica y Parinacota&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-AP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/ap.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Atacama     code: **id3:CL-AT**     [view](../export/geojson/medium/id3/cl/at.geojson)     
+Atacama&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-AT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/at.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bío-Bío     code: **id3:CL-BI**     [view](../export/geojson/medium/id3/cl/bi.geojson)     
+Bío-Bío&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-BI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/bi.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Coquimbo     code: **id3:CL-CO**     [view](../export/geojson/medium/id3/cl/co.geojson)     
+Coquimbo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-CO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/co.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-La Araucanía     code: **id3:CL-AR**     [view](../export/geojson/medium/id3/cl/ar.geojson)     
+La Araucanía&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-AR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/ar.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Libertador General Bernardo O'Higgins     code: **id3:CL-LI**     [view](../export/geojson/medium/id3/cl/li.geojson)     
+Libertador General Bernardo O'Higgins&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-LI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/li.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Los Lagos     code: **id3:CL-LL**     [view](../export/geojson/medium/id3/cl/ll.geojson)     
+Los Lagos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-LL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/ll.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Los Ríos     code: **id3:CL-LR**     [view](../export/geojson/medium/id3/cl/lr.geojson)     
+Los Ríos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-LR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/lr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Magallanes y Antártica Chilena     code: **id3:CL-MA**     [view](../export/geojson/medium/id3/cl/ma.geojson)     
+Magallanes y Antártica Chilena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-MA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/ma.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Maule     code: **id3:CL-ML**     [view](../export/geojson/medium/id3/cl/ml.geojson)     
+Maule&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-ML**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/ml.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Región Metropolitana de Santiago     code: **id3:CL-RM**     [view](../export/geojson/medium/id3/cl/rm.geojson)     
+Región Metropolitana de Santiago&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-RM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/rm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tarapacá     code: **id3:CL-TA**     [view](../export/geojson/medium/id3/cl/ta.geojson)     
+Tarapacá&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-TA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/ta.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Valparaíso     code: **id3:CL-VS**     [view](../export/geojson/medium/id3/cl/vs.geojson)     
+Valparaíso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CL-VS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cl/vs.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,42 +1,42 @@
 # Jamaica states/provinces/counties
-Clarendon     code: **id3:JM-13**     [view](../export/geojson/medium/id3/jm/13.geojson)     
+Clarendon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-13**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/13.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hanover     code: **id3:JM-09**     [view](../export/geojson/medium/id3/jm/09.geojson)     
+Hanover&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/09.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kingston     code: **id3:JM-01**     [view](../export/geojson/medium/id3/jm/01.geojson)     
+Kingston&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Manchester     code: **id3:JM-12**     [view](../export/geojson/medium/id3/jm/12.geojson)     
+Manchester&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/12.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Portland     code: **id3:JM-04**     [view](../export/geojson/medium/id3/jm/04.geojson)     
+Portland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint Andrew     code: **id3:JM-02**     [view](../export/geojson/medium/id3/jm/02.geojson)     
+Saint Andrew&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint Ann     code: **id3:JM-06**     [view](../export/geojson/medium/id3/jm/06.geojson)     
+Saint Ann&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint Catherine     code: **id3:JM-14**     [view](../export/geojson/medium/id3/jm/14.geojson)     
+Saint Catherine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-14**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/14.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint Elizabeth     code: **id3:JM-11**     [view](../export/geojson/medium/id3/jm/11.geojson)     
+Saint Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint James     code: **id3:JM-08**     [view](../export/geojson/medium/id3/jm/08.geojson)     
+Saint James&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint Mary     code: **id3:JM-05**     [view](../export/geojson/medium/id3/jm/05.geojson)     
+Saint Mary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint Thomas     code: **id3:JM-03**     [view](../export/geojson/medium/id3/jm/03.geojson)     
+Saint Thomas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Trelawny     code: **id3:JM-07**     [view](../export/geojson/medium/id3/jm/07.geojson)     
+Trelawny&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Westmoreland     code: **id3:JM-10**     [view](../export/geojson/medium/id3/jm/10.geojson)     
+Westmoreland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:JM-10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/jm/10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,66 +1,66 @@
 # Cabo Verde states/provinces/counties
-Boa Vista     code: **id3:CV-BV**     [view](../export/geojson/medium/id3/cv/bv.geojson)     
+Boa Vista&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-BV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/bv.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Brava     code: **id3:CV-BR**     [view](../export/geojson/medium/id3/cv/br.geojson)     
+Brava&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-BR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/br.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Maio     code: **id3:CV-MA**     [view](../export/geojson/medium/id3/cv/ma.geojson)     
+Maio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-MA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/ma.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mosteiros     code: **id3:CV-MO**     [view](../export/geojson/medium/id3/cv/mo.geojson)     
+Mosteiros&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-MO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/mo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Paul     code: **id3:CV-PA**     [view](../export/geojson/medium/id3/cv/pa.geojson)     
+Paul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-PA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/pa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Porto Novo     code: **id3:CV-PN**     [view](../export/geojson/medium/id3/cv/pn.geojson)     
+Porto Novo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-PN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/pn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Praia     code: **id3:CV-PR**     [view](../export/geojson/medium/id3/cv/pr.geojson)     
+Praia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-PR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/pr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ribeira Brava     code: **id3:CV-RB**     [view](../export/geojson/medium/id3/cv/rb.geojson)     
+Ribeira Brava&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-RB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/rb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ribeira Grande     code: **id3:CV-RG**     [view](../export/geojson/medium/id3/cv/rg.geojson)     
+Ribeira Grande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-RG**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/rg.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ribeira Grande de Santiago     code: **id3:CV-RS**     [view](../export/geojson/medium/id3/cv/rs.geojson)     
+Ribeira Grande de Santiago&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-RS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/rs.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sal     code: **id3:CV-SL**     [view](../export/geojson/medium/id3/cv/sl.geojson)     
+Sal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-SL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/sl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Santa Catarina     code: **id3:CV-CA**     [view](../export/geojson/medium/id3/cv/ca.geojson)     
+Santa Catarina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-CA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/ca.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Santa Catarina do Fogo     code: **id3:CV-CF**     [view](../export/geojson/medium/id3/cv/cf.geojson)     
+Santa Catarina do Fogo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-CF**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/cf.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Santa Cruz     code: **id3:CV-CR**     [view](../export/geojson/medium/id3/cv/cr.geojson)     
+Santa Cruz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-CR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/cr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-São Domingos     code: **id3:CV-SD**     [view](../export/geojson/medium/id3/cv/sd.geojson)     
+São Domingos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-SD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/sd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-São Filipe     code: **id3:CV-SF**     [view](../export/geojson/medium/id3/cv/sf.geojson)     
+São Filipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-SF**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/sf.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-São Lourenço dos Órgãos     code: **id3:CV-SO**     [view](../export/geojson/medium/id3/cv/so.geojson)     
+São Lourenço dos Órgãos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-SO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/so.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-São Miguel     code: **id3:CV-SM**     [view](../export/geojson/medium/id3/cv/sm.geojson)     
+São Miguel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-SM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/sm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-São Salvador do Mundo     code: **id3:CV-SS**     [view](../export/geojson/medium/id3/cv/ss.geojson)     
+São Salvador do Mundo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-SS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/ss.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-São Vicente     code: **id3:CV-SV**     [view](../export/geojson/medium/id3/cv/sv.geojson)     
+São Vicente&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-SV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/sv.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tarrafal     code: **id3:CV-TA**     [view](../export/geojson/medium/id3/cv/ta.geojson)     
+Tarrafal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-TA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/ta.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tarrafal de São Nicolau     code: **id3:CV-TS**     [view](../export/geojson/medium/id3/cv/ts.geojson)     
+Tarrafal de São Nicolau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:CV-TS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/cv/ts.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,42 +1,42 @@
 # El Salvador states/provinces/counties
-Ahuachapán     code: **id3:SV-AH**     [view](../export/geojson/medium/id3/sv/ah.geojson)     
+Ahuachapán&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-AH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/ah.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Cabañas     code: **id3:SV-CA**     [view](../export/geojson/medium/id3/sv/ca.geojson)     
+Cabañas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-CA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/ca.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chalatenango     code: **id3:SV-CH**     [view](../export/geojson/medium/id3/sv/ch.geojson)     
+Chalatenango&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-CH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/ch.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Cuscatlán     code: **id3:SV-CU**     [view](../export/geojson/medium/id3/sv/cu.geojson)     
+Cuscatlán&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-CU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/cu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-La Libertad     code: **id3:SV-LI**     [view](../export/geojson/medium/id3/sv/li.geojson)     
+La Libertad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-LI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/li.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-La Paz     code: **id3:SV-PA**     [view](../export/geojson/medium/id3/sv/pa.geojson)     
+La Paz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-PA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/pa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-La Unión     code: **id3:SV-UN**     [view](../export/geojson/medium/id3/sv/un.geojson)     
+La Unión&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-UN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/un.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Morazán     code: **id3:SV-MO**     [view](../export/geojson/medium/id3/sv/mo.geojson)     
+Morazán&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-MO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/mo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-San Miguel     code: **id3:SV-SM**     [view](../export/geojson/medium/id3/sv/sm.geojson)     
+San Miguel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-SM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/sm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-San Salvador     code: **id3:SV-SS**     [view](../export/geojson/medium/id3/sv/ss.geojson)     
+San Salvador&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-SS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/ss.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-San Vicente     code: **id3:SV-SV**     [view](../export/geojson/medium/id3/sv/sv.geojson)     
+San Vicente&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-SV**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/sv.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Santa Ana     code: **id3:SV-SA**     [view](../export/geojson/medium/id3/sv/sa.geojson)     
+Santa Ana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-SA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/sa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Sonsonate     code: **id3:SV-SO**     [view](../export/geojson/medium/id3/sv/so.geojson)     
+Sonsonate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-SO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/so.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Usulután     code: **id3:SV-US**     [view](../export/geojson/medium/id3/sv/us.geojson)     
+Usulután&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SV-US**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sv/us.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

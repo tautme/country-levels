@@ -1,24 +1,24 @@
 # Kyrgyzstan states/provinces/counties
-Batken     code: **id3:KG-B**     [view](../export/geojson/medium/id3/kg/b.geojson)     
+Batken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KG-B**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kg/b.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bishkek     code: **id3:KG-GB**     [view](../export/geojson/medium/id3/kg/gb.geojson)     
+Bishkek&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KG-GB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kg/gb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chuy     code: **id3:KG-C**     [view](../export/geojson/medium/id3/kg/c.geojson)     
+Chuy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KG-C**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kg/c.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jalal-Abad     code: **id3:KG-J**     [view](../export/geojson/medium/id3/kg/j.geojson)     
+Jalal-Abad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KG-J**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kg/j.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Naryn     code: **id3:KG-N**     [view](../export/geojson/medium/id3/kg/n.geojson)     
+Naryn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KG-N**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kg/n.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Osh     code: **id3:KG-GO**     [view](../export/geojson/medium/id3/kg/go.geojson)     
+Osh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KG-GO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kg/go.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Talas     code: **id3:KG-T**     [view](../export/geojson/medium/id3/kg/t.geojson)     
+Talas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KG-T**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kg/t.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ysyk-Köl     code: **id3:KG-Y**     [view](../export/geojson/medium/id3/kg/y.geojson)     
+Ysyk-Köl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:KG-Y**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/kg/y.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

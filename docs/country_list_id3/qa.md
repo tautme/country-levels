@@ -1,21 +1,21 @@
 # Qatar states/provinces/counties
-Ad Dawhah     code: **id3:QA-DA**     [view](../export/geojson/medium/id3/qa/da.geojson)     
+Ad Dawhah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:QA-DA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/qa/da.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Daayen     code: **id3:QA-ZA**     [view](../export/geojson/medium/id3/qa/za.geojson)     
+Al Daayen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:QA-ZA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/qa/za.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Khawr     code: **id3:QA-KH**     [view](../export/geojson/medium/id3/qa/kh.geojson)     
+Al Khawr&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:QA-KH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/qa/kh.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Al Wakrah     code: **id3:QA-WA**     [view](../export/geojson/medium/id3/qa/wa.geojson)     
+Al Wakrah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:QA-WA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/qa/wa.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ar Rayyān     code: **id3:QA-RA**     [view](../export/geojson/medium/id3/qa/ra.geojson)     
+Ar Rayyān&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:QA-RA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/qa/ra.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Madinat ach Shamal     code: **id3:QA-MS**     [view](../export/geojson/medium/id3/qa/ms.geojson)     
+Madinat ach Shamal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:QA-MS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/qa/ms.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Umm Salal     code: **id3:QA-US**     [view](../export/geojson/medium/id3/qa/us.geojson)     
+Umm Salal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:QA-US**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/qa/us.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

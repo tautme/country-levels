@@ -1,33 +1,33 @@
 # Saint Lucia states/provinces/counties
-Anse-la-Raye     code: **id3:LC-01**     [view](../export/geojson/medium/id3/lc/01.geojson)     
+Anse-la-Raye&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LC-01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lc/01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Castries     code: **id3:LC-02**     [view](../export/geojson/medium/id3/lc/02.geojson)     
+Castries&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LC-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lc/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Choiseul     code: **id3:LC-03**     [view](../export/geojson/medium/id3/lc/03.geojson)     
+Choiseul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LC-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lc/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dauphin     code: **id3:LC-04**     [view](../export/geojson/medium/id3/lc/04.geojson)     
+Dauphin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LC-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lc/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Dennery     code: **id3:LC-05**     [view](../export/geojson/medium/id3/lc/05.geojson)     
+Dennery&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LC-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lc/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gros Islet     code: **id3:LC-06**     [view](../export/geojson/medium/id3/lc/06.geojson)     
+Gros Islet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LC-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lc/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Laborie     code: **id3:LC-07**     [view](../export/geojson/medium/id3/lc/07.geojson)     
+Laborie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LC-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lc/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Micoud     code: **id3:LC-08**     [view](../export/geojson/medium/id3/lc/08.geojson)     
+Micoud&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LC-08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lc/08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Praslin     code: **id3:LC-09**     [view](../export/geojson/medium/id3/lc/09.geojson)     
+Praslin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LC-09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lc/09.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Soufrière     code: **id3:LC-10**     [view](../export/geojson/medium/id3/lc/10.geojson)     
+Soufrière&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LC-10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lc/10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Vieux Fort     code: **id3:LC-11**     [view](../export/geojson/medium/id3/lc/11.geojson)     
+Vieux Fort&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:LC-11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/lc/11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

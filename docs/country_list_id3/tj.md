@@ -1,15 +1,15 @@
 # Tajikistan states/provinces/counties
-Dushanbe     code: **id3:TJ-DU**     [view](../export/geojson/medium/id3/tj/du.geojson)     
+Dushanbe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TJ-DU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tj/du.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gorno-Badakhshan     code: **id3:TJ-GB**     [view](../export/geojson/medium/id3/tj/gb.geojson)     
+Gorno-Badakhshan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TJ-GB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tj/gb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Khatlon     code: **id3:TJ-KT**     [view](../export/geojson/medium/id3/tj/kt.geojson)     
+Khatlon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TJ-KT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tj/kt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Leninabad     code: **id3:TJ-SU**     [view](../export/geojson/medium/id3/tj/su.geojson)     
+Leninabad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TJ-SU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tj/su.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tadzhikistan Territories     code: **id3:TJ-RA**     [view](../export/geojson/medium/id3/tj/ra.geojson)     
+Tadzhikistan Territories&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:TJ-RA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/tj/ra.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

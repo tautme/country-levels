@@ -1,36 +1,36 @@
 # Panama states/provinces/counties
-Bocas del Toro     code: **id3:PA-1**     [view](../export/geojson/medium/id3/pa/1.geojson)     
+Bocas del Toro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-1**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/1.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chiriquí     code: **id3:PA-4**     [view](../export/geojson/medium/id3/pa/4.geojson)     
+Chiriquí&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-4**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/4.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Coclé     code: **id3:PA-2**     [view](../export/geojson/medium/id3/pa/2.geojson)     
+Coclé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-2**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/2.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Colón     code: **id3:PA-3**     [view](../export/geojson/medium/id3/pa/3.geojson)     
+Colón&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-3**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/3.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Darién     code: **id3:PA-5**     [view](../export/geojson/medium/id3/pa/5.geojson)     
+Darién&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-5**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/5.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Emberá     code: **id3:PA-EM**     [view](../export/geojson/medium/id3/pa/em.geojson)     
+Emberá&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-EM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/em.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Herrera     code: **id3:PA-6**     [view](../export/geojson/medium/id3/pa/6.geojson)     
+Herrera&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-6**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/6.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kuna Yala     code: **id3:PA-KY**     [view](../export/geojson/medium/id3/pa/ky.geojson)     
+Kuna Yala&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-KY**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/ky.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Los Santos     code: **id3:PA-7**     [view](../export/geojson/medium/id3/pa/7.geojson)     
+Los Santos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-7**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/7.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ngöbe Buglé     code: **id3:PA-NB**     [view](../export/geojson/medium/id3/pa/nb.geojson)     
+Ngöbe Buglé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-NB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/nb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Panama     code: **id3:PA-8**     [view](../export/geojson/medium/id3/pa/8.geojson)     
+Panama&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-8**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/8.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Veraguas     code: **id3:PA-9**     [view](../export/geojson/medium/id3/pa/9.geojson)     
+Veraguas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:PA-9**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/pa/9.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

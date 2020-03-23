@@ -1,54 +1,54 @@
 # Honduras states/provinces/counties
-Atlántida     code: **id3:HN-AT**     [view](../export/geojson/medium/id3/hn/at.geojson)     
+Atlántida&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-AT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/at.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Choluteca     code: **id3:HN-CH**     [view](../export/geojson/medium/id3/hn/ch.geojson)     
+Choluteca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-CH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/ch.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Colón     code: **id3:HN-CL**     [view](../export/geojson/medium/id3/hn/cl.geojson)     
+Colón&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-CL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/cl.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Comayagua     code: **id3:HN-CM**     [view](../export/geojson/medium/id3/hn/cm.geojson)     
+Comayagua&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-CM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/cm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Copán     code: **id3:HN-CP**     [view](../export/geojson/medium/id3/hn/cp.geojson)     
+Copán&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-CP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/cp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Cortés     code: **id3:HN-CR**     [view](../export/geojson/medium/id3/hn/cr.geojson)     
+Cortés&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-CR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/cr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-El Paraíso     code: **id3:HN-EP**     [view](../export/geojson/medium/id3/hn/ep.geojson)     
+El Paraíso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-EP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/ep.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Francisco Morazán     code: **id3:HN-FM**     [view](../export/geojson/medium/id3/hn/fm.geojson)     
+Francisco Morazán&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-FM**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/fm.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gracias a Dios     code: **id3:HN-GD**     [view](../export/geojson/medium/id3/hn/gd.geojson)     
+Gracias a Dios&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-GD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/gd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Intibucá     code: **id3:HN-IN**     [view](../export/geojson/medium/id3/hn/in.geojson)     
+Intibucá&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-IN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/in.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Islas de la Bahía     code: **id3:HN-IB**     [view](../export/geojson/medium/id3/hn/ib.geojson)     
+Islas de la Bahía&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-IB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/ib.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-La Paz     code: **id3:HN-LP**     [view](../export/geojson/medium/id3/hn/lp.geojson)     
+La Paz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-LP**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/lp.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lempira     code: **id3:HN-LE**     [view](../export/geojson/medium/id3/hn/le.geojson)     
+Lempira&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-LE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/le.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ocotepeque     code: **id3:HN-OC**     [view](../export/geojson/medium/id3/hn/oc.geojson)     
+Ocotepeque&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-OC**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/oc.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Olancho     code: **id3:HN-OL**     [view](../export/geojson/medium/id3/hn/ol.geojson)     
+Olancho&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-OL**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/ol.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Santa Bárbara     code: **id3:HN-SB**     [view](../export/geojson/medium/id3/hn/sb.geojson)     
+Santa Bárbara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-SB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/sb.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Valle     code: **id3:HN-VA**     [view](../export/geojson/medium/id3/hn/va.geojson)     
+Valle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-VA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/va.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Yoro     code: **id3:HN-YO**     [view](../export/geojson/medium/id3/hn/yo.geojson)     
+Yoro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:HN-YO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/hn/yo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

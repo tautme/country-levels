@@ -1,27 +1,27 @@
 # San Marino states/provinces/counties
-Acquaviva     code: **id3:SM-01**     [view](../export/geojson/medium/id3/sm/01.geojson)     
+Acquaviva&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SM-01**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sm/01.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Borgo Maggiore     code: **id3:SM-06**     [view](../export/geojson/medium/id3/sm/06.geojson)     
+Borgo Maggiore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SM-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sm/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chiesanuova     code: **id3:SM-02**     [view](../export/geojson/medium/id3/sm/02.geojson)     
+Chiesanuova&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SM-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sm/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Domagnano     code: **id3:SM-03**     [view](../export/geojson/medium/id3/sm/03.geojson)     
+Domagnano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SM-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sm/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Faetano     code: **id3:SM-04**     [view](../export/geojson/medium/id3/sm/04.geojson)     
+Faetano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SM-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sm/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Fiorentino     code: **id3:SM-05**     [view](../export/geojson/medium/id3/sm/05.geojson)     
+Fiorentino&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SM-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sm/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Montegiardino     code: **id3:SM-08**     [view](../export/geojson/medium/id3/sm/08.geojson)     
+Montegiardino&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SM-08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sm/08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-San Marino     code: **id3:SM-07**     [view](../export/geojson/medium/id3/sm/07.geojson)     
+San Marino&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SM-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sm/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Serravalle     code: **id3:SM-09**     [view](../export/geojson/medium/id3/sm/09.geojson)     
+Serravalle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SM-09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/sm/09.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

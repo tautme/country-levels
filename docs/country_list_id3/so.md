@@ -1,39 +1,39 @@
 # Somalia states/provinces/counties
-Bakool     code: **id3:SO-BK**     [view](../export/geojson/medium/id3/so/bk.geojson)     
+Bakool&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-BK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/bk.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Banaadir     code: **id3:SO-BN**     [view](../export/geojson/medium/id3/so/bn.geojson)     
+Banaadir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-BN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/bn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bari     code: **id3:SO-BR**     [view](../export/geojson/medium/id3/so/br.geojson)     
+Bari&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-BR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/br.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Bay     code: **id3:SO-BY**     [view](../export/geojson/medium/id3/so/by.geojson)     
+Bay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-BY**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/by.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Galguduud     code: **id3:SO-GA**     [view](../export/geojson/medium/id3/so/ga.geojson)     
+Galguduud&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-GA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/ga.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Gedo     code: **id3:SO-GE**     [view](../export/geojson/medium/id3/so/ge.geojson)     
+Gedo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-GE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/ge.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Hiiraan     code: **id3:SO-HI**     [view](../export/geojson/medium/id3/so/hi.geojson)     
+Hiiraan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-HI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/hi.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jubbada Dhexe     code: **id3:SO-JD**     [view](../export/geojson/medium/id3/so/jd.geojson)     
+Jubbada Dhexe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-JD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/jd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jubbada Hoose     code: **id3:SO-JH**     [view](../export/geojson/medium/id3/so/jh.geojson)     
+Jubbada Hoose&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-JH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/jh.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Mudug     code: **id3:SO-MU**     [view](../export/geojson/medium/id3/so/mu.geojson)     
+Mudug&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-MU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/mu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nugaal     code: **id3:SO-NU**     [view](../export/geojson/medium/id3/so/nu.geojson)     
+Nugaal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-NU**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/nu.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Shabeellaha Dhexe     code: **id3:SO-SD**     [view](../export/geojson/medium/id3/so/sd.geojson)     
+Shabeellaha Dhexe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-SD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/sd.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Shabeellaha Hoose     code: **id3:SO-SH**     [view](../export/geojson/medium/id3/so/sh.geojson)     
+Shabeellaha Hoose&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:SO-SH**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/so/sh.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

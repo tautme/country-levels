@@ -1,24 +1,24 @@
 # Antigua and Barbuda states/provinces/counties
-Barbuda     code: **id3:AG-10**     [view](../export/geojson/medium/id3/ag/10.geojson)     
+Barbuda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AG-10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ag/10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Redonda     code: **id3:AG-11**     [view](../export/geojson/medium/id3/ag/11.geojson)     
+Redonda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AG-11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ag/11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint George     code: **id3:AG-03**     [view](../export/geojson/medium/id3/ag/03.geojson)     
+Saint George&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AG-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ag/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint John     code: **id3:AG-04**     [view](../export/geojson/medium/id3/ag/04.geojson)     
+Saint John&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AG-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ag/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint Mary     code: **id3:AG-05**     [view](../export/geojson/medium/id3/ag/05.geojson)     
+Saint Mary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AG-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ag/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint Paul     code: **id3:AG-06**     [view](../export/geojson/medium/id3/ag/06.geojson)     
+Saint Paul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AG-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ag/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint Peter     code: **id3:AG-07**     [view](../export/geojson/medium/id3/ag/07.geojson)     
+Saint Peter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AG-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ag/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Saint Philip     code: **id3:AG-08**     [view](../export/geojson/medium/id3/ag/08.geojson)     
+Saint Philip&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:AG-08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ag/08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

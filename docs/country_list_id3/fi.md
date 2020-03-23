@@ -1,54 +1,54 @@
 # Finland states/provinces/counties
-Central Finland     code: **id3:FI-08**     [view](../export/geojson/medium/id3/fi/08.geojson)     
+Central Finland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-08**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/08.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Central Ostrobothnia     code: **id3:FI-07**     [view](../export/geojson/medium/id3/fi/07.geojson)     
+Central Ostrobothnia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-07**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/07.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Finland Proper     code: **id3:FI-19**     [view](../export/geojson/medium/id3/fi/19.geojson)     
+Finland Proper&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-19**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/19.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kainuu     code: **id3:FI-05**     [view](../export/geojson/medium/id3/fi/05.geojson)     
+Kainuu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-05**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/05.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Kymenlaakso     code: **id3:FI-09**     [view](../export/geojson/medium/id3/fi/09.geojson)     
+Kymenlaakso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-09**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/09.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Lapland     code: **id3:FI-10**     [view](../export/geojson/medium/id3/fi/10.geojson)     
+Lapland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-10**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/10.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-North Karelia     code: **id3:FI-13**     [view](../export/geojson/medium/id3/fi/13.geojson)     
+North Karelia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-13**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/13.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Northern Ostrobothnia     code: **id3:FI-14**     [view](../export/geojson/medium/id3/fi/14.geojson)     
+Northern Ostrobothnia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-14**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/14.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Northern Savonia     code: **id3:FI-15**     [view](../export/geojson/medium/id3/fi/15.geojson)     
+Northern Savonia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-15**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/15.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Ostrobothnia     code: **id3:FI-12**     [view](../export/geojson/medium/id3/fi/12.geojson)     
+Ostrobothnia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-12**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/12.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Pirkanmaa     code: **id3:FI-11**     [view](../export/geojson/medium/id3/fi/11.geojson)     
+Pirkanmaa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-11**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/11.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Päijät-Häme     code: **id3:FI-16**     [view](../export/geojson/medium/id3/fi/16.geojson)     
+Päijät-Häme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-16**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/16.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Satakunta     code: **id3:FI-17**     [view](../export/geojson/medium/id3/fi/17.geojson)     
+Satakunta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-17**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/17.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-South Karelia     code: **id3:FI-02**     [view](../export/geojson/medium/id3/fi/02.geojson)     
+South Karelia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-02**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/02.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Southern Ostrobothnia     code: **id3:FI-03**     [view](../export/geojson/medium/id3/fi/03.geojson)     
+Southern Ostrobothnia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-03**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/03.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Southern Savonia     code: **id3:FI-04**     [view](../export/geojson/medium/id3/fi/04.geojson)     
+Southern Savonia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-04**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/04.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Tavastia Proper     code: **id3:FI-06**     [view](../export/geojson/medium/id3/fi/06.geojson)     
+Tavastia Proper&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/06.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Uusimaa     code: **id3:FI-18**     [view](../export/geojson/medium/id3/fi/18.geojson)     
+Uusimaa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:FI-18**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/fi/18.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

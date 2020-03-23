@@ -1,51 +1,51 @@
 # Nicaragua states/provinces/counties
-Atlántico Norte     code: **id3:NI-AN**     [view](../export/geojson/medium/id3/ni/an.geojson)     
+Atlántico Norte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-AN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/an.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Atlántico Sur     code: **id3:NI-AS**     [view](../export/geojson/medium/id3/ni/as.geojson)     
+Atlántico Sur&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-AS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/as.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Boaco     code: **id3:NI-BO**     [view](../export/geojson/medium/id3/ni/bo.geojson)     
+Boaco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-BO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/bo.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Carazo     code: **id3:NI-CA**     [view](../export/geojson/medium/id3/ni/ca.geojson)     
+Carazo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-CA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/ca.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chinandega     code: **id3:NI-CI**     [view](../export/geojson/medium/id3/ni/ci.geojson)     
+Chinandega&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-CI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/ci.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Chontales     code: **id3:NI-CO**     [view](../export/geojson/medium/id3/ni/co.geojson)     
+Chontales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-CO**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/co.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Estelí     code: **id3:NI-ES**     [view](../export/geojson/medium/id3/ni/es.geojson)     
+Estelí&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-ES**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/es.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Granada     code: **id3:NI-GR**     [view](../export/geojson/medium/id3/ni/gr.geojson)     
+Granada&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-GR**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/gr.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Jinotega     code: **id3:NI-JI**     [view](../export/geojson/medium/id3/ni/ji.geojson)     
+Jinotega&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-JI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/ji.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-León     code: **id3:NI-LE**     [view](../export/geojson/medium/id3/ni/le.geojson)     
+León&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-LE**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/le.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Madriz     code: **id3:NI-MD**     [view](../export/geojson/medium/id3/ni/md.geojson)     
+Madriz&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-MD**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/md.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Managua     code: **id3:NI-MN**     [view](../export/geojson/medium/id3/ni/mn.geojson)     
+Managua&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-MN**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/mn.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Masaya     code: **id3:NI-MS**     [view](../export/geojson/medium/id3/ni/ms.geojson)     
+Masaya&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-MS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/ms.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Matagalpa     code: **id3:NI-MT**     [view](../export/geojson/medium/id3/ni/mt.geojson)     
+Matagalpa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-MT**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/mt.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Nueva Segovia     code: **id3:NI-NS**     [view](../export/geojson/medium/id3/ni/ns.geojson)     
+Nueva Segovia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-NS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/ns.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rio San Juan     code: **id3:NI-SJ**     [view](../export/geojson/medium/id3/ni/sj.geojson)     
+Rio San Juan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-SJ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/sj.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-Rivas     code: **id3:NI-RI**     [view](../export/geojson/medium/id3/ni/ri.geojson)     
+Rivas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;code: **id3:NI-RI**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[view](../export/geojson/medium/id3/ni/ri.geojson)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
