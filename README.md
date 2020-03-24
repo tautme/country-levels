@@ -7,17 +7,17 @@ For levels 0 to 3, the shapes are from Natural Earth and the population data is 
 
 ### [Country List](docs/country_list.md)
 
-For example, **id0:IT** refers to Italy including islands.
+For example, **ne0:IT** refers to Italy including islands.
 
-![id0_it](docs/assets/id0_it.png)
+![ne0_it](docs/assets/ne0_it.png)
 
-**id2:ITX** refers to mainland Italy
+**ne2:ITX** refers to mainland Italy
 
-![id2_itx](docs/assets/id2_itx.png)
+![ne2_itx](docs/assets/ne2_itx.png)
 
-**id3:US-CA** refers to the state of California, USA.
+**ne3:US-CA** refers to the state of California, USA.
 
-![id3_us-ca](docs/assets/id3_us-ca.png)
+![ne3_us-ca](docs/assets/ne3_us-ca.png)
 
 
 
@@ -37,37 +37,37 @@ Country Level ID was developed to have a reliable way of referring to all kinds 
 
 ### Specs
 
-Country Level IDs start with one of `id0:` `id1:` `id2:` `id3:` + a code.
+Country Level IDs start with one of `ne0:` `ne1:` `ne2:` `ne3:` + a code.
 
-id0, id1, id2's code has 2 or 3 uppercase letters (ISO codes).
+ne0, ne1, ne2's code has 2 or 3 uppercase letters (ISO codes).
 
-id3's code is the country's id0 ISO code + a dash `-`  + 1-3 uppercase letters or numbers.
+ne3's code is the country's ne0 ISO code + a dash `-`  + 1-3 uppercase letters or numbers.
 
-As a special case, about 1% of id3 has an underscore + number postfix, to avoid duplicates. For example
+As a special case, about 1% of ne3 has an underscore + number postfix, to avoid duplicates. For example
 
-- **id3:AU-NSW** refers to New South Wales, Australia
-- **id3:AU-NSW_1159313269** refers to Lord Howe Island.
-
-
-
-id0, id1, id2 have a tree-like hierarchy. You can see that in [export/id/id012.json](export/id/id012.json).
-
-Population data is included for id0, id1 and id2 levels.
+- **ne3:AU-NSW** refers to New South Wales, Australia
+- **ne3:AU-NSW_1159313269** refers to Lord Howe Island.
 
 
 
-id3 means states / provinces / counties, a single level for each country.
+ne0, ne1, ne2 have a tree-like hierarchy. You can see that in [export/id/ne012.json](export/id/ne012.json).
 
-id3 jsons are split per country, you can find them in the [export/id/id3](export/id/id3) folder.
+Population data is included for ne0, ne1 and ne2 levels.
+
+
+
+ne3 means states / provinces / counties, a single level for each country.
+
+ne3 jsons are split per country, you can find them in the [export/id/ne3](export/id/ne3) folder.
 
 
 
 The source data for each level in the Natural Earth dataset is the following:
 
-- id0: Admin 0 – Countries
-- id1: Admin 0 - Map Units
-- id2: Admin 0 - Map Subunits
-- id3: Admin 1 - States, Provinces
+- ne0: Admin 0 – Countries
+- ne1: Admin 0 - Map Units
+- ne2: Admin 0 - Map Subunits
+- ne3: Admin 1 - States, Provinces
 
 
 
@@ -75,7 +75,7 @@ The source data for each level in the Natural Earth dataset is the following:
 
 Some areas might not be described with a simple ID. For example, Channel Islands doesn't have a matching polygon in the NE dataset. These special cases can be described using the plus `+` sign. You can combine as many IDs as needed.
 
-For example **id0:GG+id0:JE** refers to the Channel Islands.
+For example **ne0:GG+ne0:JE** refers to the Channel Islands.
 
 ![](docs/assets/channel_islands.png)
 
