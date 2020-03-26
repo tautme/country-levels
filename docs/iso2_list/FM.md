@@ -1,0 +1,10 @@
+# ISO 3166-2 list: FM
+
+
+#### Level 4
+Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --- 
+Chuuk | FM-TRK | [GeoJSON](../../export/geojson/q7/iso2/FM/FM-TRK.geojson) | [OSM](https://www.openstreetmap.org/relation/3819479) | [Wikidata](https://www.wikidata.org/wiki/Q221684) |  | 48654
+Kosrae | FM-KSA | [GeoJSON](../../export/geojson/q7/iso2/FM/FM-KSA.geojson) | [OSM](https://www.openstreetmap.org/relation/3819480) | [Wikidata](https://www.wikidata.org/wiki/Q459848) |  | 6616
+Pohnpei | FM-PNI | [GeoJSON](../../export/geojson/q7/iso2/FM/FM-PNI.geojson) | [OSM](https://www.openstreetmap.org/relation/3819481) | [Wikidata](https://www.wikidata.org/wiki/Q7771127) |  | 36196
+Yap | FM-YAP | [GeoJSON](../../export/geojson/q7/iso2/FM/FM-YAP.geojson) | [OSM](https://www.openstreetmap.org/relation/3819422) | [Wikidata](https://www.wikidata.org/wiki/Q11342951) |  | 11377

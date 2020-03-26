@@ -1,0 +1,20 @@
+# ISO 3166-2 list: IS
+
+
+#### Level 6
+Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --- 
+Reykjavik | IS-0 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-0.geojson) | [OSM](https://www.openstreetmap.org/relation/2580605) | [Wikidata](https://www.wikidata.org/wiki/Q1764) | [Wikipedia](http://en.wikipedia.org/wiki/is%3AReykjav%C3%ADk) | 128793
+
+
+#### Level 5
+Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --- 
+Capital Region | IS-1 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-1.geojson) | [OSM](https://www.openstreetmap.org/relation/3881596) | [Wikidata](https://www.wikidata.org/wiki/Q203304) | [Wikipedia](http://en.wikipedia.org/wiki/is%3AH%C3%B6fu%C3%B0borgarsv%C3%A6%C3%B0i%C3%B0) | 213619
+Eastern Region | IS-7 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-7.geojson) | [OSM](https://www.openstreetmap.org/relation/4001011) | [Wikidata](https://www.wikidata.org/wiki/Q220663) |  | 15300
+Northeastern Region | IS-6 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-6.geojson) | [OSM](https://www.openstreetmap.org/relation/4001055) | [Wikidata](https://www.wikidata.org/wiki/Q241551) |  | 29361
+Northwestern Region | IS-5 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-5.geojson) | [OSM](https://www.openstreetmap.org/relation/4001076) | [Wikidata](https://www.wikidata.org/wiki/Q210866) |  | 7392
+Southern Peninsula | IS-2 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-2.geojson) | [OSM](https://www.openstreetmap.org/relation/4002388) | [Wikidata](https://www.wikidata.org/wiki/Q212768) | [Wikipedia](http://en.wikipedia.org/wiki/is%3ASu%C3%B0urnes) | 21431
+Southern Region | IS-8 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-8.geojson) | [OSM](https://www.openstreetmap.org/relation/4002410) | [Wikidata](https://www.wikidata.org/wiki/Q204796) |  | 23311
+Western Region | IS-3 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-3.geojson) | [OSM](https://www.openstreetmap.org/relation/4001119) | [Wikidata](https://www.wikidata.org/wiki/Q221791) |  | 15766
+Westfjords | IS-4 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-4.geojson) | [OSM](https://www.openstreetmap.org/relation/4001093) | [Wikidata](https://www.wikidata.org/wiki/Q727267) |  | 6883
