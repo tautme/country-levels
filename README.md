@@ -58,6 +58,8 @@ Note: this process will start a slow and delayed download from the OSM Admin map
 
 Steps:
 
+1. Get a CLI key from [OSM Admin Boundaries Map](https://wambachers-osm.website/boundaries/) and replace `__CLI__KEY__` in `country_levels_lib/wam_download.py`.
+
 1. run `source prepare_virtualenv.sh`
 2. run `./process_all.sh`
 
