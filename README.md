@@ -2,7 +2,7 @@
 
 Country Levels are GeoJSON extracts from OpenStreetMap, based on ISO codes.
 
-It builds on information from both OpenStreetMap and Wikidata, giving up-to-date population information.
+It builds on data from both OpenStreetMap and Wikidata, giving up-to-date population information.
 
 ISO1 is referring to [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country codes, for example `ES` for Spain.
 
