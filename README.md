@@ -12,13 +12,13 @@ ISO2 is referring to [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) coun
 
 <img src="docs/assets/cl_resize.jpg" width="400">
 
-GeoJSON files are served in different quality levels, *q5* refers to smallest, *q7* to medium and *q8* to higher quality extracts. 
+GeoJSON files are served in different quality levels, *q5* refers to smallest, *q7* to medium and *q8* to higher quality extracts.
 
 GeoJSON files and JSON catalogs are provided in the [export](export) folder.
 
 
 
-## [Country code list](docs/iso1_list.md)
+## [ISO code list](docs/iso1_list.md)
 
 
 
@@ -67,4 +67,4 @@ If you have [direnv](https://direnv.net/) installed, the virtualenv will activat
 
 
 
-## [Country code list](docs/iso1_list.md)
+## [ISO code list](docs/iso1_list.md)
