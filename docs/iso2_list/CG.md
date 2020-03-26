@@ -5,7 +5,7 @@
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --: 
 Bouenza | CG-11 | [GeoJSON](../../export/geojson/q7/iso2/CG/CG-11.geojson) | [OSM](https://www.openstreetmap.org/relation/3220587) | [Wikidata](https://www.wikidata.org/wiki/Q827015) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ABouenza) | 
-Brazzaville | CG-BZV | [GeoJSON](../../export/geojson/q7/iso2/CG/CG-BZV.geojson) | [OSM](https://www.openstreetmap.org/relation/3947308) | [Wikidata](https://www.wikidata.org/wiki/Q3844) |  | 1827000
+Brazzaville | CG-BZV | [GeoJSON](../../export/geojson/q7/iso2/CG/CG-BZV.geojson) | [OSM](https://www.openstreetmap.org/relation/3947308) | [Wikidata](https://www.wikidata.org/wiki/Q3844) |  | 1,827,000
 Cuvette | CG-8 | [GeoJSON](../../export/geojson/q7/iso2/CG/CG-8.geojson) | [OSM](https://www.openstreetmap.org/relation/3220588) | [Wikidata](https://www.wikidata.org/wiki/Q780884) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ACuvette%20%28d%C3%A9partement%29) | 
 Cuvette-Ouest | CG-15 | [GeoJSON](../../export/geojson/q7/iso2/CG/CG-15.geojson) | [OSM](https://www.openstreetmap.org/relation/3220589) | [Wikidata](https://www.wikidata.org/wiki/Q125711) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ACuvette-Ouest) | 
 Kouilou | CG-5 | [GeoJSON](../../export/geojson/q7/iso2/CG/CG-5.geojson) | [OSM](https://www.openstreetmap.org/relation/3220590) | [Wikidata](https://www.wikidata.org/wiki/Q855327) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AKouilou) | 

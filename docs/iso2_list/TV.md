@@ -4,7 +4,7 @@
 #### Level 8
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --: 
-Funafuti | TV-FUN | [GeoJSON](../../export/geojson/q7/iso2/TV/TV-FUN.geojson) | [OSM](https://www.openstreetmap.org/relation/3766660) | [Wikidata](https://www.wikidata.org/wiki/Q34126) |  | 6025
+Funafuti | TV-FUN | [GeoJSON](../../export/geojson/q7/iso2/TV/TV-FUN.geojson) | [OSM](https://www.openstreetmap.org/relation/3766660) | [Wikidata](https://www.wikidata.org/wiki/Q34126) |  | 6,025
 Nanumanga | TV-NMG | [GeoJSON](../../export/geojson/q7/iso2/TV/TV-NMG.geojson) | [OSM](https://www.openstreetmap.org/relation/3766583) | [Wikidata](https://www.wikidata.org/wiki/Q367027) |  | 481
 Nanumea | TV-NMA | [GeoJSON](../../export/geojson/q7/iso2/TV/TV-NMA.geojson) | [OSM](https://www.openstreetmap.org/relation/3766584) | [Wikidata](https://www.wikidata.org/wiki/Q174618) |  | 
 Niutao | TV-NIT | [GeoJSON](../../export/geojson/q7/iso2/TV/TV-NIT.geojson) | [OSM](https://www.openstreetmap.org/relation/3766586) | [Wikidata](https://www.wikidata.org/wiki/Q17578833) |  | 

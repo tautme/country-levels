@@ -11,6 +11,6 @@ East Berbice-Corentyne | GY-EB | [GeoJSON](../../export/geojson/q7/iso2/GY/GY-EB
 Essequibo Islands-West Demerara | GY-ES | [GeoJSON](../../export/geojson/q7/iso2/GY/GY-ES.geojson) | [OSM](https://www.openstreetmap.org/relation/7105894) | [Wikidata](https://www.wikidata.org/wiki/Q1368802) |  | 
 Mahaica-Berbice | GY-MA | [GeoJSON](../../export/geojson/q7/iso2/GY/GY-MA.geojson) | [OSM](https://www.openstreetmap.org/relation/7108958) | [Wikidata](https://www.wikidata.org/wiki/Q1466671) |  | 
 Pomeroon-Supenaam | GY-PM | [GeoJSON](../../export/geojson/q7/iso2/GY/GY-PM.geojson) | [OSM](https://www.openstreetmap.org/relation/7105874) | [Wikidata](https://www.wikidata.org/wiki/Q680382) |  | 
-Potaro-Siparuni | GY-PT | [GeoJSON](../../export/geojson/q7/iso2/GY/GY-PT.geojson) | [OSM](https://www.openstreetmap.org/relation/7108941) | [Wikidata](https://www.wikidata.org/wiki/Q1454035) |  | 10190
+Potaro-Siparuni | GY-PT | [GeoJSON](../../export/geojson/q7/iso2/GY/GY-PT.geojson) | [OSM](https://www.openstreetmap.org/relation/7108941) | [Wikidata](https://www.wikidata.org/wiki/Q1454035) |  | 10,190
 Upper Demerara-Berbice | GY-UD | [GeoJSON](../../export/geojson/q7/iso2/GY/GY-UD.geojson) | [OSM](https://www.openstreetmap.org/relation/7109155) | [Wikidata](https://www.wikidata.org/wiki/Q1309042) |  | 
 Upper Takutu-Upper Essequibo | GY-UT | [GeoJSON](../../export/geojson/q7/iso2/GY/GY-UT.geojson) | [OSM](https://www.openstreetmap.org/relation/7108944) | [Wikidata](https://www.wikidata.org/wiki/Q1516381) |  | 
