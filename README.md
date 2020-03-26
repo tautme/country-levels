@@ -6,7 +6,11 @@ It builds on information from both OpenStreetMap and Wikidata, giving up-to-date
 
 ISO1 is referring to [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country codes, for example `ES` for Spain.
 
+<img src="docs/assets/es_resize.jpg" width="400">
+
 ISO2 is referring to [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) country codes, for example `ES-CL` for Castilla y León, Spain.
+
+<img src="docs/assets/cl_resize.jpg" width="400">
 
 GeoJSON files are served in different quality levels, *q5* refers to smallest, *q7* to medium and *q8* to higher quality extracts. 
 
