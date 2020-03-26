@@ -1,19 +1,22 @@
 # Country Levels
-Country Levels project provides GeoJSON extracts from OpenStreetMap, for each ISO country and subdivision code (like provinces or states).
+
+Country Levels are GeoJSON extracts from OpenStreetMap, based on ISO codes.
 
 It builds on information from both OpenStreetMap and Wikidata, giving up-to-date population information.
 
 ISO1 is referring to [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country codes, like `ES` for Spain.
 
-ISO2 is referring to [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) country codes, like `ES-CL` for Castilla y León.
+ISO2 is referring to [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) country codes, like `ES-CL` for Castilla y León, Spain.
 
-GeoJSON files are served in different quality levels, q5 refers to smallest, q7 to medium and q8 to higher quality extracts. All exported GeoJSON and JSON files are found in the "[export](export)" folder.
+GeoJSON files are served in different quality levels, q5 refers to smallest, q7 to medium and q8 to higher quality extracts. 
+
+All exported GeoJSON and JSON files are found in the [export](export) folder.
 
 
 
-### [Country code list](docs/iso1_list.md)
+## [Country code list](docs/iso1_list.md)
 
-JSONs: [iso1.json](../export/iso1.json) [iso2.json](../export/iso2.json)
+#### JSONs: [iso1.json](../export/iso1.json) [iso2.json](../export/iso2.json)
 
 
 
@@ -62,9 +65,9 @@ If you have [direnv](https://direnv.net/) installed, the virtualenv will activat
 
 
 
-### [Country code list](docs/iso1_list.md)
+## [Country code list](docs/iso1_list.md)
 
-JSONs: [iso1.json](../export/iso1.json) [iso2.json](../export/iso2.json)
+#### JSONs: [iso1.json](../export/iso1.json) [iso2.json](../export/iso2.json)
 
 
 
