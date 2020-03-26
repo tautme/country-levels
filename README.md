@@ -10,7 +10,7 @@ ISO2 is referring to [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) coun
 
 GeoJSON files are served in different quality levels, q5 refers to smallest, q7 to medium and q8 to higher quality extracts. 
 
-GeoJSON files and JSON catalogues are found in the [export](export) folder.
+GeoJSON files and JSON catalogs are provided in the [export](export) folder.
 
 
 
@@ -30,7 +30,7 @@ For example, Spain's country level ID is: `iso1:ES`. Castilla y León's country 
 
 ### License
 
-The source code of this project is under MIT License.
+The source code of this project is under the MIT License.
 
 The GeoJSON files are from OpenStreetMap, [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright).
 
