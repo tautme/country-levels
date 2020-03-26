@@ -24,7 +24,7 @@ GeoJSON files and JSON catalogs are provided in the [export](export) folder.
 
 ### Country Level IDs
 
-Country level IDs are optional and are included with each GeoJSON. They simply concatenate the level + the ISO code with a colon.
+Country level IDs are optional and are included with each GeoJSON. They simply concatenate the level + the ISO code with `:`
 
 For example, Spain's country level ID is: `iso1:ES`. Castilla y León's country level ID is `iso2:ES-CL`.
 
