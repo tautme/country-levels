@@ -32,7 +32,7 @@ For example, Spain's country level ID is `iso1:ES`, Castilla y León's country l
 
 ### License
 
-The source code of this project is under the MIT License.
+The source code of this project is licensed under the MIT License.
 
 The GeoJSON files are from OpenStreetMap, [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright).
 
@@ -46,7 +46,7 @@ The map screenshots in this readme [© Mapbox](https://www.mapbox.com/about/maps
 
 #### Thanks
 
-The land polygons are from [OSM Admin Boundaries Map](https://wambachers-osm.website/boundaries/), provided by Wambachers. 
+The land polygons are from Wambacher's [OSM Admin Boundaries Map](https://wambachers-osm.website/boundaries/).
 
 
 
