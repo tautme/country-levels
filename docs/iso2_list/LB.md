@@ -2,7 +2,7 @@
 
 
 #### Level 3
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Akkar Governorate | LB-AK | [GeoJSON](../../export/geojson/q7/iso2/LB/LB-AK.geojson) | [OSM](https://www.openstreetmap.org/relation/7231014) | [Wikidata](https://www.wikidata.org/wiki/Q556146) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAkkar%20Governorate) | 
 Baalbek-Hermel Governorate | LB-BH | [GeoJSON](../../export/geojson/q7/iso2/LB/LB-BH.geojson) | [OSM](https://www.openstreetmap.org/relation/7231015) | [Wikidata](https://www.wikidata.org/wiki/Q787753) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%20%D8%A8%D8%B9%D9%84%D8%A8%D9%83%20%D8%A7%D9%84%D9%87%D8%B1%D9%85%D9%84) | 

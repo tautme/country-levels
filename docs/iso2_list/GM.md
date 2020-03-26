@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Banjul City Council | GM-B | [GeoJSON](../../export/geojson/q7/iso2/GM/GM-B.geojson) | [OSM](https://www.openstreetmap.org/relation/3214211) | [Wikidata](https://www.wikidata.org/wiki/Q3726) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABanjul) | 31356
 Central River | GM-M | [GeoJSON](../../export/geojson/q7/iso2/GM/GM-M.geojson) | [OSM](https://www.openstreetmap.org/relation/7224883) | [Wikidata](https://www.wikidata.org/wiki/Q824431) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACentral%20River%20Division) | 

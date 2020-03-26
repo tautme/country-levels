@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Districts of Republican Subordination | TJ-RA | [GeoJSON](../../export/geojson/q7/iso2/TJ/TJ-RA.geojson) | [OSM](https://www.openstreetmap.org/relation/3279615) | [Wikidata](https://www.wikidata.org/wiki/Q633490) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ADistricts%20of%20Republican%20Subordination) | 1971600
 Dushanbe | TJ-DU | [GeoJSON](../../export/geojson/q7/iso2/TJ/TJ-DU.geojson) | [OSM](https://www.openstreetmap.org/relation/7328360) | [Wikidata](https://www.wikidata.org/wiki/Q9365) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ADushanbe) | 780000

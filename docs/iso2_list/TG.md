@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Centrale Region | TG-C | [GeoJSON](../../export/geojson/q7/iso2/TG/TG-C.geojson) | [OSM](https://www.openstreetmap.org/relation/3338091) | [Wikidata](https://www.wikidata.org/wiki/Q316220) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACentrale%20Region%2C%20Togo) | 
 Kara Region | TG-K | [GeoJSON](../../export/geojson/q7/iso2/TG/TG-K.geojson) | [OSM](https://www.openstreetmap.org/relation/3338038) | [Wikidata](https://www.wikidata.org/wiki/Q316216) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AKara%20Region) | 

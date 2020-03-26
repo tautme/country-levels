@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Alibori | BJ-AL | [GeoJSON](../../export/geojson/q7/iso2/BJ/BJ-AL.geojson) | [OSM](https://www.openstreetmap.org/relation/2803879) | [Wikidata](https://www.wikidata.org/wiki/Q29165) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AAlibori) | 
 Atakora | BJ-AK | [GeoJSON](../../export/geojson/q7/iso2/BJ/BJ-AK.geojson) | [OSM](https://www.openstreetmap.org/relation/2845850) | [Wikidata](https://www.wikidata.org/wiki/Q29154) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AAtacora) | 

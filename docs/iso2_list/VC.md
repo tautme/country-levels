@@ -2,7 +2,7 @@
 
 
 #### Level 6
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Charlotte | VC-01 | [GeoJSON](../../export/geojson/q7/iso2/VC/VC-01.geojson) | [OSM](https://www.openstreetmap.org/relation/4016640) | [Wikidata](https://www.wikidata.org/wiki/Q2075188) |  | 
 Grenadines | VC-06 | [GeoJSON](../../export/geojson/q7/iso2/VC/VC-06.geojson) | [OSM](https://www.openstreetmap.org/relation/4016680) | [Wikidata](https://www.wikidata.org/wiki/Q2545297) |  | 9200

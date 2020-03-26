@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Anse la Raye | LC-01 | [GeoJSON](../../export/geojson/q7/iso2/LC/LC-01.geojson) | [OSM](https://www.openstreetmap.org/relation/9304002) | [Wikidata](https://www.wikidata.org/wiki/Q1676934) |  | 
 Canaries | LC-12 | [GeoJSON](../../export/geojson/q7/iso2/LC/LC-12.geojson) | [OSM](https://www.openstreetmap.org/relation/9333382) | [Wikidata](https://www.wikidata.org/wiki/Q9184399) |  | 

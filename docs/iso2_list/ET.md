@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Addis Ababa | ET-AA | [GeoJSON](../../export/geojson/q7/iso2/ET/ET-AA.geojson) | [OSM](https://www.openstreetmap.org/relation/1707699) | [Wikidata](https://www.wikidata.org/wiki/Q3624) | [Wikipedia](http://en.wikipedia.org/wiki/am%3A%E1%8A%A0%E1%8B%B2%E1%88%B5%20%E1%8A%A0%E1%89%A0%E1%89%A3) | 3041002
 Afar Region | ET-AF | [GeoJSON](../../export/geojson/q7/iso2/ET/ET-AF.geojson) | [OSM](https://www.openstreetmap.org/relation/1707249) | [Wikidata](https://www.wikidata.org/wiki/Q193494) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAfar%20Region) | 1411092

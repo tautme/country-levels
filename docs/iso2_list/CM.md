@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Adamawa | CM-AD | [GeoJSON](../../export/geojson/q7/iso2/CM/CM-AD.geojson) | [OSM](https://www.openstreetmap.org/relation/2750694) | [Wikidata](https://www.wikidata.org/wiki/Q351514) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AR%C3%A9gion%20de%20l%27Adamaoua) | 838689
 Centre | CM-CE | [GeoJSON](../../export/geojson/q7/iso2/CM/CM-CE.geojson) | [OSM](https://www.openstreetmap.org/relation/2750789) | [Wikidata](https://www.wikidata.org/wiki/Q739951) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AR%C3%A9gion%20du%20Centre%20%28Cameroun%29) | 2797212

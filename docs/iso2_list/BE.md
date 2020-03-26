@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Brussels-Capital | BE-BRU | [GeoJSON](../../export/geojson/q7/iso2/BE/BE-BRU.geojson) | [OSM](https://www.openstreetmap.org/relation/54094) | [Wikidata](https://www.wikidata.org/wiki/Q240) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AR%C3%A9gion%20de%20Bruxelles-Capitale) | 1198726
 Flanders | BE-VLG | [GeoJSON](../../export/geojson/q7/iso2/BE/BE-VLG.geojson) | [OSM](https://www.openstreetmap.org/relation/53134) | [Wikidata](https://www.wikidata.org/wiki/Q9337) | [Wikipedia](http://en.wikipedia.org/wiki/nl%3AVlaams%20Gewest) | 6381859
@@ -10,7 +10,7 @@ Wallonia | BE-WAL | [GeoJSON](../../export/geojson/q7/iso2/BE/BE-WAL.geojson) | 
 
 
 #### Level 6
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Antwerp | BE-VAN | [GeoJSON](../../export/geojson/q7/iso2/BE/BE-VAN.geojson) | [OSM](https://www.openstreetmap.org/relation/53114) | [Wikidata](https://www.wikidata.org/wiki/Q1116) | [Wikipedia](http://en.wikipedia.org/wiki/nl%3AAntwerpen%20%28provincie%29) | 1847486
 East Flanders | BE-VOV | [GeoJSON](../../export/geojson/q7/iso2/BE/BE-VOV.geojson) | [OSM](https://www.openstreetmap.org/relation/53135) | [Wikidata](https://www.wikidata.org/wiki/Q1114) | [Wikipedia](http://en.wikipedia.org/wiki/nl%3AOost-Vlaanderen) | 1505053

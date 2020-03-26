@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Capital Region of Denmark | DK-84 | [GeoJSON](../../export/geojson/q7/iso2/DK/DK-84.geojson) | [OSM](https://www.openstreetmap.org/relation/1320608) | [Wikidata](https://www.wikidata.org/wiki/Q26073) | [Wikipedia](http://en.wikipedia.org/wiki/da%3ARegion%20Hovedstaden) | 1848989
 Central Denmark Region | DK-82 | [GeoJSON](../../export/geojson/q7/iso2/DK/DK-82.geojson) | [OSM](https://www.openstreetmap.org/relation/1319935) | [Wikidata](https://www.wikidata.org/wiki/Q26586) | [Wikipedia](http://en.wikipedia.org/wiki/da%3ARegion%20Midtjylland) | 1326913

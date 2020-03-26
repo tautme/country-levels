@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Eastern Cape | ZA-EC | [GeoJSON](../../export/geojson/q7/iso2/ZA/ZA-EC.geojson) | [OSM](https://www.openstreetmap.org/relation/88574) | [Wikidata](https://www.wikidata.org/wiki/Q130840) |  | 6436761
 Free State | ZA-FS | [GeoJSON](../../export/geojson/q7/iso2/ZA/ZA-FS.geojson) | [OSM](https://www.openstreetmap.org/relation/92417) | [Wikidata](https://www.wikidata.org/wiki/Q160284) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AFree%20State%20%28province%29) | 2753200

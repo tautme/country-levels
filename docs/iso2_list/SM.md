@@ -2,7 +2,7 @@
 
 
 #### Level 8
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Acquaviva | SM-01 | [GeoJSON](../../export/geojson/q7/iso2/SM/SM-01.geojson) | [OSM](https://www.openstreetmap.org/relation/3012938) | [Wikidata](https://www.wikidata.org/wiki/Q206363) | [Wikipedia](http://en.wikipedia.org/wiki/it%3AAcquaviva%20%28San%20Marino%29) | 2137
 Borgo Maggiore | SM-06 | [GeoJSON](../../export/geojson/q7/iso2/SM/SM-06.geojson) | [OSM](https://www.openstreetmap.org/relation/3012939) | [Wikidata](https://www.wikidata.org/wiki/Q201368) | [Wikipedia](http://en.wikipedia.org/wiki/it%3ABorgo%20Maggiore) | 6631

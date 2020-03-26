@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Alberta | CA-AB | [GeoJSON](../../export/geojson/q7/iso2/CA/CA-AB.geojson) | [OSM](https://www.openstreetmap.org/relation/391186) | [Wikidata](https://www.wikidata.org/wiki/Q1951) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAlberta) | 4306039
 British Columbia | CA-BC | [GeoJSON](../../export/geojson/q7/iso2/CA/CA-BC.geojson) | [OSM](https://www.openstreetmap.org/relation/390867) | [Wikidata](https://www.wikidata.org/wiki/Q1974) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABritish%20Columbia) | 4841078

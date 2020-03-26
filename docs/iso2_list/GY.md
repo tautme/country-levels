@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Barima-Waini | GY-BA | [GeoJSON](../../export/geojson/q7/iso2/GY/GY-BA.geojson) | [OSM](https://www.openstreetmap.org/relation/7105826) | [Wikidata](https://www.wikidata.org/wiki/Q537740) |  | 
 Cuyuni-Mazaruni | GY-CU | [GeoJSON](../../export/geojson/q7/iso2/GY/GY-CU.geojson) | [OSM](https://www.openstreetmap.org/relation/7108866) | [Wikidata](https://www.wikidata.org/wiki/Q1146777) |  | 

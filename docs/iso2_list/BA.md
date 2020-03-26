@@ -2,7 +2,7 @@
 
 
 #### Level 5
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Bosnian Podrinje Canton | BA-05 | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-05.geojson) | [OSM](https://www.openstreetmap.org/relation/2528146) | [Wikidata](https://www.wikidata.org/wiki/Q18256) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABosnian-Podrinje%20Canton%20Gora%C5%BEde) | 
 Central Bosnia Canton | BA-06 | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-06.geojson) | [OSM](https://www.openstreetmap.org/relation/2528148) | [Wikidata](https://www.wikidata.org/wiki/Q18262) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACentral%20Bosnia%20Canton) | 
@@ -17,7 +17,7 @@ Zenica-Doboj Canton | BA-04 | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-04.ge
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Brčko District | BA-BRC | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-BRC.geojson) | [OSM](https://www.openstreetmap.org/relation/2528143) | [Wikidata](https://www.wikidata.org/wiki/Q194483) | [Wikipedia](http://en.wikipedia.org/wiki/bs%3ABr%C4%8Dko%20Distrikt) | 
 Federation of Bosnia and Herzegovina | BA-BIH | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-BIH.geojson) | [OSM](https://www.openstreetmap.org/relation/2528144) | [Wikidata](https://www.wikidata.org/wiki/Q11198) | [Wikipedia](http://en.wikipedia.org/wiki/bs%3AFederacija%20Bosne%20i%20Hercegovine) | 2219220

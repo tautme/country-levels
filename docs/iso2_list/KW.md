@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Ahmadi | KW-AH | [GeoJSON](../../export/geojson/q7/iso2/KW/KW-AH.geojson) | [OSM](https://www.openstreetmap.org/relation/4579477) | [Wikidata](https://www.wikidata.org/wiki/Q552354) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%AF%D9%8A) | 
 Al Asimah | KW-KU | [GeoJSON](../../export/geojson/q7/iso2/KW/KW-KU.geojson) | [OSM](https://www.openstreetmap.org/relation/4579478) | [Wikidata](https://www.wikidata.org/wiki/Q1046645) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACapital%20Governorate%20%28Kuwait%29) | 

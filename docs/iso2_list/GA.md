@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Estuaire | GA-1 | [GeoJSON](../../export/geojson/q7/iso2/GA/GA-1.geojson) | [OSM](https://www.openstreetmap.org/relation/1243584) | [Wikidata](https://www.wikidata.org/wiki/Q281109) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AEstuaire%20%28province%29) | 
 Haut-Ogooué | GA-2 | [GeoJSON](../../export/geojson/q7/iso2/GA/GA-2.geojson) | [OSM](https://www.openstreetmap.org/relation/1243580) | [Wikidata](https://www.wikidata.org/wiki/Q654438) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AHaut-Ogoou%C3%A9) | 

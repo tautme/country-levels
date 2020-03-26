@@ -2,7 +2,7 @@
 
 
 #### Level 3
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Dakar | SN-DK | [GeoJSON](../../export/geojson/q7/iso2/SN/SN-DK.geojson) | [OSM](https://www.openstreetmap.org/relation/2892079) | [Wikidata](https://www.wikidata.org/wiki/Q856268) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ADakar%20%28r%C3%A9gion%29) | 3137196
 Diourbel Region | SN-DB | [GeoJSON](../../export/geojson/q7/iso2/SN/SN-DB.geojson) | [OSM](https://www.openstreetmap.org/relation/2908186) | [Wikidata](https://www.wikidata.org/wiki/Q856261) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ADiourbel%20%28r%C3%A9gion%29) | 1497453

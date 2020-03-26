@@ -2,7 +2,7 @@
 
 
 #### Level 8
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Funafuti | TV-FUN | [GeoJSON](../../export/geojson/q7/iso2/TV/TV-FUN.geojson) | [OSM](https://www.openstreetmap.org/relation/3766660) | [Wikidata](https://www.wikidata.org/wiki/Q34126) |  | 6025
 Nanumanga | TV-NMG | [GeoJSON](../../export/geojson/q7/iso2/TV/TV-NMG.geojson) | [OSM](https://www.openstreetmap.org/relation/3766583) | [Wikidata](https://www.wikidata.org/wiki/Q367027) |  | 481

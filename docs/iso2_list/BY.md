@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Brest Region | BY-BR | [GeoJSON](../../export/geojson/q7/iso2/BY/BY-BR.geojson) | [OSM](https://www.openstreetmap.org/relation/59189) | [Wikidata](https://www.wikidata.org/wiki/Q173822) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%91%D1%80%D0%B5%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 1384476
 Homel Region | BY-HO | [GeoJSON](../../export/geojson/q7/iso2/BY/BY-HO.geojson) | [OSM](https://www.openstreetmap.org/relation/59161) | [Wikidata](https://www.wikidata.org/wiki/Q188732) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%93%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 1409890

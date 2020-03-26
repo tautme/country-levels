@@ -2,7 +2,7 @@
 
 
 #### Level 5
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Famagusta | CY-04 | [GeoJSON](../../export/geojson/q7/iso2/CY/CY-04.geojson) | [OSM](https://www.openstreetmap.org/relation/3264447) | [Wikidata](https://www.wikidata.org/wiki/Q59148) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AFamagusta%20District) | 46629
 Kyrenia/Girne | CY-06 | [GeoJSON](../../export/geojson/q7/iso2/CY/CY-06.geojson) | [OSM](https://www.openstreetmap.org/relation/3264494) | [Wikidata](https://www.wikidata.org/wiki/Q59146) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AKyrenia%20District) | 32586

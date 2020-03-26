@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Hhohho | SZ-HH | [GeoJSON](../../export/geojson/q7/iso2/SZ/SZ-HH.geojson) | [OSM](https://www.openstreetmap.org/relation/1253055) | [Wikidata](https://www.wikidata.org/wiki/Q735570) |  | 
 Lubombo | SZ-LU | [GeoJSON](../../export/geojson/q7/iso2/SZ/SZ-LU.geojson) | [OSM](https://www.openstreetmap.org/relation/1253040) | [Wikidata](https://www.wikidata.org/wiki/Q856657) |  | 

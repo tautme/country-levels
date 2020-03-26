@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Central Province | ZM-02 | [GeoJSON](../../export/geojson/q7/iso2/ZM/ZM-02.geojson) | [OSM](https://www.openstreetmap.org/relation/318861) | [Wikidata](https://www.wikidata.org/wiki/Q190718) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACentral%20Province%2C%20Zambia) | 
 Copperbelt Province | ZM-08 | [GeoJSON](../../export/geojson/q7/iso2/ZM/ZM-08.geojson) | [OSM](https://www.openstreetmap.org/relation/318860) | [Wikidata](https://www.wikidata.org/wiki/Q1131523) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACopperbelt%20Province) | 

@@ -2,7 +2,7 @@
 
 
 #### Level 6
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Saint George | AG-03 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-03.geojson) | [OSM](https://www.openstreetmap.org/relation/9604933) | [Wikidata](https://www.wikidata.org/wiki/Q1770796) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ASaint%20George%20Parish%2C%20Antigua%20and%20Barbuda) | 7496
 Saint John | AG-04 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-04.geojson) | [OSM](https://www.openstreetmap.org/relation/9604932) | [Wikidata](https://www.wikidata.org/wiki/Q548816) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ASaint%20John%20Parish%2C%20Antigua%20and%20Barbuda) | 49225
@@ -13,7 +13,7 @@ Saint Philip | AG-08 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-08.geojson) 
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Barbuda | AG-10 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-10.geojson) | [OSM](https://www.openstreetmap.org/relation/7742426) | [Wikidata](https://www.wikidata.org/wiki/Q238752) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABarbuda) | 1638
 Redonda | AG-11 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-11.geojson) | [OSM](https://www.openstreetmap.org/relation/7742427) | [Wikidata](https://www.wikidata.org/wiki/Q457261) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ARedonda) | 

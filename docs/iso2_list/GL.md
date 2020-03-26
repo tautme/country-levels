@@ -2,7 +2,7 @@
 
 
 #### Level 7
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Avannaata | GL-AV | [GeoJSON](../../export/geojson/q7/iso2/GL/GL-AV.geojson) | [OSM](https://www.openstreetmap.org/relation/8514493) | [Wikidata](https://www.wikidata.org/wiki/Q44593409) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAvannaata) | 10651
 Kujalleq | GL-KU | [GeoJSON](../../export/geojson/q7/iso2/GL/GL-KU.geojson) | [OSM](https://www.openstreetmap.org/relation/8512366) | [Wikidata](https://www.wikidata.org/wiki/Q478813) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AKujalleq) | 6811

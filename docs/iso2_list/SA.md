@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 'Asir Region | SA-14 | [GeoJSON](../../export/geojson/q7/iso2/SA/SA-14.geojson) | [OSM](https://www.openstreetmap.org/relation/3678598) | [Wikidata](https://www.wikidata.org/wiki/Q779855) |  | 
 Al Bahah Region | SA-11 | [GeoJSON](../../export/geojson/q7/iso2/SA/SA-11.geojson) | [OSM](https://www.openstreetmap.org/relation/3679888) | [Wikidata](https://www.wikidata.org/wiki/Q852774) |  | 

@@ -2,7 +2,7 @@
 
 
 #### Level 3
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Ascension | SH-AC | [GeoJSON](../../export/geojson/q7/iso2/SH/SH-AC.geojson) | [OSM](https://www.openstreetmap.org/relation/156166) | [Wikidata](https://www.wikidata.org/wiki/Q46197) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAscension%20Island) | 806
 Saint Helena | SH-HL | [GeoJSON](../../export/geojson/q7/iso2/SH/SH-HL.geojson) | [OSM](https://www.openstreetmap.org/relation/155987) | [Wikidata](https://www.wikidata.org/wiki/Q34497) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ASaint%20Helena) | 4255

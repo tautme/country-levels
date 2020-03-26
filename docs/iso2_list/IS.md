@@ -2,13 +2,13 @@
 
 
 #### Level 6
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Reykjavik | IS-0 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-0.geojson) | [OSM](https://www.openstreetmap.org/relation/2580605) | [Wikidata](https://www.wikidata.org/wiki/Q1764) | [Wikipedia](http://en.wikipedia.org/wiki/is%3AReykjav%C3%ADk) | 128793
 
 
 #### Level 5
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Capital Region | IS-1 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-1.geojson) | [OSM](https://www.openstreetmap.org/relation/3881596) | [Wikidata](https://www.wikidata.org/wiki/Q203304) | [Wikipedia](http://en.wikipedia.org/wiki/is%3AH%C3%B6fu%C3%B0borgarsv%C3%A6%C3%B0i%C3%B0) | 213619
 Eastern Region | IS-7 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-7.geojson) | [OSM](https://www.openstreetmap.org/relation/4001011) | [Wikidata](https://www.wikidata.org/wiki/Q220663) |  | 15300

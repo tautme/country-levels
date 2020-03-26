@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Abu Dhabi | AE-AZ | [GeoJSON](../../export/geojson/q7/iso2/AE/AE-AZ.geojson) | [OSM](https://www.openstreetmap.org/relation/3766481) | [Wikidata](https://www.wikidata.org/wiki/Q187712) |  | 2908173
 Ajman | AE-AJ | [GeoJSON](../../export/geojson/q7/iso2/AE/AE-AJ.geojson) | [OSM](https://www.openstreetmap.org/relation/3766482) | [Wikidata](https://www.wikidata.org/wiki/Q159477) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AEmirate%20of%20Ajman) | 

@@ -2,7 +2,7 @@
 
 
 #### Level 6
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Canton Capellen | LU-CA | [GeoJSON](../../export/geojson/q7/iso2/LU/LU-CA.geojson) | [OSM](https://www.openstreetmap.org/relation/407813) | [Wikidata](https://www.wikidata.org/wiki/Q397678) | [Wikipedia](http://en.wikipedia.org/wiki/lb%3AKanton%20Kapellen) | 49066
 Canton Clervaux | LU-CL | [GeoJSON](../../export/geojson/q7/iso2/LU/LU-CL.geojson) | [OSM](https://www.openstreetmap.org/relation/1115796) | [Wikidata](https://www.wikidata.org/wiki/Q691793) | [Wikipedia](http://en.wikipedia.org/wiki/lb%3AKanton%20Klierf) | 18436

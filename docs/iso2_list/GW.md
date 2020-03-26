@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Bissau Autonomous Sector | GW-BS | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-BS.geojson) | [OSM](https://www.openstreetmap.org/relation/1761580) | [Wikidata](https://www.wikidata.org/wiki/Q1318549) |  | 
 Região de Bafatá | GW-BA | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-BA.geojson) | [OSM](https://www.openstreetmap.org/relation/1761578) | [Wikidata](https://www.wikidata.org/wiki/Q799791) |  | 225516
@@ -16,7 +16,7 @@ Região de Tombali | GW-TO | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-TO.geo
 
 
 #### Level 3
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Província Leste | GW-L | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-L.geojson) | [OSM](https://www.openstreetmap.org/relation/3663542) | [Wikidata](https://www.wikidata.org/wiki/Q13378473) |  | 
 Província Norte | GW-N | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-N.geojson) | [OSM](https://www.openstreetmap.org/relation/3663587) | [Wikidata](https://www.wikidata.org/wiki/Q13378475) |  | 

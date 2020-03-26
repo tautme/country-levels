@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Bocas del Toro | PA-1 | [GeoJSON](../../export/geojson/q7/iso2/PA/PA-1.geojson) | [OSM](https://www.openstreetmap.org/relation/3420383) | [Wikidata](https://www.wikidata.org/wiki/Q217138) |  | 
 Chiriquí | PA-4 | [GeoJSON](../../export/geojson/q7/iso2/PA/PA-4.geojson) | [OSM](https://www.openstreetmap.org/relation/5740681) | [Wikidata](https://www.wikidata.org/wiki/Q739651) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AProvincia%20de%20Chiriqu%C3%AD) | 426790

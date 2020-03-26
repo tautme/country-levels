@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Chaguanas | TT-CHA | [GeoJSON](../../export/geojson/q7/iso2/TT/TT-CHA.geojson) | [OSM](https://www.openstreetmap.org/relation/7363641) | [Wikidata](https://www.wikidata.org/wiki/Q1444575) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AChaguanas) | 83489
 Couva-Tabaquite-Talparo | TT-CTT | [GeoJSON](../../export/geojson/q7/iso2/TT/TT-CTT.geojson) | [OSM](https://www.openstreetmap.org/relation/7363415) | [Wikidata](https://www.wikidata.org/wiki/Q2679127) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACouva-Tabaquite-Talparo%20Regional%20Corporation) | 

@@ -2,7 +2,7 @@
 
 
 #### Level 8
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Balzers | LI-01 | [GeoJSON](../../export/geojson/q7/iso2/LI/LI-01.geojson) | [OSM](https://www.openstreetmap.org/relation/1155953) | [Wikidata](https://www.wikidata.org/wiki/Q49663) | [Wikipedia](http://en.wikipedia.org/wiki/de%3ABalzers) | 4583
 Eschen | LI-02 | [GeoJSON](../../export/geojson/q7/iso2/LI/LI-02.geojson) | [OSM](https://www.openstreetmap.org/relation/1155949) | [Wikidata](https://www.wikidata.org/wiki/Q4540) | [Wikipedia](http://en.wikipedia.org/wiki/de%3AEschen%20%28Liechtenstein%29) | 4375

@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Cabo Delgado | MZ-P | [GeoJSON](../../export/geojson/q7/iso2/MZ/MZ-P.geojson) | [OSM](https://www.openstreetmap.org/relation/2908364) | [Wikidata](https://www.wikidata.org/wiki/Q466538) | [Wikipedia](http://en.wikipedia.org/wiki/pt%3ACabo%20Delgado%20%28prov%C3%ADncia%29) | 
 Cidade de Maputo | MZ-MPM | [GeoJSON](../../export/geojson/q7/iso2/MZ/MZ-MPM.geojson) | [OSM](https://www.openstreetmap.org/relation/3348644) | [Wikidata](https://www.wikidata.org/wiki/Q3889) | [Wikipedia](http://en.wikipedia.org/wiki/pt%3AMaputo) | 1191613

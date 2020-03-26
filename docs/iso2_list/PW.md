@@ -2,7 +2,7 @@
 
 
 #### Level 8
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Aimeliik | PW-002 | [GeoJSON](../../export/geojson/q7/iso2/PW/PW-002.geojson) | [OSM](https://www.openstreetmap.org/relation/3825286) | [Wikidata](https://www.wikidata.org/wiki/Q405589) |  | 
 Airai | PW-004 | [GeoJSON](../../export/geojson/q7/iso2/PW/PW-004.geojson) | [OSM](https://www.openstreetmap.org/relation/3825287) | [Wikidata](https://www.wikidata.org/wiki/Q407967) |  | 

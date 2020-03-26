@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 East Province | RW-02 | [GeoJSON](../../export/geojson/q7/iso2/RW/RW-02.geojson) | [OSM](https://www.openstreetmap.org/relation/171591) | [Wikidata](https://www.wikidata.org/wiki/Q853152) |  | 
 Kigali City | RW-01 | [GeoJSON](../../export/geojson/q7/iso2/RW/RW-01.geojson) | [OSM](https://www.openstreetmap.org/relation/1708283) | [Wikidata](https://www.wikidata.org/wiki/Q3859) |  | 1132686

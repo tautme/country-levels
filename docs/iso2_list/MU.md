@@ -2,7 +2,7 @@
 
 
 #### Level 5
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Agaléga | MU-AG | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-AG.geojson) | [OSM](https://www.openstreetmap.org/relation/3691785) |  |  | 
 Rodrigues | MU-RO | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-RO.geojson) | [OSM](https://www.openstreetmap.org/relation/3691784) | [Wikidata](https://www.wikidata.org/wiki/Q208668) |  | 41669
@@ -10,7 +10,7 @@ Saint Brandon | MU-CC | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-CC.geojson)
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Black River | MU-BL | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-BL.geojson) | [OSM](https://www.openstreetmap.org/relation/3488093) | [Wikidata](https://www.wikidata.org/wiki/Q873740) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ARivi%C3%A8re%20Noire%20District) | 76627
 Flacq | MU-FL | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-FL.geojson) | [OSM](https://www.openstreetmap.org/relation/3488094) | [Wikidata](https://www.wikidata.org/wiki/Q911651) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AFlacq%20District) | 140294

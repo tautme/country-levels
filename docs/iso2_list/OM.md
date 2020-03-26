@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Ad Dakhiliyah | OM-DA | [GeoJSON](../../export/geojson/q7/iso2/OM/OM-DA.geojson) | [OSM](https://www.openstreetmap.org/relation/3781241) | [Wikidata](https://www.wikidata.org/wiki/Q792550) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%20%28%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%29) | 
 Ad Dhahirah | OM-ZA | [GeoJSON](../../export/geojson/q7/iso2/OM/OM-ZA.geojson) | [OSM](https://www.openstreetmap.org/relation/3781242) | [Wikidata](https://www.wikidata.org/wiki/Q1468596) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D8%A7%D9%84%D8%B8%D8%A7%D9%87%D8%B1%D8%A9%20%28%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%29) | 

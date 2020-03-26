@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Ahal Region | TM-A | [GeoJSON](../../export/geojson/q7/iso2/TM/TM-A.geojson) | [OSM](https://www.openstreetmap.org/relation/223031) | [Wikidata](https://www.wikidata.org/wiki/Q399899) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%90%D1%85%D0%B0%D0%BB%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B2%D0%B5%D0%BB%D0%B0%D1%8F%D1%82) | 939700
 Ashgabat | TM-S | [GeoJSON](../../export/geojson/q7/iso2/TM/TM-S.geojson) | [OSM](https://www.openstreetmap.org/relation/7328329) | [Wikidata](https://www.wikidata.org/wiki/Q23438) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAshgabat) | 1031992

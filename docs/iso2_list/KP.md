@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Chagang | KP-04 | [GeoJSON](../../export/geojson/q7/iso2/KP/KP-04.geojson) | [OSM](https://www.openstreetmap.org/relation/356392) | [Wikidata](https://www.wikidata.org/wiki/Q272406) | [Wikipedia](http://en.wikipedia.org/wiki/ko%3A%EC%9E%90%EA%B0%95%EB%8F%84) | 
 Hamgyongnam-do | KP-08 | [GeoJSON](../../export/geojson/q7/iso2/KP/KP-08.geojson) | [OSM](https://www.openstreetmap.org/relation/356386) | [Wikidata](https://www.wikidata.org/wiki/Q109368) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ASouth%20Hamgyong%20Province) | 3066013

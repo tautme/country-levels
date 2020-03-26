@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Belait District | BN-BE | [GeoJSON](../../export/geojson/q7/iso2/BN/BN-BE.geojson) | [OSM](https://www.openstreetmap.org/relation/3853884) | [Wikidata](https://www.wikidata.org/wiki/Q40395) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABelait%20District) | 73200
 Brunei-Muara District | BN-BM | [GeoJSON](../../export/geojson/q7/iso2/BN/BN-BM.geojson) | [OSM](https://www.openstreetmap.org/relation/3853885) | [Wikidata](https://www.wikidata.org/wiki/Q153009) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABrunei-Muara%20District) | 307000

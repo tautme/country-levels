@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Región Aysén del General Carlos Ibáñez del Campo | CL-AI | [GeoJSON](../../export/geojson/q7/iso2/CL/CL-AI.geojson) | [OSM](https://www.openstreetmap.org/relation/305693) | [Wikidata](https://www.wikidata.org/wiki/Q2181) |  | 103158
 Región Metropolitana de Santiago | CL-RM | [GeoJSON](../../export/geojson/q7/iso2/CL/CL-RM.geojson) | [OSM](https://www.openstreetmap.org/relation/198848) | [Wikidata](https://www.wikidata.org/wiki/Q2131) |  | 7112808

@@ -2,7 +2,7 @@
 
 
 #### Level 4
-Name | ISO code | GeoJSON | OSM | Wikidata | Wikipedia | population 
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
 Saint Andrew Parish | DM-02 | [GeoJSON](../../export/geojson/q7/iso2/DM/DM-02.geojson) | [OSM](https://www.openstreetmap.org/relation/2315027) | [Wikidata](https://www.wikidata.org/wiki/Q732322) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ASaint%20Andrew%20Parish%2C%20Dominica) | 
 Saint David Parish | DM-03 | [GeoJSON](../../export/geojson/q7/iso2/DM/DM-03.geojson) | [OSM](https://www.openstreetmap.org/relation/2314472) | [Wikidata](https://www.wikidata.org/wiki/Q1431129) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ASaint%20David%20Parish%2C%20Dominica) | 
