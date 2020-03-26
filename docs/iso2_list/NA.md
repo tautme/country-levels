@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Erongo Region | NA-ER | [GeoJSON](../../export/geojson/q7/iso2/NA/NA-ER.geojson) | [OSM](https://www.openstreetmap.org/relation/2279555) | [Wikidata](https://www.wikidata.org/wiki/Q648753) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AErongo%20Region) | 150400
 Hardap | NA-HA | [GeoJSON](../../export/geojson/q7/iso2/NA/NA-HA.geojson) | [OSM](https://www.openstreetmap.org/relation/2279556) | [Wikidata](https://www.wikidata.org/wiki/Q752676) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AHardap%20Region) | 79000
 Karas | NA-KA | [GeoJSON](../../export/geojson/q7/iso2/NA/NA-KA.geojson) | [OSM](https://www.openstreetmap.org/relation/2279557) | [Wikidata](https://www.wikidata.org/wiki/Q573467) | [Wikipedia](http://en.wikipedia.org/wiki/en%3A%C7%81Karas%20Region) | 77421

@@ -3,7 +3,7 @@
 
 #### Level 7
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Andorra la Vella | AD-07 | [GeoJSON](../../export/geojson/q7/iso2/AD/AD-07.geojson) | [OSM](https://www.openstreetmap.org/relation/2804753) | [Wikidata](https://www.wikidata.org/wiki/Q2522163) | [Wikipedia](http://en.wikipedia.org/wiki/ca%3AAndorra%20la%20Vella) | 22615
 Canillo | AD-02 | [GeoJSON](../../export/geojson/q7/iso2/AD/AD-02.geojson) | [OSM](https://www.openstreetmap.org/relation/2804754) | [Wikidata](https://www.wikidata.org/wiki/Q24260) | [Wikipedia](http://en.wikipedia.org/wiki/ca%3ACanillo) | 4103
 Encamp | AD-03 | [GeoJSON](../../export/geojson/q7/iso2/AD/AD-03.geojson) | [OSM](https://www.openstreetmap.org/relation/2804755) | [Wikidata](https://www.wikidata.org/wiki/Q24269) | [Wikipedia](http://en.wikipedia.org/wiki/ca%3AEncamp) | 12338

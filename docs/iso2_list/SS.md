@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Central Equatoria | SS-EC | [GeoJSON](../../export/geojson/q7/iso2/SS/SS-EC.geojson) | [OSM](https://www.openstreetmap.org/relation/2190479) | [Wikidata](https://www.wikidata.org/wiki/Q487709) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACentral%20Equatoria) | 1103592
 Eastern Equatoria | SS-EE | [GeoJSON](../../export/geojson/q7/iso2/SS/SS-EE.geojson) | [OSM](https://www.openstreetmap.org/relation/2190482) | [Wikidata](https://www.wikidata.org/wiki/Q488519) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AEastern%20Equatoria) | 906126
 Jonglei | SS-JG | [GeoJSON](../../export/geojson/q7/iso2/SS/SS-JG.geojson) | [OSM](https://www.openstreetmap.org/relation/2190481) | [Wikidata](https://www.wikidata.org/wiki/Q488904) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AJonglei) | 1358602

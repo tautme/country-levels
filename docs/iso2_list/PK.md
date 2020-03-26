@@ -3,7 +3,7 @@
 
 #### Level 3
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Azad Kashmir | PK-JK | [GeoJSON](../../export/geojson/q7/iso2/PK/PK-JK.geojson) | [OSM](https://www.openstreetmap.org/relation/3780130) | [Wikidata](https://www.wikidata.org/wiki/Q200130) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAzad%20Kashmir) | 4567982
 Balochistan | PK-BA | [GeoJSON](../../export/geojson/q7/iso2/PK/PK-BA.geojson) | [OSM](https://www.openstreetmap.org/relation/357968) | [Wikidata](https://www.wikidata.org/wiki/Q163239) | [Wikipedia](http://en.wikipedia.org/wiki/ur%3A%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86) | 13162222
 Capital Territory Islamabad | PK-IS | [GeoJSON](../../export/geojson/q7/iso2/PK/PK-IS.geojson) | [OSM](https://www.openstreetmap.org/relation/358002) |  | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACapital%20Territory%20Islamabad) | 

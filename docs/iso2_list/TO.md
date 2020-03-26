@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 'Eua | TO-01 | [GeoJSON](../../export/geojson/q7/iso2/TO/TO-01.geojson) | [OSM](https://www.openstreetmap.org/relation/7247527) | [Wikidata](https://www.wikidata.org/wiki/Q18472979) |  | 
 Ha'apai | TO-02 | [GeoJSON](../../export/geojson/q7/iso2/TO/TO-02.geojson) | [OSM](https://www.openstreetmap.org/relation/3772678) | [Wikidata](https://www.wikidata.org/wiki/Q612098) |  | 
 Niuas | TO-03 | [GeoJSON](../../export/geojson/q7/iso2/TO/TO-03.geojson) | [OSM](https://www.openstreetmap.org/relation/3772679) | [Wikidata](https://www.wikidata.org/wiki/Q1200954) |  | 

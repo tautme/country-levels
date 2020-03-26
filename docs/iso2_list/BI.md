@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Bubanza | BI-BB | [GeoJSON](../../export/geojson/q7/iso2/BI/BI-BB.geojson) | [OSM](https://www.openstreetmap.org/relation/1700314) | [Wikidata](https://www.wikidata.org/wiki/Q460538) |  | 
 Bujumbura Mairie | BI-BM | [GeoJSON](../../export/geojson/q7/iso2/BI/BI-BM.geojson) | [OSM](https://www.openstreetmap.org/relation/1694988) | [Wikidata](https://www.wikidata.org/wiki/Q1816580) |  | 
 Bujumbura Rural | BI-BL | [GeoJSON](../../export/geojson/q7/iso2/BI/BI-BL.geojson) | [OSM](https://www.openstreetmap.org/relation/1695013) | [Wikidata](https://www.wikidata.org/wiki/Q645043) |  | 

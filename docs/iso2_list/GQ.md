@@ -3,14 +3,14 @@
 
 #### Level 3
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Región Continental | GQ-C | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-C.geojson) | [OSM](https://www.openstreetmap.org/relation/2793044) |  |  | 
 Región Insular | GQ-I | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-I.geojson) | [OSM](https://www.openstreetmap.org/relation/2793045) |  |  | 
 
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Annobón | GQ-AN | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-AN.geojson) | [OSM](https://www.openstreetmap.org/relation/2793215) | [Wikidata](https://www.wikidata.org/wiki/Q3736616) |  | 
 Bioko Norte | GQ-BN | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-BN.geojson) | [OSM](https://www.openstreetmap.org/relation/2793216) | [Wikidata](https://www.wikidata.org/wiki/Q845834) |  | 410541
 Bioko Sur | GQ-BS | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-BS.geojson) | [OSM](https://www.openstreetmap.org/relation/2793217) | [Wikidata](https://www.wikidata.org/wiki/Q845817) |  | 

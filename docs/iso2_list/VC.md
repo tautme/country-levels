@@ -3,7 +3,7 @@
 
 #### Level 6
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Charlotte | VC-01 | [GeoJSON](../../export/geojson/q7/iso2/VC/VC-01.geojson) | [OSM](https://www.openstreetmap.org/relation/4016640) | [Wikidata](https://www.wikidata.org/wiki/Q2075188) |  | 
 Grenadines | VC-06 | [GeoJSON](../../export/geojson/q7/iso2/VC/VC-06.geojson) | [OSM](https://www.openstreetmap.org/relation/4016680) | [Wikidata](https://www.wikidata.org/wiki/Q2545297) |  | 9200
 Saint Andrew | VC-02 | [GeoJSON](../../export/geojson/q7/iso2/VC/VC-02.geojson) | [OSM](https://www.openstreetmap.org/relation/4016641) | [Wikidata](https://www.wikidata.org/wiki/Q2305115) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ASaint%20Andrew%20Parish%2C%20Saint%20Vincent%20and%20the%20Grenadines) | 

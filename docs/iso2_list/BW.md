@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Central District | BW-CE | [GeoJSON](../../export/geojson/q7/iso2/BW/BW-CE.geojson) | [OSM](https://www.openstreetmap.org/relation/270335) | [Wikidata](https://www.wikidata.org/wiki/Q57525) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACentral%20District%20%28Botswana%29) | 563260
 Chobe District | BW-CH | [GeoJSON](../../export/geojson/q7/iso2/BW/BW-CH.geojson) | [OSM](https://www.openstreetmap.org/relation/7321165) | [Wikidata](https://www.wikidata.org/wiki/Q165536) |  | 
 Ghanzi District | BW-GH | [GeoJSON](../../export/geojson/q7/iso2/BW/BW-GH.geojson) | [OSM](https://www.openstreetmap.org/relation/270336) | [Wikidata](https://www.wikidata.org/wiki/Q57571) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AGhanzi%20District) | 33170

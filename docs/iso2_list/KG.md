@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Batken Region | KG-B | [GeoJSON](../../export/geojson/q7/iso2/KG/KG-B.geojson) | [OSM](https://www.openstreetmap.org/relation/178019) | [Wikidata](https://www.wikidata.org/wiki/Q487631) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%91%D0%B0%D1%82%D0%BA%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 400400
 Bishkek | KG-GB | [GeoJSON](../../export/geojson/q7/iso2/KG/KG-GB.geojson) | [OSM](https://www.openstreetmap.org/relation/8493930) | [Wikidata](https://www.wikidata.org/wiki/Q9361) | [Wikipedia](http://en.wikipedia.org/wiki/ky%3A%D0%91%D0%B8%D1%88%D0%BA%D0%B5%D0%BA) | 1027200
 Chuy Region | KG-C | [GeoJSON](../../export/geojson/q7/iso2/KG/KG-C.geojson) | [OSM](https://www.openstreetmap.org/relation/178026) | [Wikidata](https://www.wikidata.org/wiki/Q486370) | [Wikipedia](http://en.wikipedia.org/wiki/ru%3A%D0%A7%D1%83%D0%B9%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C) | 818000

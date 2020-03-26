@@ -3,7 +3,7 @@
 
 #### Level 5
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Berea District | LS-D | [GeoJSON](../../export/geojson/q7/iso2/LS/LS-D.geojson) | [OSM](https://www.openstreetmap.org/relation/1252926) | [Wikidata](https://www.wikidata.org/wiki/Q737086) |  | 
 Butha-Buthe District | LS-B | [GeoJSON](../../export/geojson/q7/iso2/LS/LS-B.geojson) | [OSM](https://www.openstreetmap.org/relation/1252922) | [Wikidata](https://www.wikidata.org/wiki/Q535632) |  | 
 Leribe District | LS-C | [GeoJSON](../../export/geojson/q7/iso2/LS/LS-C.geojson) | [OSM](https://www.openstreetmap.org/relation/1252929) | [Wikidata](https://www.wikidata.org/wiki/Q819987) |  | 

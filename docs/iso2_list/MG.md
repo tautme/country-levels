@@ -3,7 +3,7 @@
 
 #### Level 3
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Antsiranana Province | MG-D | [GeoJSON](../../export/geojson/q7/iso2/MG/MG-D.geojson) | [OSM](https://www.openstreetmap.org/relation/3247585) | [Wikidata](https://www.wikidata.org/wiki/Q656073) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAntsiranana%20Province) | 1188425
 Province de Fianarantsoa | MG-F | [GeoJSON](../../export/geojson/q7/iso2/MG/MG-F.geojson) | [OSM](https://www.openstreetmap.org/relation/3203751) | [Wikidata](https://www.wikidata.org/wiki/Q841197) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AFianarantsoa%20Province) | 
 Province de Mahajanga | MG-M | [GeoJSON](../../export/geojson/q7/iso2/MG/MG-M.geojson) | [OSM](https://www.openstreetmap.org/relation/3203752) | [Wikidata](https://www.wikidata.org/wiki/Q669259) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AMahajanga%20Province) | 

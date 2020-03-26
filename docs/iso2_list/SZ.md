@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Hhohho | SZ-HH | [GeoJSON](../../export/geojson/q7/iso2/SZ/SZ-HH.geojson) | [OSM](https://www.openstreetmap.org/relation/1253055) | [Wikidata](https://www.wikidata.org/wiki/Q735570) |  | 
 Lubombo | SZ-LU | [GeoJSON](../../export/geojson/q7/iso2/SZ/SZ-LU.geojson) | [OSM](https://www.openstreetmap.org/relation/1253040) | [Wikidata](https://www.wikidata.org/wiki/Q856657) |  | 
 Manzini | SZ-MA | [GeoJSON](../../export/geojson/q7/iso2/SZ/SZ-MA.geojson) | [OSM](https://www.openstreetmap.org/relation/1253032) | [Wikidata](https://www.wikidata.org/wiki/Q305395) |  | 

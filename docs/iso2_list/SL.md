@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Eastern Province | SL-E | [GeoJSON](../../export/geojson/q7/iso2/SL/SL-E.geojson) | [OSM](https://www.openstreetmap.org/relation/3230988) | [Wikidata](https://www.wikidata.org/wiki/Q1050497) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AEastern%20Province%2C%20Sierra%20Leone) | 
 North Western Province | SL-NW | [GeoJSON](../../export/geojson/q7/iso2/SL/SL-NW.geojson) | [OSM](https://www.openstreetmap.org/relation/9636490) | [Wikidata](https://www.wikidata.org/wiki/Q43371075) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ANorth%20West%20Province%2C%20Sierra%20Leone) | 
 Northern Province | SL-N | [GeoJSON](../../export/geojson/q7/iso2/SL/SL-N.geojson) | [OSM](https://www.openstreetmap.org/relation/3230989) | [Wikidata](https://www.wikidata.org/wiki/Q912359) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ANorthern%20Province%2C%20Sierra%20Leone) | 

@@ -3,7 +3,7 @@
 
 #### Level 6
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Aiwo District | NR-01 | [GeoJSON](../../export/geojson/q7/iso2/NR/NR-01.geojson) | [OSM](https://www.openstreetmap.org/relation/8437545) | [Wikidata](https://www.wikidata.org/wiki/Q240017) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAiwo%20District) | 
 Anabar District | NR-02 | [GeoJSON](../../export/geojson/q7/iso2/NR/NR-02.geojson) | [OSM](https://www.openstreetmap.org/relation/8437552) | [Wikidata](https://www.wikidata.org/wiki/Q328735) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAnabar%20District) | 
 Anetan District | NR-03 | [GeoJSON](../../export/geojson/q7/iso2/NR/NR-03.geojson) | [OSM](https://www.openstreetmap.org/relation/8437551) | [Wikidata](https://www.wikidata.org/wiki/Q378813) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAnetan%20District) | 

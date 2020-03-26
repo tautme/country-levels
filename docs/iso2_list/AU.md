@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Australian Capital Territory | AU-ACT | [GeoJSON](../../export/geojson/q7/iso2/AU/AU-ACT.geojson) | [OSM](https://www.openstreetmap.org/relation/2354197) | [Wikidata](https://www.wikidata.org/wiki/Q3258) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAustralian%20Capital%20Territory) | 396857
 New South Wales | AU-NSW | [GeoJSON](../../export/geojson/q7/iso2/AU/AU-NSW.geojson) | [OSM](https://www.openstreetmap.org/relation/2316593) | [Wikidata](https://www.wikidata.org/wiki/Q3224) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ANew%20South%20Wales) | 7480228
 Northern Territory | AU-NT | [GeoJSON](../../export/geojson/q7/iso2/AU/AU-NT.geojson) | [OSM](https://www.openstreetmap.org/relation/2316594) | [Wikidata](https://www.wikidata.org/wiki/Q3235) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ANorthern%20Territory) | 245562

@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Auckland | NZ-AUK | [GeoJSON](../../export/geojson/q7/iso2/NZ/NZ-AUK.geojson) | [OSM](https://www.openstreetmap.org/relation/2094141) | [Wikidata](https://www.wikidata.org/wiki/Q726917) |  | 1570500
 Bay of Plenty | NZ-BOP | [GeoJSON](../../export/geojson/q7/iso2/NZ/NZ-BOP.geojson) | [OSM](https://www.openstreetmap.org/relation/1790755) | [Wikidata](https://www.wikidata.org/wiki/Q2192924) |  | 
 Canterbury | NZ-CAN | [GeoJSON](../../export/geojson/q7/iso2/NZ/NZ-CAN.geojson) | [OSM](https://www.openstreetmap.org/relation/1640137) | [Wikidata](https://www.wikidata.org/wiki/Q657004) |  | 624200

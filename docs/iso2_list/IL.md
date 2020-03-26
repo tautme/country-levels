@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Center District | IL-M | [GeoJSON](../../export/geojson/q7/iso2/IL/IL-M.geojson) | [OSM](https://www.openstreetmap.org/relation/1400928) | [Wikidata](https://www.wikidata.org/wiki/Q188785) | [Wikipedia](http://en.wikipedia.org/wiki/de%3AZentralbezirk%20%28Israel%29) | 2115800
 Haifa District | IL-HA | [GeoJSON](../../export/geojson/q7/iso2/IL/IL-HA.geojson) | [OSM](https://www.openstreetmap.org/relation/1400966) | [Wikidata](https://www.wikidata.org/wiki/Q185845) | [Wikipedia](http://en.wikipedia.org/wiki/de%3ABezirk%20Haifa) | 966700
 Jerusalem District | IL-JM | [GeoJSON](../../export/geojson/q7/iso2/IL/IL-JM.geojson) | [OSM](https://www.openstreetmap.org/relation/1384720) | [Wikidata](https://www.wikidata.org/wiki/Q192232) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AJerusalem%20District) | 1034200

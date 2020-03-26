@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Ajlun | JO-AJ | [GeoJSON](../../export/geojson/q7/iso2/JO/JO-AJ.geojson) | [OSM](https://www.openstreetmap.org/relation/2925616) | [Wikidata](https://www.wikidata.org/wiki/Q506658) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D8%B9%D8%AC%D9%84%D9%88%D9%86%20%28%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%29) | 181000
 Amman | JO-AM | [GeoJSON](../../export/geojson/q7/iso2/JO/JO-AM.geojson) | [OSM](https://www.openstreetmap.org/relation/2926344) | [Wikidata](https://www.wikidata.org/wiki/Q472788) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%20%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9%20%28%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%29) | 4007526
 Aqaba | JO-AQ | [GeoJSON](../../export/geojson/q7/iso2/JO/JO-AQ.geojson) | [OSM](https://www.openstreetmap.org/relation/2926345) | [Wikidata](https://www.wikidata.org/wiki/Q260796) | [Wikipedia](http://en.wikipedia.org/wiki/ar%3A%D8%A7%D9%84%D8%B9%D9%82%D8%A8%D8%A9%20%28%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9%29) | 

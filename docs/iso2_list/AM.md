@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Aragatsotn Province | AM-AG | [GeoJSON](../../export/geojson/q7/iso2/AM/AM-AG.geojson) | [OSM](https://www.openstreetmap.org/relation/3917110) | [Wikidata](https://www.wikidata.org/wiki/Q17915) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D4%B1%D6%80%D5%A1%D5%A3%D5%A1%D5%AE%D5%B8%D5%BF%D5%B6%D5%AB%20%D5%B4%D5%A1%D6%80%D5%A6) | 
 Ararat Province | AM-AR | [GeoJSON](../../export/geojson/q7/iso2/AM/AM-AR.geojson) | [OSM](https://www.openstreetmap.org/relation/364083) | [Wikidata](https://www.wikidata.org/wiki/Q199880) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D4%B1%D6%80%D5%A1%D6%80%D5%A1%D5%BF%D5%AB%20%D5%B4%D5%A1%D6%80%D5%A6) | 260367
 Armavir Province | AM-AV | [GeoJSON](../../export/geojson/q7/iso2/AM/AM-AV.geojson) | [OSM](https://www.openstreetmap.org/relation/364086) | [Wikidata](https://www.wikidata.org/wiki/Q201147) | [Wikipedia](http://en.wikipedia.org/wiki/hy%3A%D4%B1%D6%80%D5%B4%D5%A1%D5%BE%D5%AB%D6%80%D5%AB%20%D5%B4%D5%A1%D6%80%D5%A6) | 

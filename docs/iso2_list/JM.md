@@ -3,7 +3,7 @@
 
 #### Level 6
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Clarendon | JM-13 | [GeoJSON](../../export/geojson/q7/iso2/JM/JM-13.geojson) | [OSM](https://www.openstreetmap.org/relation/1637035) | [Wikidata](https://www.wikidata.org/wiki/Q1095557) |  | 
 Hanover | JM-09 | [GeoJSON](../../export/geojson/q7/iso2/JM/JM-09.geojson) | [OSM](https://www.openstreetmap.org/relation/319347) | [Wikidata](https://www.wikidata.org/wiki/Q1131779) |  | 
 Kingston | JM-01 | [GeoJSON](../../export/geojson/q7/iso2/JM/JM-01.geojson) | [OSM](https://www.openstreetmap.org/relation/6577227) | [Wikidata](https://www.wikidata.org/wiki/Q1473680) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AKingston%20Parish) | 

@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Chuquisaca | BO-H | [GeoJSON](../../export/geojson/q7/iso2/BO/BO-H.geojson) | [OSM](https://www.openstreetmap.org/relation/396197) | [Wikidata](https://www.wikidata.org/wiki/Q235110) | [Wikipedia](http://en.wikipedia.org/wiki/es%3ADepartamento%20de%20Chuquisaca) | 581347
 Cochabamba | BO-C | [GeoJSON](../../export/geojson/q7/iso2/BO/BO-C.geojson) | [OSM](https://www.openstreetmap.org/relation/393562) | [Wikidata](https://www.wikidata.org/wiki/Q233917) | [Wikipedia](http://en.wikipedia.org/wiki/es%3ADepartamento%20de%20Cochabamba) | 1930143
 El Beni | BO-B | [GeoJSON](../../export/geojson/q7/iso2/BO/BO-B.geojson) | [OSM](https://www.openstreetmap.org/relation/405935) | [Wikidata](https://www.wikidata.org/wiki/Q233169) | [Wikipedia](http://en.wikipedia.org/wiki/es%3ADepartamento%20del%20Beni) | 421196

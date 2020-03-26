@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Black River | MU-BL | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-BL.geojson) | [OSM](https://www.openstreetmap.org/relation/3488093) | [Wikidata](https://www.wikidata.org/wiki/Q873740) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ARivi%C3%A8re%20Noire%20District) | 76627
 Flacq | MU-FL | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-FL.geojson) | [OSM](https://www.openstreetmap.org/relation/3488094) | [Wikidata](https://www.wikidata.org/wiki/Q911651) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AFlacq%20District) | 140294
 Grand Port | MU-GP | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-GP.geojson) | [OSM](https://www.openstreetmap.org/relation/3488095) | [Wikidata](https://www.wikidata.org/wiki/Q911635) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AGrand%20Port%20District) | 115546
@@ -17,7 +17,7 @@ Savanne | MU-SA | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-SA.geojson) | [OS
 
 #### Level 5
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Agaléga | MU-AG | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-AG.geojson) | [OSM](https://www.openstreetmap.org/relation/3691785) |  |  | 
 Rodrigues | MU-RO | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-RO.geojson) | [OSM](https://www.openstreetmap.org/relation/3691784) | [Wikidata](https://www.wikidata.org/wiki/Q208668) |  | 41669
 Saint Brandon | MU-CC | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-CC.geojson) | [OSM](https://www.openstreetmap.org/relation/3691786) |  |  | 

@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Belize District | BZ-BZ | [GeoJSON](../../export/geojson/q7/iso2/BZ/BZ-BZ.geojson) | [OSM](https://www.openstreetmap.org/relation/962354) | [Wikidata](https://www.wikidata.org/wiki/Q506056) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABelize%20District) | 110644
 Cayo | BZ-CY | [GeoJSON](../../export/geojson/q7/iso2/BZ/BZ-CY.geojson) | [OSM](https://www.openstreetmap.org/relation/962357) | [Wikidata](https://www.wikidata.org/wiki/Q508773) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACayo%20District) | 90579
 Corozal | BZ-CZL | [GeoJSON](../../export/geojson/q7/iso2/BZ/BZ-CZL.geojson) | [OSM](https://www.openstreetmap.org/relation/962356) | [Wikidata](https://www.wikidata.org/wiki/Q512273) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACorozal%20District) | 46472

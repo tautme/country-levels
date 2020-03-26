@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Capital Territory | SB-CT | [GeoJSON](../../export/geojson/q7/iso2/SB/SB-CT.geojson) | [OSM](https://www.openstreetmap.org/relation/2536278) | [Wikidata](https://www.wikidata.org/wiki/Q40921) |  | 84520
 Central Province | SB-CE | [GeoJSON](../../export/geojson/q7/iso2/SB/SB-CE.geojson) | [OSM](https://www.openstreetmap.org/relation/2536258) | [Wikidata](https://www.wikidata.org/wiki/Q293722) |  | 
 Choiseul Province | SB-CH | [GeoJSON](../../export/geojson/q7/iso2/SB/SB-CH.geojson) | [OSM](https://www.openstreetmap.org/relation/2536259) | [Wikidata](https://www.wikidata.org/wiki/Q399063) |  | 

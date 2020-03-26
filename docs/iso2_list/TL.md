@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Aileu | TL-AL | [GeoJSON](../../export/geojson/q7/iso2/TL/TL-AL.geojson) | [OSM](https://www.openstreetmap.org/relation/4631017) | [Wikidata](https://www.wikidata.org/wiki/Q405100) | [Wikipedia](http://en.wikipedia.org/wiki/pt%3AAileu%20%28munic%C3%ADpio%29) | 48837
 Ainaro | TL-AN | [GeoJSON](../../export/geojson/q7/iso2/TL/TL-AN.geojson) | [OSM](https://www.openstreetmap.org/relation/4631018) | [Wikidata](https://www.wikidata.org/wiki/Q405926) | [Wikipedia](http://en.wikipedia.org/wiki/pt%3AAinaro%20%28munic%C3%ADpio%29) | 63136
 Baucau | TL-BA | [GeoJSON](../../export/geojson/q7/iso2/TL/TL-BA.geojson) | [OSM](https://www.openstreetmap.org/relation/4631019) | [Wikidata](https://www.wikidata.org/wiki/Q811132) | [Wikipedia](http://en.wikipedia.org/wiki/pt%3ABaucau%20%28munic%C3%ADpio%29) | 123203

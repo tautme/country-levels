@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Al Ghuwariyah | QA-GH | [GeoJSON](../../export/geojson/q7/iso2/QA/QA-GH.geojson) | [OSM](https://www.openstreetmap.org/relation/27334) | [Wikidata](https://www.wikidata.org/wiki/Q623609) |  | 
 Al Jamiliyah | QA-JU | [GeoJSON](../../export/geojson/q7/iso2/QA/QA-JU.geojson) | [OSM](https://www.openstreetmap.org/relation/27330) | [Wikidata](https://www.wikidata.org/wiki/Q1147593) |  | 
 Al Khor | QA-KH | [GeoJSON](../../export/geojson/q7/iso2/QA/QA-KH.geojson) | [OSM](https://www.openstreetmap.org/relation/27329) | [Wikidata](https://www.wikidata.org/wiki/Q1156471) |  | 202031

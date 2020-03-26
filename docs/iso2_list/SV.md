@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Departamento de Ahuachapán | SV-AH | [GeoJSON](../../export/geojson/q7/iso2/SV/SV-AH.geojson) | [OSM](https://www.openstreetmap.org/relation/3623374) | [Wikidata](https://www.wikidata.org/wiki/Q572993) |  | 319503
 Departamento de Cabañas | SV-CA | [GeoJSON](../../export/geojson/q7/iso2/SV/SV-CA.geojson) | [OSM](https://www.openstreetmap.org/relation/3624451) | [Wikidata](https://www.wikidata.org/wiki/Q914058) |  | 214150
 Departamento de Chalatenango | SV-CH | [GeoJSON](../../export/geojson/q7/iso2/SV/SV-CH.geojson) | [OSM](https://www.openstreetmap.org/relation/3624440) | [Wikidata](https://www.wikidata.org/wiki/Q522221) | [Wikipedia](http://en.wikipedia.org/wiki/es%3ADepartamento_de_Chalatenango) | 274878

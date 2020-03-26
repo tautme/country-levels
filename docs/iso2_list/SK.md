@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Region of Banská Bystrica | SK-BC | [GeoJSON](../../export/geojson/q7/iso2/SK/SK-BC.geojson) | [OSM](https://www.openstreetmap.org/relation/388270) | [Wikidata](https://www.wikidata.org/wiki/Q183640) |  | 649788
 Region of Bratislava | SK-BL | [GeoJSON](../../export/geojson/q7/iso2/SK/SK-BL.geojson) | [OSM](https://www.openstreetmap.org/relation/388265) | [Wikidata](https://www.wikidata.org/wiki/Q183498) | [Wikipedia](http://en.wikipedia.org/wiki/sk%3ABratislavsk%C3%BD%20kraj) | 650838
 Region of Košice | SK-KI | [GeoJSON](../../export/geojson/q7/iso2/SK/SK-KI.geojson) | [OSM](https://www.openstreetmap.org/relation/388272) | [Wikidata](https://www.wikidata.org/wiki/Q186295) |  | 799217

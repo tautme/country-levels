@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Anseba | ER-AN | [GeoJSON](../../export/geojson/q7/iso2/ER/ER-AN.geojson) | [OSM](https://www.openstreetmap.org/relation/4605384) | [Wikidata](https://www.wikidata.org/wiki/Q569468) |  | 
 Debub Region | ER-DU | [GeoJSON](../../export/geojson/q7/iso2/ER/ER-DU.geojson) | [OSM](https://www.openstreetmap.org/relation/4610903) | [Wikidata](https://www.wikidata.org/wiki/Q27728) |  | 
 Gash-Barka | ER-GB | [GeoJSON](../../export/geojson/q7/iso2/ER/ER-GB.geojson) | [OSM](https://www.openstreetmap.org/relation/4605551) | [Wikidata](https://www.wikidata.org/wiki/Q873012) |  | 

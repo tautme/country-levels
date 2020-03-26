@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Ashanti Region | GH-AH | [GeoJSON](../../export/geojson/q7/iso2/GH/GH-AH.geojson) | [OSM](https://www.openstreetmap.org/relation/3330249) | [Wikidata](https://www.wikidata.org/wiki/Q398417) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AAshanti%20Region) | 
 Bono Region | GH-BA | [GeoJSON](../../export/geojson/q7/iso2/GH/GH-BA.geojson) | [OSM](https://www.openstreetmap.org/relation/3329833) | [Wikidata](https://www.wikidata.org/wiki/Q64685186) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABono%20Region) | 
 Central Region | GH-CP | [GeoJSON](../../export/geojson/q7/iso2/GH/GH-CP.geojson) | [OSM](https://www.openstreetmap.org/relation/3330281) | [Wikidata](https://www.wikidata.org/wiki/Q846323) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACentral%20Region) | 

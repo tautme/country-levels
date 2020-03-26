@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Bamako | ML-BKO | [GeoJSON](../../export/geojson/q7/iso2/ML/ML-BKO.geojson) | [OSM](https://www.openstreetmap.org/relation/2105525) | [Wikidata](https://www.wikidata.org/wiki/Q3703) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ABamako) | 2009109
 Gao | ML-7 | [GeoJSON](../../export/geojson/q7/iso2/ML/ML-7.geojson) | [OSM](https://www.openstreetmap.org/relation/2096895) | [Wikidata](https://www.wikidata.org/wiki/Q332392) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AR%C3%A9gion%20de%20Gao) | 544120
 Kayes | ML-1 | [GeoJSON](../../export/geojson/q7/iso2/ML/ML-1.geojson) | [OSM](https://www.openstreetmap.org/relation/2096896) | [Wikidata](https://www.wikidata.org/wiki/Q332113) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AR%C3%A9gion%20de%20Kayes) | 

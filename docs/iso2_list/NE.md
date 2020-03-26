@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Agadez | NE-1 | [GeoJSON](../../export/geojson/q7/iso2/NE/NE-1.geojson) | [OSM](https://www.openstreetmap.org/relation/3218798) | [Wikidata](https://www.wikidata.org/wiki/Q389944) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AAgadez%20%28r%C3%A9gion%29) | 487620
 Diffa | NE-2 | [GeoJSON](../../export/geojson/q7/iso2/NE/NE-2.geojson) | [OSM](https://www.openstreetmap.org/relation/3218799) | [Wikidata](https://www.wikidata.org/wiki/Q1053302) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ADiffa%20%28r%C3%A9gion%29) | 593821
 Dosso | NE-3 | [GeoJSON](../../export/geojson/q7/iso2/NE/NE-3.geojson) | [OSM](https://www.openstreetmap.org/relation/3218802) | [Wikidata](https://www.wikidata.org/wiki/Q850055) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ADosso%20%28r%C3%A9gion%29) | 2037713

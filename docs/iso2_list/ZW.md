@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Bulawayo Province | ZW-BU | [GeoJSON](../../export/geojson/q7/iso2/ZW/ZW-BU.geojson) | [OSM](https://www.openstreetmap.org/relation/3337019) | [Wikidata](https://www.wikidata.org/wiki/Q193250) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABulawayo) | 653337
 Harare Province | ZW-HA | [GeoJSON](../../export/geojson/q7/iso2/ZW/ZW-HA.geojson) | [OSM](https://www.openstreetmap.org/relation/318467) | [Wikidata](https://www.wikidata.org/wiki/Q3921) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AHarare) | 1606000
 Manicaland | ZW-MA | [GeoJSON](../../export/geojson/q7/iso2/ZW/ZW-MA.geojson) | [OSM](https://www.openstreetmap.org/relation/3336975) | [Wikidata](https://www.wikidata.org/wiki/Q465847) | [Wikipedia](http://en.wikipedia.org/wiki/en%3AManicaland%20Province) | 

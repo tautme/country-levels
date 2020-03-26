@@ -3,7 +3,7 @@
 
 #### Level 6
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Christ Church | BB-01 | [GeoJSON](../../export/geojson/q7/iso2/BB/BB-01.geojson) | [OSM](https://www.openstreetmap.org/relation/3961378) | [Wikidata](https://www.wikidata.org/wiki/Q1626524) |  | 
 Saint Andrew | BB-02 | [GeoJSON](../../export/geojson/q7/iso2/BB/BB-02.geojson) | [OSM](https://www.openstreetmap.org/relation/3961379) | [Wikidata](https://www.wikidata.org/wiki/Q1647439) |  | 
 Saint George | BB-03 | [GeoJSON](../../export/geojson/q7/iso2/BB/BB-03.geojson) | [OSM](https://www.openstreetmap.org/relation/3961988) | [Wikidata](https://www.wikidata.org/wiki/Q1647443) |  | 

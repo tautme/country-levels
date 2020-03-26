@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Brčko District | BA-BRC | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-BRC.geojson) | [OSM](https://www.openstreetmap.org/relation/2528143) | [Wikidata](https://www.wikidata.org/wiki/Q194483) | [Wikipedia](http://en.wikipedia.org/wiki/bs%3ABr%C4%8Dko%20Distrikt) | 
 Federation of Bosnia and Herzegovina | BA-BIH | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-BIH.geojson) | [OSM](https://www.openstreetmap.org/relation/2528144) | [Wikidata](https://www.wikidata.org/wiki/Q11198) | [Wikipedia](http://en.wikipedia.org/wiki/bs%3AFederacija%20Bosne%20i%20Hercegovine) | 2219220
 Republika Srpska | BA-SRP | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-SRP.geojson) | [OSM](https://www.openstreetmap.org/relation/2528145) | [Wikidata](https://www.wikidata.org/wiki/Q11196) | [Wikipedia](http://en.wikipedia.org/wiki/sr%3A%D0%A0%D0%B5%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%20%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B0) | 1228423
@@ -11,7 +11,7 @@ Republika Srpska | BA-SRP | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-SRP.geo
 
 #### Level 5
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Bosnian Podrinje Canton | BA-05 | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-05.geojson) | [OSM](https://www.openstreetmap.org/relation/2528146) | [Wikidata](https://www.wikidata.org/wiki/Q18256) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABosnian-Podrinje%20Canton%20Gora%C5%BEde) | 
 Central Bosnia Canton | BA-06 | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-06.geojson) | [OSM](https://www.openstreetmap.org/relation/2528148) | [Wikidata](https://www.wikidata.org/wiki/Q18262) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACentral%20Bosnia%20Canton) | 
 Herzeg-Bosnia Canton | BA-10 | [GeoJSON](../../export/geojson/q7/iso2/BA/BA-10.geojson) | [OSM](https://www.openstreetmap.org/relation/2528147) | [Wikidata](https://www.wikidata.org/wiki/Q18277) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ACanton%2010) | 

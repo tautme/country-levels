@@ -3,7 +3,7 @@
 
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | --: 
 Artibonite Department | HT-AR | [GeoJSON](../../export/geojson/q7/iso2/HT/HT-AR.geojson) | [OSM](https://www.openstreetmap.org/relation/392238) | [Wikidata](https://www.wikidata.org/wiki/Q844024) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3AArtibonite%20%28d%C3%A9partement%20d%27Ha%C3%AFti%29) | 
 Centre Department | HT-CE | [GeoJSON](../../export/geojson/q7/iso2/HT/HT-CE.geojson) | [OSM](https://www.openstreetmap.org/relation/392213) | [Wikidata](https://www.wikidata.org/wiki/Q844528) | [Wikipedia](http://en.wikipedia.org/wiki/fr%3ACentre%20%28d%C3%A9partement%20d%27Ha%C3%AFti%29) | 
 Département de l'Ouest | HT-OU | [GeoJSON](../../export/geojson/q7/iso2/HT/HT-OU.geojson) | [OSM](https://www.openstreetmap.org/relation/386871) | [Wikidata](https://www.wikidata.org/wiki/Q1434621) |  | 
