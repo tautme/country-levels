@@ -1,6 +1,13 @@
 # ISO 3166-2 list: AG
 
 
+#### Level 4
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --- 
+Barbuda | AG-10 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-10.geojson) | [OSM](https://www.openstreetmap.org/relation/7742426) | [Wikidata](https://www.wikidata.org/wiki/Q238752) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABarbuda) | 1638
+Redonda | AG-11 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-11.geojson) | [OSM](https://www.openstreetmap.org/relation/7742427) | [Wikidata](https://www.wikidata.org/wiki/Q457261) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ARedonda) | 
+
+
 #### Level 6
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
@@ -10,10 +17,3 @@ Saint Mary | AG-05 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-05.geojson) | 
 Saint Paul | AG-06 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-06.geojson) | [OSM](https://www.openstreetmap.org/relation/9604629) | [Wikidata](https://www.wikidata.org/wiki/Q386093) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ASaint%20Paul%20Parish%2C%20Antigua%20and%20Barbuda) | 7979
 Saint Peter | AG-07 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-07.geojson) | [OSM](https://www.openstreetmap.org/relation/9604794) | [Wikidata](https://www.wikidata.org/wiki/Q1952603) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ASaint%20Peter%20Parish%2C%20Antigua%20and%20Barbuda) | 5307
 Saint Philip | AG-08 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-08.geojson) | [OSM](https://www.openstreetmap.org/relation/9604456) | [Wikidata](https://www.wikidata.org/wiki/Q1996895) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ASaint%20Philip%20Parish%2C%20Antigua%20and%20Barbuda) | 3125
-
-
-#### Level 4
-Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
-Barbuda | AG-10 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-10.geojson) | [OSM](https://www.openstreetmap.org/relation/7742426) | [Wikidata](https://www.wikidata.org/wiki/Q238752) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ABarbuda) | 1638
-Redonda | AG-11 | [GeoJSON](../../export/geojson/q7/iso2/AG/AG-11.geojson) | [OSM](https://www.openstreetmap.org/relation/7742427) | [Wikidata](https://www.wikidata.org/wiki/Q457261) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ARedonda) | 

@@ -1,12 +1,6 @@
 # ISO 3166-2 list: IS
 
 
-#### Level 6
-Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
-Reykjavik | IS-0 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-0.geojson) | [OSM](https://www.openstreetmap.org/relation/2580605) | [Wikidata](https://www.wikidata.org/wiki/Q1764) | [Wikipedia](http://en.wikipedia.org/wiki/is%3AReykjav%C3%ADk) | 128793
-
-
 #### Level 5
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
@@ -18,3 +12,9 @@ Southern Peninsula | IS-2 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-2.geojs
 Southern Region | IS-8 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-8.geojson) | [OSM](https://www.openstreetmap.org/relation/4002410) | [Wikidata](https://www.wikidata.org/wiki/Q204796) |  | 23311
 Western Region | IS-3 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-3.geojson) | [OSM](https://www.openstreetmap.org/relation/4001119) | [Wikidata](https://www.wikidata.org/wiki/Q221791) |  | 15766
 Westfjords | IS-4 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-4.geojson) | [OSM](https://www.openstreetmap.org/relation/4001093) | [Wikidata](https://www.wikidata.org/wiki/Q727267) |  | 6883
+
+
+#### Level 6
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --- 
+Reykjavik | IS-0 | [GeoJSON](../../export/geojson/q7/iso2/IS/IS-0.geojson) | [OSM](https://www.openstreetmap.org/relation/2580605) | [Wikidata](https://www.wikidata.org/wiki/Q1764) | [Wikipedia](http://en.wikipedia.org/wiki/is%3AReykjav%C3%ADk) | 128793

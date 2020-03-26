@@ -1,6 +1,14 @@
 # ISO 3166-2 list: GW
 
 
+#### Level 3
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --- 
+Província Leste | GW-L | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-L.geojson) | [OSM](https://www.openstreetmap.org/relation/3663542) | [Wikidata](https://www.wikidata.org/wiki/Q13378473) |  | 
+Província Norte | GW-N | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-N.geojson) | [OSM](https://www.openstreetmap.org/relation/3663587) | [Wikidata](https://www.wikidata.org/wiki/Q13378475) |  | 
+Província Sul | GW-S | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-S.geojson) | [OSM](https://www.openstreetmap.org/relation/3663636) | [Wikidata](https://www.wikidata.org/wiki/Q13378476) |  | 
+
+
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
@@ -13,11 +21,3 @@ Região de Gabu | GW-GA | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-GA.geojso
 Região de Oio | GW-OI | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-OI.geojson) | [OSM](https://www.openstreetmap.org/relation/1761584) | [Wikidata](https://www.wikidata.org/wiki/Q853991) |  | 224644
 Região de Quinara | GW-QU | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-QU.geojson) | [OSM](https://www.openstreetmap.org/relation/1761585) | [Wikidata](https://www.wikidata.org/wiki/Q862617) |  | 63610
 Região de Tombali | GW-TO | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-TO.geojson) | [OSM](https://www.openstreetmap.org/relation/1761586) | [Wikidata](https://www.wikidata.org/wiki/Q1047255) |  | 91089
-
-
-#### Level 3
-Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
-Província Leste | GW-L | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-L.geojson) | [OSM](https://www.openstreetmap.org/relation/3663542) | [Wikidata](https://www.wikidata.org/wiki/Q13378473) |  | 
-Província Norte | GW-N | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-N.geojson) | [OSM](https://www.openstreetmap.org/relation/3663587) | [Wikidata](https://www.wikidata.org/wiki/Q13378475) |  | 
-Província Sul | GW-S | [GeoJSON](../../export/geojson/q7/iso2/GW/GW-S.geojson) | [OSM](https://www.openstreetmap.org/relation/3663636) | [Wikidata](https://www.wikidata.org/wiki/Q13378476) |  | 

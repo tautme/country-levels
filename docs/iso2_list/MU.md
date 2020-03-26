@@ -1,14 +1,6 @@
 # ISO 3166-2 list: MU
 
 
-#### Level 5
-Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
-Agaléga | MU-AG | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-AG.geojson) | [OSM](https://www.openstreetmap.org/relation/3691785) |  |  | 
-Rodrigues | MU-RO | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-RO.geojson) | [OSM](https://www.openstreetmap.org/relation/3691784) | [Wikidata](https://www.wikidata.org/wiki/Q208668) |  | 41669
-Saint Brandon | MU-CC | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-CC.geojson) | [OSM](https://www.openstreetmap.org/relation/3691786) |  |  | 
-
-
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
@@ -21,3 +13,11 @@ Plaines Wilhems | MU-PW | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-PW.geojso
 Port Louis | MU-PL | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-PL.geojson) | [OSM](https://www.openstreetmap.org/relation/3488099) | [Wikidata](https://www.wikidata.org/wiki/Q960645) | [Wikipedia](http://en.wikipedia.org/wiki/en%3APort%20Louis%20District) | 
 Rivière du Rempart | MU-RR | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-RR.geojson) | [OSM](https://www.openstreetmap.org/relation/3488100) | [Wikidata](https://www.wikidata.org/wiki/Q1053565) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ARivi%C3%A8re%20du%20Rempart%20District) | 
 Savanne | MU-SA | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-SA.geojson) | [OSM](https://www.openstreetmap.org/relation/3488101) | [Wikidata](https://www.wikidata.org/wiki/Q1053600) | [Wikipedia](http://en.wikipedia.org/wiki/en%3ASavanne%20District) | 
+
+
+#### Level 5
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --- 
+Agaléga | MU-AG | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-AG.geojson) | [OSM](https://www.openstreetmap.org/relation/3691785) |  |  | 
+Rodrigues | MU-RO | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-RO.geojson) | [OSM](https://www.openstreetmap.org/relation/3691784) | [Wikidata](https://www.wikidata.org/wiki/Q208668) |  | 41669
+Saint Brandon | MU-CC | [GeoJSON](../../export/geojson/q7/iso2/MU/MU-CC.geojson) | [OSM](https://www.openstreetmap.org/relation/3691786) |  |  | 

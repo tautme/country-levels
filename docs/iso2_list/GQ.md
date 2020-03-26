@@ -1,6 +1,13 @@
 # ISO 3166-2 list: GQ
 
 
+#### Level 3
+Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
+--- | --- | --- | --- | --- | --- | --- 
+Región Continental | GQ-C | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-C.geojson) | [OSM](https://www.openstreetmap.org/relation/2793044) |  |  | 
+Región Insular | GQ-I | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-I.geojson) | [OSM](https://www.openstreetmap.org/relation/2793045) |  |  | 
+
+
 #### Level 4
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --- 
@@ -11,10 +18,3 @@ Centro Sur | GQ-CS | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-CS.geojson) | 
 Kié-Ntem | GQ-KN | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-KN.geojson) | [OSM](https://www.openstreetmap.org/relation/3728410) | [Wikidata](https://www.wikidata.org/wiki/Q853393) |  | 
 Litoral | GQ-LI | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-LI.geojson) | [OSM](https://www.openstreetmap.org/relation/3728364) | [Wikidata](https://www.wikidata.org/wiki/Q203873) |  | 400415
 Wele-Nzas | GQ-WN | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-WN.geojson) | [OSM](https://www.openstreetmap.org/relation/3728448) | [Wikidata](https://www.wikidata.org/wiki/Q853400) |  | 
-
-
-#### Level 3
-Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
---- | --- | --- | --- | --- | --- | --- 
-Región Continental | GQ-C | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-C.geojson) | [OSM](https://www.openstreetmap.org/relation/2793044) |  |  | 
-Región Insular | GQ-I | [GeoJSON](../../export/geojson/q7/iso2/GQ/GQ-I.geojson) | [OSM](https://www.openstreetmap.org/relation/2793045) |  |  | 
