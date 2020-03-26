@@ -40,6 +40,8 @@ The GeoJSON files are from OpenStreetMap, [© OpenStreetMap contributors](https:
 
 Population information and corrections are from [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page), under Public Domain [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 
+The US County shapes and FIPS codes are from the [US Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html).
+
 
 
 The map screenshots in this readme [© Mapbox](https://www.mapbox.com/about/maps/) [© OpenStreetMap](https://openstreetmap.org/about/).
