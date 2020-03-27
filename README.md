@@ -18,7 +18,7 @@ ISO2 is referring to [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) coun
 
 GeoJSON files are served in different quality levels, *q5* refers to smallest, *q7* to medium and *q8* to higher quality extracts.
 
-GeoJSON files and JSON catalogs are provided in the [export](export) folder.
+You can download the full planet dataset in ZIP in the [releases](https://github.com/hyperknot/country-levels/releases) tab. GeoJSON files and JSON catalogs are also browsable in the [export](export) folder.
 
 
 #### [ISO country code list](docs/iso1_list.md)
