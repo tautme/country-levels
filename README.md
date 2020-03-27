@@ -1,6 +1,6 @@
 # Country Levels
 
-Country Levels project contains GeoJSON extracts, based on ISO and FIPS codes. 
+Country Levels project contains full planet GeoJSON extracts, based on ISO and FIPS codes.
 
 International data is based on OpenStreetMap and Wikidata. US data is from on US Census Bureau.
 
@@ -30,7 +30,7 @@ Country level IDs are optional and are included with each GeoJSON. They simply c
 
 For example:
 
-- Spain is `iso1:ES` 
+- Spain is `iso1:ES`
 - Castilla y León is `iso2:ES-CL`
 - Santa Clara County, CA is `fips:06085`
 
