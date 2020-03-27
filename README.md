@@ -1,10 +1,10 @@
 # Country Levels
 
-Country Levels are GeoJSON extracts, based on ISO and FIPS codes. 
+Country Levels project contains GeoJSON extracts, based on ISO and FIPS codes. 
 
-International data is based on OpenStreetMap and Wikidata, including up-to-date population numbers.
+International data is based on OpenStreetMap and Wikidata. US data is from on US Census Bureau.
 
-US data is based on US Census Bureau files.
+Both include up-to-date population numbers.
 
 #### [ISO country code list](docs/iso1_list.md)
 ISO1 is referring to [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country codes, for example `ES` for Spain.
@@ -72,4 +72,3 @@ If you have [direnv](https://direnv.net/) installed, the virtualenv will activat
 
 #### [ISO country code list](docs/iso1_list.md)
 #### [US county list (FIPS)](docs/fips_list.md)
-
