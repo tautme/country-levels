@@ -4,7 +4,8 @@ Country Levels are GeoJSON extracts from OpenStreetMap, based on ISO codes.
 
 It builds on data from both OpenStreetMap and Wikidata, allowing up-to-date population information.
 
-## [ISO code list](docs/iso1_list.md) - [US Counties list](docs/fips_list.md)
+### [ISO code list](docs/iso1_list.md)
+### [US Counties list](docs/fips_list.md)
 
 ISO1 is referring to [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country codes, for example `ES` for Spain.
 
@@ -20,8 +21,8 @@ GeoJSON files and JSON catalogs are provided in the [export](export) folder.
 
 
 
-## [ISO code list](docs/iso1_list.md)
-## [US Counties list](docs/fips_list.md)
+### [ISO code list](docs/iso1_list.md)
+### [US Counties list](docs/fips_list.md)
 
 
 
