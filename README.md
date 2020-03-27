@@ -7,6 +7,7 @@ International data is based on OpenStreetMap and Wikidata. US data is from on US
 Both include up-to-date population numbers.
 
 #### [ISO country code list](docs/iso1_list.md)
+
 ISO1 is referring to [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) country codes, for example `ES` for Spain.
 
 <img src="docs/assets/es_resize.jpg" width="400">
@@ -21,7 +22,7 @@ GeoJSON files and JSON catalogs are provided in the [export](export) folder.
 
 
 #### [ISO country code list](docs/iso1_list.md)
-#### [US county list (FIPS)](docs/fips_list.md)
+#### [US county list (FIPS codes)](docs/fips_list.md)
 
 ### Country Level IDs
 
@@ -68,7 +69,5 @@ Steps:
 
 If you have [direnv](https://direnv.net/) installed, the virtualenv will activate/deactivate automatically upon entering/exiting this project.
 
-
-
 #### [ISO country code list](docs/iso1_list.md)
-#### [US county list (FIPS)](docs/fips_list.md)
+#### [US county list (FIPS codes)](docs/fips_list.md)
