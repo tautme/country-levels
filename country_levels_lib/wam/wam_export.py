@@ -1,11 +1,11 @@
 import shutil
 
-from country_levels_lib import fips_utils
+from country_levels_lib.fips import fips_utils
 from country_levels_lib.config import geojson_dir, export_dir
 from country_levels_lib.geo import calculate_centroid, find_timezone
 from country_levels_lib.utils import read_json, osm_url, write_json
-from country_levels_lib.wam_collect import validate_iso1, validate_iso2
-from country_levels_lib.wam_download import wam_data_dir
+from country_levels_lib.wam.wam_collect import validate_iso1, validate_iso2
+from country_levels_lib.wam.wam_download import wam_data_dir
 
 wam_geojson_simp_dir = geojson_dir / 'wam' / 'simp'
 

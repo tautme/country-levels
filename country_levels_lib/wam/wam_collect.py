@@ -4,9 +4,9 @@ import re
 
 from country_levels_lib.config import geojson_dir
 from country_levels_lib.utils import read_json, osm_url, wikidata_url, write_json
-from country_levels_lib.wam_download import wam_geojson_download_dir, wam_data_dir
-from country_levels_lib.wikidata_iso import get_osm_iso1_map, get_osm_wd_map, get_osm_iso2_map
-from country_levels_lib.wikidata_population import get_population
+from country_levels_lib.wam.wam_download import wam_geojson_download_dir, wam_data_dir
+from country_levels_lib.wikidata.wikidata_iso import get_osm_iso1_map, get_osm_wd_map, get_osm_iso2_map
+from country_levels_lib.wikidata.wikidata_population import get_population
 
 collected_dir = geojson_dir / 'wam' / 'collected'
 iso1_found_path = collected_dir / 'iso1.ndjson'
