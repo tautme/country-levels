@@ -18,13 +18,14 @@ ISO2 is referring to [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2) coun
 
 GeoJSON files are served in different quality levels, *q5* refers to smallest, *q7* to medium and *q8* to higher quality extracts.
 
-You can download the full planet dataset in ZIP in the [releases](https://github.com/hyperknot/country-levels/releases) tab. 
+You can download the full planet dataset in ZIP in the [releases](https://github.com/hyperknot/country-levels-releases/releases) repo. 
 
 GeoJSON files and JSON catalogs are also browsable in the [export](export) folder.
 
 
 #### [ISO country code list](docs/iso1_list.md)
 #### [US county list (FIPS codes)](docs/fips_list.md)
+#### [BR municipality list (IBGE codes)](docs/br_muni_list.md)
 
 ### Country Level IDs
 
@@ -82,3 +83,4 @@ If you have [direnv](https://direnv.net/) installed, the virtualenv will activat
 
 #### [ISO country code list](docs/iso1_list.md)
 #### [US county list (FIPS codes)](docs/fips_list.md)
+#### [BR municipality list (IBGE codes)](docs/br_muni_list.md)
