@@ -10,5 +10,7 @@ Population information and corrections are from [Wikidata](https://www.wikidata.
 
 The US County shapes and FIPS codes are from the [US Census Bureau](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html).
 
-Brazilian municipality data was generated using [IBGE's geo data](http://www.ibge.gov.br/).
+Brazilian municipality data and IBGE codes are from [IBGE](http://www.ibge.gov.br/) - Brazilian Institute of Geography and Statistics.
+
+
 
