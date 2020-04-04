@@ -1,5 +1,5 @@
 # Brazil municipality IBGE code list
-[GeoJSON for all counties](../export/geojson/q5/br_muni_all.geojson)
+[GeoJSON for all municipalities](../export/geojson/q5/br_muni_all.geojson)
 
 #### AC
 Name | IBGE code | GeoJSON | population 
