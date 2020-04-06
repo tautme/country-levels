@@ -1,9 +1,10 @@
 import re
-from pprint import pprint
 
-from country_levels_lib.config import geojson_dir, id_dir, wikidata_dir
+from country_levels_lib.config import geojson_dir, wikidata_dir, export_dir
 from country_levels_lib.utils import read_json, write_json
 
+ne_id_dir = export_dir / 'id'
+ne3_dir = ne_id_dir / 'ne3'
 
 fix_iso_0_codes = {'FRA': 'FR', 'NOR': 'NO'}
 iso_012_regex = re.compile('[A-Z]{2,3}')
@@ -126,8 +127,8 @@ def process_ne012():
     cleanup_sub1(levels)
     one_to_one_fix(levels)
 
-    id_dir.mkdir(exist_ok=True, parents=True)
-    write_json(id_dir / 'ne012.json', levels, indent=2, sort_keys=True)
+    ne_id_dir.mkdir(exist_ok=True, parents=True)
+    write_json(ne_id_dir / 'ne012.json', levels, indent=2, sort_keys=True)
 
 
 def create_adm_iso_map(countries: list):

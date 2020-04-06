@@ -1,9 +1,8 @@
 from country_levels_lib.config import (
-    id_dir,
     geojson_dir,
-    ne3_dir,
     export_geojson_dir,
 )
+from country_levels_lib.ne.ne_012 import ne_id_dir, ne3_dir
 from country_levels_lib.utils import read_json, write_json
 
 simp_map = {
@@ -15,7 +14,7 @@ simp_map = {
 
 
 def export_ne0(simp: int):
-    levels = read_json(id_dir / 'ne012.json')
+    levels = read_json(ne_id_dir / 'ne012.json')
     simp_str = f'-{simp}' if simp else ''
     countries = read_json(geojson_dir / f'countries{simp_str}.geojson')['features']
 
@@ -44,7 +43,7 @@ def export_ne0(simp: int):
 
 
 def export_ne1(simp: int):
-    levels = read_json(id_dir / 'ne012.json')
+    levels = read_json(ne_id_dir / 'ne012.json')
     simp_str = f'-{simp}' if simp else ''
     units = read_json(geojson_dir / f'units{simp_str}.geojson')['features']
 
@@ -85,7 +84,7 @@ def export_ne1(simp: int):
 
 
 def export_ne2(simp: int):
-    levels = read_json(id_dir / 'ne012.json')
+    levels = read_json(ne_id_dir / 'ne012.json')
     simp_str = f'-{simp}' if simp else ''
     subunits = read_json(geojson_dir / f'subunits{simp_str}.geojson')['features']
 
