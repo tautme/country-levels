@@ -5,7 +5,7 @@
 Name | ISO2 | GeoJSON | OSM | Wikidata | Wikipedia | population 
 --- | --- | --- | --- | --- | --- | --: 
 Andalusia | ES-AN | [GeoJSON](../../export/geojson/q8/iso2/ES/ES-AN.geojson) | [OSM](https://www.openstreetmap.org/relation/349044) | [Wikidata](https://www.wikidata.org/wiki/Q5783) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AAndaluc%C3%ADa) | 8,409,738
-Aragon | ES-AR | [GeoJSON](../../export/geojson/q8/iso2/ES/ES-AR.geojson) | [OSM](https://www.openstreetmap.org/relation/349045) | [Wikidata](https://www.wikidata.org/wiki/Q4040) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AArag%C3%B3n) | 
+Aragon | ES-AR | [GeoJSON](../../export/geojson/q8/iso2/ES/ES-AR.geojson) | [OSM](https://www.openstreetmap.org/relation/349045) | [Wikidata](https://www.wikidata.org/wiki/Q4040) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AArag%C3%B3n) | 1,324,397
 Asturias | ES-AS | [GeoJSON](../../export/geojson/q8/iso2/ES/ES-AS.geojson) | [OSM](https://www.openstreetmap.org/relation/349033) | [Wikidata](https://www.wikidata.org/wiki/Q3934) | [Wikipedia](http://en.wikipedia.org/wiki/es%3AAsturias) | 1,028,244
 Balearic Islands | ES-IB | [GeoJSON](../../export/geojson/q8/iso2/ES/ES-IB.geojson) | [OSM](https://www.openstreetmap.org/relation/348981) | [Wikidata](https://www.wikidata.org/wiki/Q5765) | [Wikipedia](http://en.wikipedia.org/wiki/ca%3AIlles%20Balears) | 1,150,839
 Basque Country | ES-PV | [GeoJSON](../../export/geojson/q8/iso2/ES/ES-PV.geojson) | [OSM](https://www.openstreetmap.org/relation/349042) | [Wikidata](https://www.wikidata.org/wiki/Q3995) | [Wikipedia](http://en.wikipedia.org/wiki/es%3APa%C3%ADs%20Vasco) | 2,167,707
