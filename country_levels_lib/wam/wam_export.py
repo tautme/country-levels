@@ -1,7 +1,7 @@
 import shutil
 
 from country_levels_lib.fips import fips_utils
-from country_levels_lib.config import geojson_dir, export_dir
+from country_levels_lib.config import geojson_dir, export_dir, fixes_dir
 from country_levels_lib.geo import calculate_centroid, find_timezone
 from country_levels_lib.utils import read_json, osm_url, write_json
 from country_levels_lib.wam.wam_collect import validate_iso1, validate_iso2
@@ -23,6 +23,7 @@ def split_geojson(iso_level: int, simp_level, *, debug: bool = False):
     level_subdir.mkdir(parents=True)
 
     population_map = read_json(wam_data_dir / 'population.json')
+    population_fixes = read_json(fixes_dir / 'population.json')
     us_states_by_postal = fips_utils.get_state_data()[1]
 
     json_data = dict()
@@ -42,6 +43,8 @@ def split_geojson(iso_level: int, simp_level, *, debug: bool = False):
         wikidata_id = prop.pop('wikidata_id', None)
         countrylevel_id = f'iso{iso_level}:{iso}'
         population = population_map.get(wikidata_id)
+        if countrylevel_id in population_fixes:
+            population = population_fixes[countrylevel_id]
 
         timezone = alltags.pop('timezone', None)
         if not timezone:

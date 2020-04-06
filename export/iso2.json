@@ -8814,6 +8814,7 @@
     "iso2": "CN-GZ",
     "name": "Guizhou",
     "osm_id": 286937,
+    "population": 35800000,
     "timezone": "Asia/Chongqing",
     "wikidata_id": "Q47097",
     "wikipedia_id": "zh:贵州省"
@@ -14190,6 +14191,7 @@
     "iso2": "ES-AR",
     "name": "Aragon",
     "osm_id": 349045,
+    "population": 1324397,
     "timezone": "Europe/Madrid",
     "wikidata_id": "Q4040",
     "wikipedia_id": "es:Aragón"
