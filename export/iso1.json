@@ -274,7 +274,7 @@
     "iso1": "BE",
     "name": "Belgium",
     "osm_id": 52411,
-    "population": 11372068,
+    "population": 11431406,
     "timezone": "Europe/Brussels",
     "wikidata_id": "Q31",
     "wikipedia_id": "nl:België"
@@ -551,7 +551,7 @@
     "iso1": "CD",
     "name": "Democratic Republic of the Congo",
     "osm_id": 192795,
-    "population": 86790567,
+    "population": 91931000,
     "timezone": "Africa/Lubumbashi",
     "wikidata_id": "Q974",
     "wikipedia_id": "fr:République démocratique du Congo"
@@ -801,7 +801,7 @@
     "iso1": "DE",
     "name": "Germany",
     "osm_id": 51477,
-    "population": 82979100,
+    "population": 83149300,
     "timezone": "Europe/Berlin",
     "wikidata_id": "Q183",
     "wikipedia_id": "de:Deutschland"
@@ -941,7 +941,7 @@
     "iso1": "ER",
     "name": "Eritrea",
     "osm_id": 296961,
-    "population": 3497117,
+    "population": 3497000,
     "timezone": "Africa/Asmara",
     "wikidata_id": "Q986",
     "wikipedia_id": "ar:إرتريا"
@@ -1067,7 +1067,7 @@
     "iso1": "FX",
     "name": "Metropolitan France",
     "osm_id": 1403916,
-    "population": 65018000,
+    "population": 64897954,
     "timezone": "Europe/Paris",
     "wikidata_id": "Q212429",
     "wikipedia_id": "fr:France métropolitaine"
@@ -1762,7 +1762,7 @@
     "iso1": "KZ",
     "name": "Kazakhstan",
     "osm_id": 214665,
-    "population": 18037646,
+    "population": 18276500,
     "timezone": "Asia/Almaty",
     "wikidata_id": "Q232",
     "wikipedia_id": "kk:Қазақстан"
@@ -1888,7 +1888,7 @@
     "iso1": "LU",
     "name": "Luxembourg",
     "osm_id": 2171347,
-    "population": 613900,
+    "population": 626108,
     "timezone": "Europe/Luxembourg",
     "wikidata_id": "Q32",
     "wikipedia_id": "en:Luxembourg"
@@ -2418,7 +2418,7 @@
     "iso1": "OM",
     "name": "Oman",
     "osm_id": 305138,
-    "population": 4636262,
+    "population": 4829480,
     "timezone": "Asia/Muscat",
     "wikidata_id": "Q842",
     "wikipedia_id": "ar:سلطنة عمان"
@@ -3017,7 +3017,7 @@
     "iso1": "TD",
     "name": "Chad",
     "osm_id": 2361304,
-    "population": 15228584,
+    "population": 15477751,
     "timezone": "Africa/Ndjamena",
     "wikidata_id": "Q657",
     "wikipedia_id": "ar:تشاد"
@@ -3114,7 +3114,7 @@
     "iso1": "TM",
     "name": "Turkmenistan",
     "osm_id": 223026,
-    "population": 5125693,
+    "population": 5850901,
     "timezone": "Asia/Ashgabat",
     "wikidata_id": "Q874",
     "wikipedia_id": "en:Turkmenistan"

@@ -39,6 +39,11 @@ path-source@0.1:
     array-source "0.0"
     file-source "0.6"
 
+prettier@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.0.3.tgz#9a06f0e94a51420e78b6925568b5bec72afe41ea"
+  integrity sha512-5qpBDBHO9fpE0zruKiTZm8Gxmz7kknO+WlQR/ivV+RMwgDw/WjOgmxLDn66MPrxq/WZPx/EgEZzh87xJO5E6Fw==
+
 shapefile@^0.6.6:
   version "0.6.6"
   resolved "https://registry.yarnpkg.com/shapefile/-/shapefile-0.6.6.tgz#6fee152b9fb2b1c85f690285b692fb68c95a5f4f"
